@@ -1,0 +1,29 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559516968969">
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="4059215541" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
+    <file name="bgv.ogg" crc="518134660" seo="true" mt="1559515393000"/>
+    <file name="bgv.webm" crc="214639426" seo="true" mt="1559515375000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
+    <file name="title.png" crc="4127767884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="title_2x.png" crc="276863662" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="321728179" seo="true" mt="1559516960183" redirect="true"/>
+</manifest>
