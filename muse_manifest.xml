@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559584489729">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559584624781">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4129113247" ref="index"/>
-    <file name="english.css" crc="135169613" ref="english"/>
+    <file name="english.css" crc="17475642" ref="english"/>
   </folder>
   <folder name="assets">
     <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
@@ -49,7 +49,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
-    <file name="dishwasher-2880x1920.jpg" crc="530156300" ref="english">
+    <file name="dishwasher-2880x1920.jpg" crc="4213056207" ref="english">
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
@@ -144,5 +144,5 @@
     </file>
   </folder>
   <file name="index.html" crc="35322131" seo="true" mt="1559584232679" redirect="true"/>
-  <file name="english.html" crc="4047193639" seo="true" mt="1559584483889" redirect="true"/>
+  <file name="english.html" crc="227672509" seo="true" mt="1559584622529" redirect="true"/>
 </manifest>
