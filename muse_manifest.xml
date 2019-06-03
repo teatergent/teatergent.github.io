@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559595212480">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559604669585">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4247755842" ref="index"/>
+    <file name="index.css" crc="3993584832" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -35,7 +35,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
-    <file name="dishwasher-2880x1920.jpg" crc="4213056207" ref="index">
+    <file name="dishwasher-2880x1920.jpg" crc="346812095" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
@@ -96,73 +96,73 @@
       <caption webpage="english" alt=""/>
     </file>
     <file name="title_white.png" crc="3823747119" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="title_white_2x.png" crc="3863262055" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="scroll.png" crc="4186625531" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="scroll_2x.png" crc="68740885" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="camellia-2880x2880.jpg" crc="38068682" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="hint.png" crc="3938283780" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="hint_2x.png" crc="85423655" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="dots.png" crc="4224422750" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="dots_2x.png" crc="4046047757" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="intro-6.png" crc="4233552535" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="intro-6_2x.png" crc="3766101596" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="gmark.png" crc="73875937" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="theasaponin.png" crc="482675278" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="theasaponin_2x.png" crc="349658542" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="intro-7.png" crc="3877403046" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="intro-7_2x.png" crc="4050673877" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="gmark_2x.png" crc="344896592" seo="true" ref="index">
-      <caption webpage="english" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="66398197" seo="true" mt="1559595205452" redirect="true"/>
+  <file name="index.html" crc="209029217" seo="true" mt="1559604664822" redirect="true"/>
 </manifest>
