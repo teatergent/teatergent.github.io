@@ -6,24 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/title.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/title_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/enter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/enter_2x.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://teatergent.github.io/english.html</loc>
-    <lastmod>2019-06-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/intro-1.png</image:loc>
     </image:image>
     <image:image>
@@ -125,23 +107,5 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/gmark_2x.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>https://teatergent.github.io/assets/bgv.ogg</loc>
-    <lastmod>2019-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://teatergent.github.io/assets/bgv.mp4</loc>
-    <lastmod>2019-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://teatergent.github.io/assets/bgv.webm</loc>
-    <lastmod>2019-06-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
 </urlset>
