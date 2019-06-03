@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559582345901">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559582552608">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4129113247" ref="index"/>
-    <file name="english.css" crc="281782519" ref="english"/>
+    <file name="english.css" crc="80381935" ref="english"/>
   </folder>
   <folder name="assets">
     <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
@@ -20,7 +20,7 @@
     <file name="jquery.scrolleffects.js" crc="39568856" ref="english"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="index:english"/>
     <file name="title.png" crc="4167612719" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
@@ -29,7 +29,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
-    <file name="cubes-2880x3840.jpg" crc="470577852" ref="english">
+    <file name="cubes-2880x3840.jpg" crc="4148562891" ref="english">
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
@@ -133,5 +133,5 @@
     </file>
   </folder>
   <file name="index.html" crc="35322131" seo="true" mt="1559582289049" redirect="true"/>
-  <file name="english.html" crc="4224832030" seo="true" mt="1559582338417" redirect="true"/>
+  <file name="english.html" crc="142849576" seo="true" mt="1559582549961" redirect="true"/>
 </manifest>
