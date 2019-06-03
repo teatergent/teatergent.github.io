@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559589445225">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559590102023">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4129113247" ref="index"/>
@@ -142,19 +142,19 @@
     <file name="dots_2x.png" crc="4046047757" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-6.png" crc="80366160" seo="true" ref="english">
+    <file name="intro-6.png" crc="4248328462" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-6_2x.png" crc="4189345089" seo="true" ref="english">
+    <file name="intro-6_2x.png" crc="4189628799" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
     <file name="gmark.png" crc="3903235589" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="theasaponin.png" crc="109226566" seo="true" ref="english">
+    <file name="theasaponin.png" crc="3684277" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="theasaponin_2x.png" crc="3793095464" seo="true" ref="english">
+    <file name="theasaponin_2x.png" crc="470404452" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
     <file name="intro-7.png" crc="429246789" seo="true" ref="english">
@@ -168,5 +168,5 @@
     </file>
   </folder>
   <file name="index.html" crc="35322131" seo="true" mt="1559584232679" redirect="true"/>
-  <file name="english.html" crc="444651518" seo="true" mt="1559589437292" redirect="true"/>
+  <file name="english.html" crc="464756629" seo="true" mt="1559590093256" redirect="true"/>
 </manifest>
