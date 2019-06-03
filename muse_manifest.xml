@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559524843103">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559566258391">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="473608531" ref="index"/>
+    <file name="index.css" crc="79362425" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
@@ -18,12 +18,12 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
-    <file name="title.png" crc="4101873347" seo="true" ref="index">
+    <file name="title.png" crc="239200861" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="title_2x.png" crc="369179196" seo="true" ref="index">
+    <file name="title_2x.png" crc="23076529" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4112697411" seo="true" mt="1559524839784" redirect="true"/>
+  <file name="index.html" crc="4232356958" seo="true" mt="1559566254523" redirect="true"/>
 </manifest>
