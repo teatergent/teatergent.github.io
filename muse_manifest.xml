@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559604669585">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559606294759">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="3993584832" ref="index"/>
@@ -9,160 +9,123 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
-    <file name="cubes-2880x3840.jpg" crc="4148562891" ref="index">
+    <file name="camellia-2880x2880.jpg" crc="38068682" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-1.png" crc="28619937" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-1_2x.png" crc="159052076" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-2.png" crc="4017033548" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-2_2x.png" crc="3952050031" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="dishwasher-2880x1920.jpg" crc="346812095" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-a.png" crc="382428337" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-a_2x.png" crc="345317429" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-b.png" crc="337359320" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-b_2x.png" crc="280781563" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-3.png" crc="415716761" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-3_2x.png" crc="3778674304" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-4.png" crc="4003135804" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-4_2x.png" crc="392956420" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-5.png" crc="446086019" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="intro-5_2x.png" crc="87223802" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-c.png" crc="4010614983" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-c_2x.png" crc="3987933960" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-d.png" crc="3800157441" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="illustration-720x1024-d_2x.png" crc="201178677" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="title_white.png" crc="3823747119" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="title_white_2x.png" crc="3863262055" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="scroll.png" crc="4186625531" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="scroll_2x.png" crc="68740885" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="camellia-2880x2880.jpg" crc="38068682" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="hint.png" crc="3938283780" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="hint_2x.png" crc="85423655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="dots.png" crc="4224422750" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="dots_2x.png" crc="4046047757" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
+    </file>
+    <file name="scroll.png" crc="4186625531" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scroll_2x.png" crc="68740885" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubes-2880x3840.jpg" crc="4148562891" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-1.png" crc="28619937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-1_2x.png" crc="159052076" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-2.png" crc="4017033548" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-2_2x.png" crc="3952050031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher-2880x1920.jpg" crc="346812095" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-a.png" crc="382428337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-a_2x.png" crc="345317429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-b.png" crc="337359320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-b_2x.png" crc="280781563" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-3.png" crc="415716761" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-3_2x.png" crc="3778674304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-4.png" crc="4003135804" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-4_2x.png" crc="392956420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-5.png" crc="446086019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="intro-5_2x.png" crc="87223802" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-c.png" crc="4010614983" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-c_2x.png" crc="3987933960" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-d.png" crc="3800157441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration-720x1024-d_2x.png" crc="201178677" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="intro-6.png" crc="4233552535" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="intro-6_2x.png" crc="3766101596" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
-    </file>
-    <file name="gmark.png" crc="73875937" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="theasaponin.png" crc="482675278" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="theasaponin_2x.png" crc="349658542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="intro-7.png" crc="3877403046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
     <file name="intro-7_2x.png" crc="4050673877" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
+    </file>
+    <file name="gmark.png" crc="73875937" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
     </file>
     <file name="gmark_2x.png" crc="344896592" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="english" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="209029217" seo="true" mt="1559604664822" redirect="true"/>
+  <file name="index.html" crc="312049843" seo="true" mt="1559606291498" redirect="true"/>
 </manifest>

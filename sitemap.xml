@@ -6,6 +6,30 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/title_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/title_white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/hint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/hint_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/dots.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/dots_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/scroll.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/scroll_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/intro-1.png</image:loc>
     </image:image>
     <image:image>
@@ -60,37 +84,10 @@
       <image:loc>https://teatergent.github.io/images/illustration-720x1024-d_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/title_white.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/title_white_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/scroll.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/scroll_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/hint.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/hint_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/dots.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/dots_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/intro-6.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/intro-6_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/gmark.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/theasaponin.png</image:loc>
@@ -103,6 +100,9 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/intro-7_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gmark.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gmark_2x.png</image:loc>
