@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559592750686">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559593802729">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4129113247" ref="index"/>
-    <file name="english.css" crc="522667095" ref="english"/>
+    <file name="english.css" crc="113221871" ref="english"/>
   </folder>
   <folder name="assets">
     <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
@@ -61,11 +61,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-b.png" crc="490338535" seo="true" ref="english">
+    <file name="illustration-720x1024-b.png" crc="337359320" seo="true" ref="english">
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-b_2x.png" crc="4158144374" seo="true" ref="english">
+    <file name="illustration-720x1024-b_2x.png" crc="280781563" seo="true" ref="english">
       <caption webpage="index" alt=""/>
       <caption webpage="english" alt=""/>
     </file>
@@ -148,7 +148,7 @@
     <file name="intro-6_2x.png" crc="3766101596" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="gmark.png" crc="3903235589" seo="true" ref="english">
+    <file name="gmark.png" crc="3861234849" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
     <file name="theasaponin.png" crc="482675278" seo="true" ref="english">
@@ -157,16 +157,16 @@
     <file name="theasaponin_2x.png" crc="349658542" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-7.png" crc="429246789" seo="true" ref="english">
+    <file name="intro-7.png" crc="4138611981" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-7_2x.png" crc="105759615" seo="true" ref="english">
+    <file name="intro-7_2x.png" crc="4059312544" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
-    <file name="gmark_2x.png" crc="4031447107" seo="true" ref="english">
+    <file name="gmark_2x.png" crc="433502065" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="35322131" seo="true" mt="1559584232679" redirect="true"/>
-  <file name="english.html" crc="3998790105" seo="true" mt="1559592692155" redirect="true"/>
+  <file name="english.html" crc="3985248881" seo="true" mt="1559593767941" redirect="true"/>
 </manifest>
