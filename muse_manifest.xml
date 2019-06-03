@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559584797233">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559586823474">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4129113247" ref="index"/>
-    <file name="english.css" crc="3812195687" ref="english"/>
+    <file name="english.css" crc="3838458032" ref="english"/>
   </folder>
   <folder name="assets">
     <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
@@ -142,7 +142,19 @@
     <file name="dots_2x.png" crc="4046047757" seo="true" ref="english">
       <caption webpage="english" alt=""/>
     </file>
+    <file name="intro-6.png" crc="465576953" seo="true" ref="english">
+      <caption webpage="english" alt=""/>
+    </file>
+    <file name="intro-6_2x.png" crc="444727697" seo="true" ref="english">
+      <caption webpage="english" alt=""/>
+    </file>
+    <file name="gmark.png" crc="3823829652" seo="true" ref="english">
+      <caption webpage="english" alt=""/>
+    </file>
+    <file name="gmark_2x.png" crc="3853921005" seo="true" ref="english">
+      <caption webpage="english" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="35322131" seo="true" mt="1559584232679" redirect="true"/>
-  <file name="english.html" crc="155201277" seo="true" mt="1559584788257" redirect="true"/>
+  <file name="english.html" crc="4285623137" seo="true" mt="1559586814887" redirect="true"/>
 </manifest>
