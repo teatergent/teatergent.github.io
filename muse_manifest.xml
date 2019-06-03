@@ -1,7 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559579501628">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559580833166">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3962303617" ref="index"/>
+    <file name="index.css" crc="3915682672" ref="index"/>
+    <file name="english.css" crc="10370525" ref="english"/>
   </folder>
   <folder name="assets">
     <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
@@ -9,92 +10,122 @@
     <file name="bgv.webm" crc="214639426" seo="true" mt="1559515375000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:english"/>
+    <file name="museutils.js" crc="340535759" ref="index:english"/>
+    <file name="whatinput.js" crc="86476730" ref="index:english"/>
+    <file name="museconfig.js" crc="310584261" ref="index:english"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:english"/>
+    <file name="require.js" crc="7928878" ref="index:english"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="english"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="english"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
+    <file name="a-master-favicon.ico" crc="357807509" ref="index:english"/>
     <file name="title.png" crc="4167612719" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
     <file name="title_2x.png" crc="217593824" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="scrolldown.png" crc="3772839645" seo="true" ref="index">
+    <file name="scrolldown.png" crc="103483939" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="scrolldown_2x.png" crc="170797992" seo="true" ref="index">
+    <file name="scrolldown_2x.png" crc="4098101554" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cubes-2880x3840.jpg" crc="470577852" ref="index">
+    <file name="cubes-2880x3840.jpg" crc="470577852" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-1.png" crc="28619937" seo="true" ref="index">
+    <file name="intro-1.png" crc="28619937" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-1_2x.png" crc="159052076" seo="true" ref="index">
+    <file name="intro-1_2x.png" crc="159052076" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-2.png" crc="4017033548" seo="true" ref="index">
+    <file name="intro-2.png" crc="4017033548" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-2_2x.png" crc="3952050031" seo="true" ref="index">
+    <file name="intro-2_2x.png" crc="3952050031" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="dishwasher-2880x1920.jpg" crc="530156300" ref="index">
+    <file name="dishwasher-2880x1920.jpg" crc="530156300" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="camellia-2880x1920.jpg" crc="105281828" ref="index">
+    <file name="camellia-2880x1920.jpg" crc="105281828" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-a.png" crc="382428337" seo="true" ref="index">
+    <file name="illustration-720x1024-a.png" crc="382428337" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-a_2x.png" crc="345317429" seo="true" ref="index">
+    <file name="illustration-720x1024-a_2x.png" crc="345317429" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-b.png" crc="490338535" seo="true" ref="index">
+    <file name="illustration-720x1024-b.png" crc="490338535" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-b_2x.png" crc="4158144374" seo="true" ref="index">
+    <file name="illustration-720x1024-b_2x.png" crc="4158144374" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-3.png" crc="415716761" seo="true" ref="index">
+    <file name="intro-3.png" crc="415716761" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-3_2x.png" crc="3778674304" seo="true" ref="index">
+    <file name="intro-3_2x.png" crc="3778674304" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-4.png" crc="4003135804" seo="true" ref="index">
+    <file name="intro-4.png" crc="4003135804" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-4_2x.png" crc="392956420" seo="true" ref="index">
+    <file name="intro-4_2x.png" crc="392956420" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-5.png" crc="446086019" seo="true" ref="index">
+    <file name="intro-5.png" crc="446086019" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="intro-5_2x.png" crc="87223802" seo="true" ref="index">
+    <file name="intro-5_2x.png" crc="87223802" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-c.png" crc="4010614983" seo="true" ref="index">
+    <file name="illustration-720x1024-c.png" crc="4010614983" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-c_2x.png" crc="3987933960" seo="true" ref="index">
+    <file name="illustration-720x1024-c_2x.png" crc="3987933960" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-d.png" crc="3800157441" seo="true" ref="index">
+    <file name="illustration-720x1024-d.png" crc="3800157441" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
     </file>
-    <file name="illustration-720x1024-d_2x.png" crc="201178677" seo="true" ref="index">
+    <file name="illustration-720x1024-d_2x.png" crc="201178677" seo="true" ref="english">
       <caption webpage="index" alt=""/>
+      <caption webpage="english" alt=""/>
+    </file>
+    <file name="title_white.png" crc="3823747119" seo="true" ref="english">
+      <caption webpage="english" alt=""/>
+    </file>
+    <file name="title_white_2x.png" crc="3863262055" seo="true" ref="english">
+      <caption webpage="english" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3835440658" seo="true" mt="1559579481499" redirect="true"/>
+  <file name="index.html" crc="4067271637" seo="true" mt="1559580403385" redirect="true"/>
+  <file name="english.html" crc="46394715" seo="true" mt="1559580826073" redirect="true"/>
 </manifest>
