@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559566258391">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559566943751">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="79362425" ref="index"/>
+    <file name="index.css" crc="260350924" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bgv.mp4" crc="4268354689" seo="true" mt="1559515295000"/>
@@ -24,6 +24,12 @@
     <file name="title_2x.png" crc="23076529" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="scrolldown.png" crc="3772839645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scrolldown_2x.png" crc="170797992" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4232356958" seo="true" mt="1559566254523" redirect="true"/>
+  <file name="index.html" crc="56827956" seo="true" mt="1559566939680" redirect="true"/>
 </manifest>
