@@ -122,6 +122,9 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/intro-7_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gmark_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://teatergent.github.io/assets/bgv.ogg</loc>
