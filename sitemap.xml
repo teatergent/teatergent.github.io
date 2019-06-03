@@ -12,10 +12,10 @@
       <image:loc>https://teatergent.github.io/images/title_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/scrolldown.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/enter.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/scrolldown_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/enter_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -82,6 +82,12 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/title_white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/scroll.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/scroll_2x.png</image:loc>
     </image:image>
   </url>
   <url>

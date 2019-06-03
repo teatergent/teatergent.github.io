@@ -17,7 +17,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Teatergent</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3779915718"/>
-  <link rel="stylesheet" type="text/css" href="css/english.css?crc=4129146446" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/english.css?crc=3999693544" id="pagesheet"/>
     <!--HTML Widget code-->
   
 <style type="text/css">#u56411.size_fluid_width_height iframe { position:absolute; left:0; top:0; }</style>
@@ -28,22 +28,26 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <div class="clearfix" id="page"><!-- column -->
    <div class="clearfix colelem" id="pu56299"><!-- group -->
     <div class="browser_width grpelem" id="u56299-bw">
-     <div class="museBGSize" id="u56299"><!-- group -->
+     <div class="museBGSize" id="u56299"><!-- column -->
       <div class="clearfix" id="u56299_align_to_page">
-       <div class="clip_frame grpelem" id="u56293"><!-- image -->
+       <div class="clip_frame colelem" id="u56293"><!-- image -->
         <img class="block" id="u56293_img" src="images/title_white.png?crc=3823747119" data-hidpi-src="images/title_white_2x.png?crc=3863262055" alt="" width="675" height="225"/>
        </div>
+       <a class="nonblock nontext anim_swing clip_frame colelem" id="u56424" href="english.html#intro"><!-- image --><img class="block" id="u56424_img" src="images/scroll.png?crc=4186625531" data-hidpi-src="images/scroll_2x.png?crc=68740885" alt="" width="96" height="96"/></a>
       </div>
      </div>
     </div>
     <div class="browser_width grpelem" id="u56292-bw">
-     <div class="museBGSize" id="u56292"><!-- column -->
+     <div class="museBGSize" id="u56292"><!-- group -->
       <div class="clearfix" id="u56292_align_to_page">
-       <div class="clip_frame colelem" id="u56302"><!-- image -->
-        <img class="block" id="u56302_img" src="images/intro-1.png?crc=28619937" data-hidpi-src="images/intro-1_2x.png?crc=159052076" alt="" width="675" height="431"/>
-       </div>
-       <div class="clip_frame colelem" id="u56297"><!-- image -->
-        <img class="block" id="u56297_img" src="images/intro-2.png?crc=4017033548" data-hidpi-src="images/intro-2_2x.png?crc=3952050031" alt="" width="675" height="431"/>
+       <a class="anchor_item grpelem" id="intro"></a>
+       <div class="clearfix grpelem" id="pu56302"><!-- column -->
+        <div class="clip_frame colelem" id="u56302"><!-- image -->
+         <img class="block" id="u56302_img" src="images/intro-1.png?crc=28619937" data-hidpi-src="images/intro-1_2x.png?crc=159052076" alt="" width="675" height="431"/>
+        </div>
+        <div class="clip_frame colelem" id="u56297"><!-- image -->
+         <img class="block" id="u56297_img" src="images/intro-2.png?crc=4017033548" data-hidpi-src="images/intro-2_2x.png?crc=3952050031" alt="" width="675" height="431"/>
+        </div>
        </div>
       </div>
      </div>
@@ -109,7 +113,7 @@ Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u56299').registerBackgroundPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,0.75]},{"in":[0,Infinity],"speed":[0,0.75]}]);/* scroll effect */
+$('#u56299').registerBackgroundPositionScrollEffect([{"in":[-Infinity,-100],"speed":[0,0.75]},{"in":[-100,Infinity],"speed":[0,0.75]}]);/* scroll effect */
 $('#u56307').registerBackgroundPositionScrollEffect([{"in":[-Infinity,2090.6],"speed":[0,0.75]},{"in":[2090.6,Infinity],"speed":[0,0.75]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
