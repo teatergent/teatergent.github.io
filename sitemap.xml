@@ -89,6 +89,12 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/scroll_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/hint.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/hint_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://teatergent.github.io/assets/bgv.ogg</loc>
