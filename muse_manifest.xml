@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559688618410">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559689383790">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4137003738" ref="index"/>
+    <file name="index.css" crc="110130679" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -59,7 +59,7 @@
     <file name="theasaponin_2x.png" crc="269605402" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gmark.png" crc="344896592" seo="true" ref="index">
+    <file name="gmark.png" crc="4067537240" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home-favicon.ico" crc="4151067426" ref="index"/>
@@ -69,6 +69,9 @@
     <file name="favicon_2x.png" crc="3923752149" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gmark_2x.png" crc="4067537240" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3879417936" seo="true" mt="1559688607472" redirect="true"/>
+  <file name="index.html" crc="4165092350" seo="true" mt="1559689362678" redirect="true"/>
 </manifest>
