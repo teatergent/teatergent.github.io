@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559606294759">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559609256235">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3993584832" ref="index"/>
+    <file name="index.css" crc="59116186" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,10 +24,10 @@
     <file name="title_white_2x.png" crc="3863262055" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hint.png" crc="3938283780" seo="true" ref="index">
+    <file name="hint.png" crc="4030644474" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hint_2x.png" crc="85423655" seo="true" ref="index">
+    <file name="hint_2x.png" crc="336363784" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dots.png" crc="4224422750" seo="true" ref="index">
@@ -127,5 +127,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="312049843" seo="true" mt="1559606291498" redirect="true"/>
+  <file name="index.html" crc="4037371812" seo="true" mt="1559609153506" redirect="true"/>
 </manifest>
