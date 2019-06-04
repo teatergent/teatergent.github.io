@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559609256235">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559609644052">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="59116186" ref="index"/>
+    <file name="index.css" crc="3942561446" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,7 +14,6 @@
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="357807509" ref="index"/>
     <file name="camellia-2880x2880.jpg" crc="38068682" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -126,6 +125,13 @@
     <file name="gmark_2x.png" crc="344896592" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="home-favicon.ico" crc="4151067426" ref="index"/>
+    <file name="favicon.png" crc="93836384" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon_2x.png" crc="4194784447" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4037371812" seo="true" mt="1559609153506" redirect="true"/>
+  <file name="index.html" crc="4090495056" seo="true" mt="1559609590756" redirect="true"/>
 </manifest>
