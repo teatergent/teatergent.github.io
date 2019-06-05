@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559736904424">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559738923933">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="302806295" ref="index"/>
+    <file name="index.css" crc="48367301" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -75,6 +75,15 @@
     <file name="powder-2880x1920.jpg" crc="4276431633" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="box-2880x1920.jpg" crc="483404543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-white.png" crc="4197317425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-white_2x.png" crc="35023197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="118218394" seo="true" mt="1559736900512" redirect="true"/>
+  <file name="index.html" crc="4122316909" seo="true" mt="1559738919504" redirect="true"/>
 </manifest>
