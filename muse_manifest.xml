@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559763817030">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559765015203">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="423288708" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="301417291" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -41,16 +41,16 @@
     <file name="illustration-720x1024-b_2x.png" crc="280781563" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration-720x1024-c.png" crc="4010614983" seo="true" ref="index">
+    <file name="illustration-720x1024-c.png" crc="4200400949" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration-720x1024-c_2x.png" crc="3987933960" seo="true" ref="index">
+    <file name="illustration-720x1024-c_2x.png" crc="4209510237" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration-720x1024-d.png" crc="3800157441" seo="true" ref="index">
+    <file name="illustration-720x1024-d.png" crc="423558083" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration-720x1024-d_2x.png" crc="201178677" seo="true" ref="index">
+    <file name="illustration-720x1024-d_2x.png" crc="4142720695" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="theasaponin.png" crc="3981055414" seo="true" ref="index">
@@ -87,5 +87,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4000416706" seo="true" mt="1559763805337" redirect="true"/>
+  <file name="index.html" crc="4148658141" seo="true" mt="1559765005357" redirect="true"/>
 </manifest>
