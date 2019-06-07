@@ -6,12 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/scroll.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/scroll_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/illustration-720x1024-a.png</image:loc>
     </image:image>
     <image:image>
@@ -58,6 +52,12 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/logotype-black_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/logotype-black80x134.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/logotype-black80x134_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>

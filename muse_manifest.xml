@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559883603357">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559885143455">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4095045826" ref="index"/>
+    <file name="index.css" crc="429085535" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -15,12 +15,6 @@
   </folder>
   <folder name="images">
     <file name="camellia-2880x2880.jpg" crc="38068682" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="scroll.png" crc="4186625531" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="scroll_2x.png" crc="68740885" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="cubes-2880x3840.jpg" crc="4148562891" ref="index">
@@ -74,10 +68,8 @@
     </file>
     <file name="logotype-white.png" crc="156907913" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="logotype-white_2x.png" crc="27691567" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="logotype-black.png" crc="4197317425" seo="true" ref="index">
@@ -86,6 +78,12 @@
     <file name="logotype-black_2x.png" crc="35023197" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="logotype-black80x134.png" crc="176228258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-black80x134_2x.png" crc="4223676620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3771499196" seo="true" mt="1559883600214" redirect="true"/>
+  <file name="index.html" crc="4039904685" seo="true" mt="1559885086861" redirect="true"/>
 </manifest>
