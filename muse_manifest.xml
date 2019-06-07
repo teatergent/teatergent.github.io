@@ -1,26 +1,78 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559885451143">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1559920394957">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="245720756" ref="index"/>
+    <file name="index.css" crc="440751211" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="310584261" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="camellia-2880x2880.jpg" crc="38068682" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
+    <file name="home-favicon.ico" crc="4151067426" ref="index"/>
     <file name="cubes-2880x3840.jpg" crc="4148562891" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dishwasher-2880x1920.jpg" crc="358855608" ref="index">
+    <file name="logotype-black80x134.png" crc="176228258" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-black80x134_2x.png" crc="4223676620" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-black.png" crc="4197317425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-black_2x.png" crc="35023197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark.png" crc="4174866408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark_2x.png" crc="390280837" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="camellia-2880x2880.jpg" crc="38068682" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-white.png" crc="156907913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logotype-white_2x.png" crc="27691567" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="theasaponin.png" crc="4150834292" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="theasaponin_2x.png" crc="109433935" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-1.png" crc="3931132058" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-1_2x.png" crc="4280238332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-2.png" crc="530700075" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-2_2x.png" crc="436780754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-4.png" crc="3805186514" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-4_2x.png" crc="524042538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3.png" crc="4175389202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3_2x.png" crc="369377050" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="illustration-720x1024-a.png" crc="382428337" seo="true" ref="index">
@@ -47,43 +99,15 @@
     <file name="illustration-720x1024-d_2x.png" crc="4142720695" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="theasaponin.png" crc="3981055414" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="theasaponin_2x.png" crc="269605402" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gmark.png" crc="4174866408" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="home-favicon.ico" crc="4151067426" ref="index"/>
-    <file name="gmark_2x.png" crc="390280837" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="powder-2880x1920.jpg" crc="3975495185" ref="index">
+    <file name="powder-2880x1920.jpg" crc="4047054660" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="box-2880x1920.jpg" crc="483404543" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logotype-white.png" crc="156907913" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logotype-white_2x.png" crc="27691567" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logotype-black.png" crc="4197317425" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logotype-black_2x.png" crc="35023197" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logotype-black80x134.png" crc="176228258" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logotype-black80x134_2x.png" crc="4223676620" seo="true" ref="index">
+    <file name="dishwasher-2880x1920.jpg" crc="358855608" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3851703367" seo="true" mt="1559885428715" redirect="true"/>
+  <file name="index.html" crc="260314484" seo="true" mt="1559920391187" redirect="true"/>
 </manifest>
