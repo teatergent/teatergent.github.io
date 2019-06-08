@@ -84,10 +84,10 @@
       <image:loc>https://teatergent.github.io/images/language_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/logotype-black73x120.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/logotype-black60x100.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/logotype-black73x120_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/logotype-black60x100_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -286,12 +286,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/language_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/logotype-black72x120.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/logotype-black72x120_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
