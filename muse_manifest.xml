@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562062445086">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562074139001">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="209674544" ref="index"/>
-    <file name="jp.css" crc="129140028" ref="jp"/>
+    <file name="index.css" crc="4085497504" ref="index"/>
+    <file name="jp.css" crc="3950544457" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -233,7 +233,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
+    <file name="favicon_b.png" crc="3976141475" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="favicon_b_2x.png" crc="140255046" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="favicon.png" crc="26010495" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="favicon_2x.png" crc="520799239" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="422984122" seo="true" mt="1562062405569" redirect="true"/>
-  <file name="jp.html" crc="397195710" seo="true" mt="1562062422582" redirect="true"/>
+  <file name="index.html" crc="3929254533" seo="true" mt="1562074030805" redirect="true"/>
+  <file name="jp.html" crc="4168402621" seo="true" mt="1562074118473" redirect="true"/>
 </manifest>

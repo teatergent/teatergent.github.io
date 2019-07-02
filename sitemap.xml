@@ -71,6 +71,18 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/language_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://teatergent.github.io/jp.html</loc>
@@ -250,6 +262,18 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/language_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
