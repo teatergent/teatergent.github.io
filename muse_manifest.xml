@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1560503740231">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562062226667">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="325150392" ref="index"/>
-    <file name="jp.css" crc="3920815513" ref="jp"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="4197382368" ref="index"/>
+    <file name="jp.css" crc="3817578557" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -20,15 +20,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="logotype-black.png" crc="4197317425" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="logotype-black_2x.png" crc="35023197" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="gmark.png" crc="4174866408" seo="true" ref="index:jp">
+    <file name="gmark.png" crc="3782543273" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -37,14 +29,6 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="camellia-2880x2880.jpg" crc="38068682" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="logotype-white.png" crc="3810303232" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="logotype-white_2x.png" crc="3875364417" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -124,7 +108,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="box-2880x1920.jpg" crc="228573647" ref="index:jp">
+    <file name="box-2880x1920.jpg" crc="389345093" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -149,12 +133,6 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-10_2x.png" crc="496513226" seo="true" ref="jp">
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="jp-11.png" crc="4245034849" seo="true" ref="jp">
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="jp-11_2x.png" crc="13574435" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-09.png" crc="3903578981" seo="true" ref="jp">
@@ -255,15 +233,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="logotype-black60x100.png" crc="109607173" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="logotype-black60x100_2x.png" crc="147381118" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="321444876" seo="true" mt="1560503731902" redirect="true"/>
-  <file name="jp.html" crc="12043384" seo="true" mt="1560503731901" redirect="true"/>
+  <file name="index.html" crc="218487831" seo="true" mt="1562062218371" redirect="true"/>
+  <file name="jp.html" crc="52630405" seo="true" mt="1562062218369" redirect="true"/>
 </manifest>
