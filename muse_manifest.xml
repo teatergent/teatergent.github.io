@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562430381629">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562436144616">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="jp.css" crc="3796270642" ref="jp"/>
-    <file name="index.css" crc="4262000017" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="jp.css" crc="3969650945" ref="jp"/>
+    <file name="index.css" crc="3887829657" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -248,17 +248,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="kitchen-2880x1920.jpg" crc="4002000453" ref="index:jp">
+    <file name="kitchen-2880x1920.jpg" crc="3759516348" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="meal-2880x1920.jpg" crc="469134529" ref="index:jp">
+    <file name="meal-2880x1920.jpg" crc="3896058103" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-14-u58483.png" crc="140918206" ref="jp"/>
-    <file name="jp-14-u58483_2x.png" crc="66192180" ref="jp"/>
-    <file name="jp-13-u58493.png" crc="3903191881" ref="jp"/>
-    <file name="jp-13-u58493_2x.png" crc="99887632" ref="jp"/>
+    <file name="jp-14-u58483.png" crc="3791459637" ref="jp"/>
+    <file name="jp-14-u58483_2x.png" crc="3865736698" ref="jp"/>
+    <file name="jp-13-u58493.png" crc="3839196738" ref="jp"/>
+    <file name="jp-13-u58493_2x.png" crc="3954289570" ref="jp"/>
   </folder>
-  <file name="index.html" crc="216308740" seo="true" mt="1562430373466" redirect="true"/>
-  <file name="jp.html" crc="4202543534" seo="true" mt="1562430373467" redirect="true"/>
+  <file name="index.html" crc="497165508" seo="true" mt="1562436134015" redirect="true"/>
+  <file name="jp.html" crc="4237616830" seo="true" mt="1562436134014" redirect="true"/>
 </manifest>
