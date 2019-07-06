@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562239520982">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562416964284">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="jp.css" crc="4231813135" ref="jp"/>
-    <file name="index.css" crc="381466578" ref="index"/>
+    <file name="index.css" crc="202140163" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -15,15 +15,15 @@
     <file name="require.js" crc="7928878" ref="index:jp"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="4123573473" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
     <file name="cubes-2880x3840.jpg" crc="4148562891" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon_b.png" crc="57426245" seo="true" ref="index:jp">
+    <file name="favicon_b.png" crc="4063547612" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="favicon_b_2x.png" crc="75991658" seo="true" ref="index:jp">
+    <file name="favicon_b_2x.png" crc="526638637" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -38,11 +38,11 @@
     <file name="camellia-2880x2880.jpg" crc="38068682" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon.png" crc="140740064" seo="true" ref="index:jp">
+    <file name="favicon.png" crc="4007816177" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="favicon_2x.png" crc="57898806" seo="true" ref="index:jp">
+    <file name="favicon_2x.png" crc="189215144" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -252,6 +252,6 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3923800284" seo="true" mt="1562239491401" redirect="true"/>
-  <file name="jp.html" crc="302678939" seo="true" mt="1562239491411" redirect="true"/>
+  <file name="index.html" crc="36741911" seo="true" mt="1562416925523" redirect="true"/>
+  <file name="jp.html" crc="475359272" seo="true" mt="1562416925506" redirect="true"/>
 </manifest>
