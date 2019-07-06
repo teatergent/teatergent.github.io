@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562419536346">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562426490271">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="jp.css" crc="4231813135" ref="jp"/>
-    <file name="index.css" crc="381466578" ref="index"/>
+    <file name="jp.css" crc="3945554560" ref="jp"/>
+    <file name="index.css" crc="510646935" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -118,9 +118,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="powder-2880x1920.jpg" crc="4047054660" ref="index:jp">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="box-2880x1920.jpg" crc="389345093" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
@@ -147,10 +144,10 @@
     <file name="jp-02_2x.png" crc="3873777430" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-10.png" crc="61756160" seo="true" ref="jp">
+    <file name="jp-10.png" crc="4197964600" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-10_2x.png" crc="496513226" seo="true" ref="jp">
+    <file name="jp-10_2x.png" crc="4028116944" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-09.png" crc="3903578981" seo="true" ref="jp">
@@ -251,7 +248,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
+    <file name="kitchen-2880x1920.jpg" crc="3842265045" ref="index:jp">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="meal-2880x1920.jpg" crc="3783873017" ref="index:jp">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-14-u58483.png" crc="140918206" ref="jp"/>
+    <file name="jp-14-u58483_2x.png" crc="66192180" ref="jp"/>
+    <file name="jp-13-u58493.png" crc="3903191881" ref="jp"/>
+    <file name="jp-13-u58493_2x.png" crc="99887632" ref="jp"/>
   </folder>
-  <file name="index.html" crc="3891768979" seo="true" mt="1562419212970" redirect="true"/>
-  <file name="jp.html" crc="475359272" seo="true" mt="1562416925506" redirect="true"/>
+  <file name="index.html" crc="4193246808" seo="true" mt="1562426475703" redirect="true"/>
+  <file name="jp.html" crc="388677837" seo="true" mt="1562426448514" redirect="true"/>
 </manifest>
