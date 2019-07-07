@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562474672794">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562485782441">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="jp.css" crc="291406083" ref="jp"/>
-    <file name="index.css" crc="3886968744" ref="index"/>
+    <file name="jp.css" crc="3934686882" ref="jp"/>
+    <file name="index.css" crc="4096827045" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -247,17 +247,21 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="kitchen-2880x1920.jpg" crc="122289116" ref="index:jp">
+    <file name="kitchen-2880x1920.jpg" crc="263695717" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="meal-2880x1920.jpg" crc="285663168" ref="index:jp">
+    <file name="meal-2880x1920.jpg" crc="343716455" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-14-u58483.png" crc="3791459637" ref="jp"/>
     <file name="jp-14-u58483_2x.png" crc="3865736698" ref="jp"/>
     <file name="jp-13-u58493.png" crc="3839196738" ref="jp"/>
     <file name="jp-13-u58493_2x.png" crc="3954289570" ref="jp"/>
+    <file name="jp-13-u58581.png" crc="503685562" ref="jp"/>
+    <file name="jp-13-u58581_2x.png" crc="4163575260" ref="jp"/>
+    <file name="jp-14-u58588.png" crc="4143756527" ref="jp"/>
+    <file name="jp-14-u58588_2x.png" crc="400087882" ref="jp"/>
   </folder>
-  <file name="index.html" crc="3936635421" seo="true" mt="1562474664933" redirect="true"/>
-  <file name="jp.html" crc="4140050096" seo="true" mt="1562474664932" redirect="true"/>
+  <file name="index.html" crc="4101088599" seo="true" mt="1562485773415" redirect="true"/>
+  <file name="jp.html" crc="289718437" seo="true" mt="1562485773414" redirect="true"/>
 </manifest>
