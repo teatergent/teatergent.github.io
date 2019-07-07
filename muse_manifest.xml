@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562509838862">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562518013376">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="jp.css" crc="4228855144" ref="jp"/>
-    <file name="index.css" crc="4258650894" ref="index"/>
+    <file name="index.css" crc="225132216" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -253,11 +253,11 @@
     <file name="meal-2880x1920.jpg" crc="343716455" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-14-u58483.png" crc="4113791178" ref="jp"/>
-    <file name="jp-14-u58483_2x.png" crc="4288922835" ref="jp"/>
-    <file name="jp-13-u58493.png" crc="106537607" ref="jp"/>
-    <file name="jp-13-u58493_2x.png" crc="3987428027" ref="jp"/>
+    <file name="jp-14-u58483.png" crc="521891449" ref="jp"/>
+    <file name="jp-14-u58483_2x.png" crc="326070798" ref="jp"/>
+    <file name="jp-13-u58493.png" crc="3916823486" ref="jp"/>
+    <file name="jp-13-u58493_2x.png" crc="4039939951" ref="jp"/>
   </folder>
-  <file name="index.html" crc="162695917" seo="true" mt="1562509829021" redirect="true"/>
-  <file name="jp.html" crc="312791068" seo="true" mt="1562509829020" redirect="true"/>
+  <file name="index.html" crc="498942291" seo="true" mt="1562518004585" redirect="true"/>
+  <file name="jp.html" crc="4133406899" seo="true" mt="1562518004583" redirect="true"/>
 </manifest>
