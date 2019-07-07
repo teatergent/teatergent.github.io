@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562439821346">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562474672794">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="jp.css" crc="4152686228" ref="jp"/>
-    <file name="index.css" crc="4094734649" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="jp.css" crc="291406083" ref="jp"/>
+    <file name="index.css" crc="3886968744" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -247,10 +247,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="kitchen-2880x1920.jpg" crc="3759516348" ref="index:jp">
+    <file name="kitchen-2880x1920.jpg" crc="122289116" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="meal-2880x1920.jpg" crc="3896058103" ref="index:jp">
+    <file name="meal-2880x1920.jpg" crc="285663168" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-14-u58483.png" crc="3791459637" ref="jp"/>
@@ -258,6 +258,6 @@
     <file name="jp-13-u58493.png" crc="3839196738" ref="jp"/>
     <file name="jp-13-u58493_2x.png" crc="3954289570" ref="jp"/>
   </folder>
-  <file name="index.html" crc="506416933" seo="true" mt="1562439810058" redirect="true"/>
-  <file name="jp.html" crc="4188845205" seo="true" mt="1562439810059" redirect="true"/>
+  <file name="index.html" crc="3936635421" seo="true" mt="1562474664933" redirect="true"/>
+  <file name="jp.html" crc="4140050096" seo="true" mt="1562474664932" redirect="true"/>
 </manifest>
