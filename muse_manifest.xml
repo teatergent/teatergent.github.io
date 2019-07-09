@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562652515351">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562653366517">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="jp.css" crc="300648047" ref="jp"/>
-    <file name="index.css" crc="359865967" ref="index"/>
+    <file name="jp.css" crc="4107694858" ref="jp"/>
+    <file name="index.css" crc="3823920364" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -61,11 +61,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="icon-2.png" crc="530700075" seo="true" ref="index:jp">
+    <file name="icon-2.png" crc="3791195737" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="icon-2_2x.png" crc="436780754" seo="true" ref="index:jp">
+    <file name="icon-2_2x.png" crc="3820956218" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -194,10 +194,10 @@
     <file name="jp-04a_2x.png" crc="4250315016" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-04b.png" crc="4094992159" seo="true" ref="jp">
+    <file name="jp-04b.png" crc="4165822761" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-04b_2x.png" crc="4094992159" seo="true" ref="jp">
+    <file name="jp-04b_2x.png" crc="4165822761" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-04c.png" crc="3827903751" seo="true" ref="jp">
@@ -329,6 +329,6 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="240671890" seo="true" mt="1562652403181" redirect="true"/>
-  <file name="jp.html" crc="60015066" seo="true" mt="1562652403002" redirect="true"/>
+  <file name="index.html" crc="256989831" seo="true" mt="1562653246386" redirect="true"/>
+  <file name="jp.html" crc="4129408434" seo="true" mt="1562653168404" redirect="true"/>
 </manifest>
