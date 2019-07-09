@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562664777222">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562665178469">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="jp.css" crc="464391098" ref="jp"/>
-    <file name="index.css" crc="3789209132" ref="index"/>
+    <file name="jp.css" crc="536683108" ref="jp"/>
+    <file name="index.css" crc="4171882013" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -322,17 +322,17 @@
     <file name="table.png" crc="4192184049" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="kickstarter-u59125.png" crc="4009099082" ref="index"/>
-    <file name="kickstarter-u59125_2x.png" crc="4092432524" ref="index"/>
-    <file name="go-u59135.png" crc="4280632573" ref="index"/>
-    <file name="go-u59135_2x.png" crc="265390460" ref="index"/>
-    <file name="jp-19-u59169.png" crc="55988053" ref="jp"/>
-    <file name="jp-19-u59169_2x.png" crc="224755102" ref="jp"/>
-    <file name="kickstarter-u59152.png" crc="4009099082" ref="jp"/>
-    <file name="kickstarter-u59152_2x.png" crc="4092432524" ref="jp"/>
-    <file name="go-u59154.png" crc="4280632573" ref="jp"/>
-    <file name="go-u59154_2x.png" crc="265390460" ref="jp"/>
+    <file name="jp-19-u59169.png" crc="4274675551" ref="jp"/>
+    <file name="jp-19-u59169_2x.png" crc="4116403873" ref="jp"/>
+    <file name="kickstarter-u59207.png" crc="3762737729" ref="index"/>
+    <file name="kickstarter-u59207_2x.png" crc="4094899605" ref="index"/>
+    <file name="go-u59209.png" crc="278691105" ref="index"/>
+    <file name="go-u59209_2x.png" crc="259735925" ref="index"/>
+    <file name="kickstarter-u59187.png" crc="3762737729" ref="jp"/>
+    <file name="kickstarter-u59187_2x.png" crc="4094899605" ref="jp"/>
+    <file name="go-u59195.png" crc="278691105" ref="jp"/>
+    <file name="go-u59195_2x.png" crc="259735925" ref="jp"/>
   </folder>
-  <file name="index.html" crc="4263400069" seo="true" mt="1562664433341" redirect="true"/>
-  <file name="jp.html" crc="181441855" seo="true" mt="1562664758723" redirect="true"/>
+  <file name="index.html" crc="4100923163" seo="true" mt="1562665158196" redirect="true"/>
+  <file name="jp.html" crc="497876747" seo="true" mt="1562665162876" redirect="true"/>
 </manifest>
