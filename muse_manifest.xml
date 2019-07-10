@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562692110474">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562725295774">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3996567694" ref="index"/>
-    <file name="jp.css" crc="3765308554" ref="jp"/>
+    <file name="index.css" crc="3990780064" ref="index"/>
+    <file name="jp.css" crc="414680634" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -123,11 +123,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="spacefilling.png" crc="4234023123" seo="true" ref="index:jp">
+    <file name="spacefilling.png" crc="4055795402" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="spacefilling_2x.png" crc="4234023123" seo="true" ref="index:jp">
+    <file name="spacefilling_2x.png" crc="4056547916" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -333,6 +333,6 @@
     <file name="jp-15-u58634.png" crc="3815003374" ref="jp"/>
     <file name="jp-15-u58634_2x.png" crc="3907499608" ref="jp"/>
   </folder>
-  <file name="index.html" crc="250117132" seo="true" mt="1562692039968" redirect="true"/>
-  <file name="jp.html" crc="335512076" seo="true" mt="1562691695855" redirect="true"/>
+  <file name="index.html" crc="479833259" seo="true" mt="1562725232205" redirect="true"/>
+  <file name="jp.html" crc="534287197" seo="true" mt="1562725232087" redirect="true"/>
 </manifest>
