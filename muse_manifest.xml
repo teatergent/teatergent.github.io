@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562971068460">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562971389058">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="jp.css" crc="4187817009" ref="jp"/>
@@ -329,6 +329,6 @@
     <file name="indiegogo-u59313.png" crc="3780204856" ref="jp"/>
     <file name="indiegogo-u59313_2x.png" crc="176755949" ref="jp"/>
   </folder>
-  <file name="index.html" crc="3893867308" seo="true" mt="1562971023532" redirect="true"/>
+  <file name="index.html" crc="4036473179" seo="true" mt="1562971327095" redirect="true"/>
   <file name="jp.html" crc="3967583775" seo="true" mt="1562971051668" redirect="true"/>
 </manifest>
