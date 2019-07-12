@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562970347281">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562971068460">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="jp.css" crc="3773876136" ref="jp"/>
-    <file name="index.css" crc="3840072125" ref="index"/>
+    <file name="jp.css" crc="4187817009" ref="jp"/>
+    <file name="index.css" crc="3810890211" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -150,10 +150,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="kickstarter-u59207.png" crc="398846116" ref="index"/>
-    <file name="kickstarter-u59207_2x.png" crc="4226626397" ref="index"/>
-    <file name="go-u59209.png" crc="3957656489" ref="index"/>
-    <file name="go-u59209_2x.png" crc="4231055274" ref="index"/>
+    <file name="go-u59209.png" crc="193420914" ref="index"/>
+    <file name="go-u59209_2x.png" crc="3836351892" ref="index"/>
     <file name="cubes-2880x3840.jpg" crc="4148562891" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
@@ -316,8 +314,6 @@
     </file>
     <file name="jp-19-u59169.png" crc="4274675551" ref="jp"/>
     <file name="jp-19-u59169_2x.png" crc="4116403873" ref="jp"/>
-    <file name="kickstarter-u59187.png" crc="398846116" ref="jp"/>
-    <file name="kickstarter-u59187_2x.png" crc="4226626397" ref="jp"/>
     <file name="go-u59195.png" crc="193420914" ref="jp"/>
     <file name="go-u59195_2x.png" crc="3836351892" ref="jp"/>
     <file name="jp-13-u58493.png" crc="3916823486" ref="jp"/>
@@ -328,7 +324,11 @@
     <file name="jp-15-u58634_2x.png" crc="3907499608" ref="jp"/>
     <file name="language-u59284.png" crc="267977833" ref="jp"/>
     <file name="language-u59284_2x.png" crc="3902399437" ref="jp"/>
+    <file name="indiegogo-u59303.png" crc="3780204856" ref="index"/>
+    <file name="indiegogo-u59303_2x.png" crc="176755949" ref="index"/>
+    <file name="indiegogo-u59313.png" crc="3780204856" ref="jp"/>
+    <file name="indiegogo-u59313_2x.png" crc="176755949" ref="jp"/>
   </folder>
-  <file name="index.html" crc="504677851" seo="true" mt="1562970310611" redirect="true"/>
-  <file name="jp.html" crc="3903369817" seo="true" mt="1562970330795" redirect="true"/>
+  <file name="index.html" crc="3893867308" seo="true" mt="1562971023532" redirect="true"/>
+  <file name="jp.html" crc="3967583775" seo="true" mt="1562971051668" redirect="true"/>
 </manifest>
