@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562735313803">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562970347281">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3898435045" ref="index"/>
-    <file name="jp.css" crc="299494354" ref="jp"/>
+    <file name="jp.css" crc="3773876136" ref="jp"/>
+    <file name="index.css" crc="3840072125" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -31,13 +31,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="x.png" crc="260967833" seo="true" ref="index:jp">
+    <file name="x.png" crc="425968354" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="x_2x.png" crc="369693074" seo="true" ref="index:jp">
+    <file name="x_2x.png" crc="19743714" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -183,14 +183,8 @@
     <file name="box-2880x1920.jpg" crc="389345093" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="language.png" crc="170757945" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="language_2x.png" crc="4277843841" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
+    <file name="language-u58093.png" crc="267977833" ref="index"/>
+    <file name="language-u58093_2x.png" crc="3902399437" ref="index"/>
     <file name="jp-03.png" crc="4135947689" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
@@ -324,15 +318,17 @@
     <file name="jp-19-u59169_2x.png" crc="4116403873" ref="jp"/>
     <file name="kickstarter-u59187.png" crc="398846116" ref="jp"/>
     <file name="kickstarter-u59187_2x.png" crc="4226626397" ref="jp"/>
-    <file name="go-u59195.png" crc="3957656489" ref="jp"/>
-    <file name="go-u59195_2x.png" crc="4231055274" ref="jp"/>
+    <file name="go-u59195.png" crc="193420914" ref="jp"/>
+    <file name="go-u59195_2x.png" crc="3836351892" ref="jp"/>
     <file name="jp-13-u58493.png" crc="3916823486" ref="jp"/>
     <file name="jp-13-u58493_2x.png" crc="4039939951" ref="jp"/>
     <file name="jp-14-u58483.png" crc="521891449" ref="jp"/>
     <file name="jp-14-u58483_2x.png" crc="326070798" ref="jp"/>
     <file name="jp-15-u58634.png" crc="3815003374" ref="jp"/>
     <file name="jp-15-u58634_2x.png" crc="3907499608" ref="jp"/>
+    <file name="language-u59284.png" crc="267977833" ref="jp"/>
+    <file name="language-u59284_2x.png" crc="3902399437" ref="jp"/>
   </folder>
-  <file name="index.html" crc="4279841976" seo="true" mt="1562735279997" redirect="true"/>
-  <file name="jp.html" crc="4262763698" seo="true" mt="1562735292986" redirect="true"/>
+  <file name="index.html" crc="504677851" seo="true" mt="1562970310611" redirect="true"/>
+  <file name="jp.html" crc="3903369817" seo="true" mt="1562970330795" redirect="true"/>
 </manifest>
