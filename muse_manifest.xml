@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1562972698684">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1564160476204">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="jp.css" crc="480828008" ref="jp"/>
-    <file name="index.css" crc="261599673" ref="index"/>
+    <file name="index.css" crc="4007072267" ref="index"/>
+    <file name="jp.css" crc="4270056444" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -181,8 +181,16 @@
     <file name="box-2880x1920.jpg" crc="389345093" ref="index:jp">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="language-u58093.png" crc="267977833" ref="index"/>
-    <file name="language-u58093_2x.png" crc="3902399437" ref="index"/>
+    <file name="indiegogo-u59303.png" crc="3780204856" ref="index"/>
+    <file name="indiegogo-u59303_2x.png" crc="176755949" ref="index"/>
+    <file name="language.png" crc="155439694" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="language_2x.png" crc="3944453857" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
     <file name="jp-03.png" crc="4135947689" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
@@ -316,19 +324,15 @@
     <file name="jp-19-u59169_2x.png" crc="4116403873" ref="jp"/>
     <file name="go-u59195.png" crc="193420914" ref="jp"/>
     <file name="go-u59195_2x.png" crc="3836351892" ref="jp"/>
+    <file name="indiegogo-u59313.png" crc="3780204856" ref="jp"/>
+    <file name="indiegogo-u59313_2x.png" crc="176755949" ref="jp"/>
     <file name="jp-13-u58493.png" crc="3916823486" ref="jp"/>
     <file name="jp-13-u58493_2x.png" crc="4039939951" ref="jp"/>
     <file name="jp-14-u58483.png" crc="521891449" ref="jp"/>
     <file name="jp-14-u58483_2x.png" crc="326070798" ref="jp"/>
     <file name="jp-15-u58634.png" crc="3815003374" ref="jp"/>
     <file name="jp-15-u58634_2x.png" crc="3907499608" ref="jp"/>
-    <file name="language-u59284.png" crc="267977833" ref="jp"/>
-    <file name="language-u59284_2x.png" crc="3902399437" ref="jp"/>
-    <file name="indiegogo-u59303.png" crc="3780204856" ref="index"/>
-    <file name="indiegogo-u59303_2x.png" crc="176755949" ref="index"/>
-    <file name="indiegogo-u59313.png" crc="3780204856" ref="jp"/>
-    <file name="indiegogo-u59313_2x.png" crc="176755949" ref="jp"/>
   </folder>
-  <file name="index.html" crc="531317941" seo="true" mt="1562972682551" redirect="true"/>
-  <file name="jp.html" crc="348060010" seo="true" mt="1562972549796" redirect="true"/>
+  <file name="index.html" crc="4055675649" seo="true" mt="1564160462159" redirect="true"/>
+  <file name="jp.html" crc="3794329631" seo="true" mt="1564160456526" redirect="true"/>
 </manifest>
