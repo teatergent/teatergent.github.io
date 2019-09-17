@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1567529541608">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1568735135495">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="278834711" ref="index"/>
-    <file name="jp.css" crc="289443854" ref="jp"/>
+    <file name="index.css" crc="350805212" ref="index"/>
+    <file name="jp.css" crc="372686979" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -14,7 +14,7 @@
     <file name="require.js" crc="7928878" ref="index:jp"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3862000161" ref="index:jp"/>
+    <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
     <file name="theasaponin.png" crc="109226566" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -169,15 +169,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="kitchen-2880x1920.jpg" crc="263695717" ref="index:jp">
+    <file name="kitchen-2880x1920.jpg" crc="4132120697" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="meal-2880x1920.jpg" crc="343716455" ref="index:jp">
+    <file name="meal-2880x1920.jpg" crc="87720138" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="landscape-2880x1920.jpg" crc="505550903" ref="index:jp">
+    <file name="landscape-2880x1920.jpg" crc="475842765" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -185,17 +185,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="box-2880x1920.jpg" crc="3888220791" ref="index:jp">
+    <file name="box-2880x1920.jpg" crc="3847853823" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
     <file name="indiegogo-u59303.png" crc="3780204856" ref="index"/>
     <file name="indiegogo-u59303_2x.png" crc="176755949" ref="index"/>
-    <file name="language.png" crc="155439694" seo="true" ref="index:jp">
+    <file name="language.png" crc="155439694" seo="true" ref="jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="language_2x.png" crc="3944453857" seo="true" ref="index:jp">
+    <file name="language_2x.png" crc="3944453857" seo="true" ref="jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -341,6 +341,6 @@
     <file name="jp-15-u58634.png" crc="3815003374" ref="jp"/>
     <file name="jp-15-u58634_2x.png" crc="3907499608" ref="jp"/>
   </folder>
-  <file name="index.html" crc="3891605697" seo="true" mt="1567529312422" redirect="true"/>
-  <file name="jp.html" crc="4197394330" seo="true" mt="1567529525242" redirect="true"/>
+  <file name="index.html" crc="509037038" seo="true" mt="1568735124839" redirect="true"/>
+  <file name="jp.html" crc="3871401462" seo="true" mt="1568735124840" redirect="true"/>
 </manifest>
