@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1568814503380">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1568815658697">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3803252976" ref="index"/>
+    <file name="index.css" crc="4098867829" ref="index"/>
     <file name="jp.css" crc="96001868" ref="jp"/>
   </folder>
   <folder name="scripts">
@@ -123,11 +123,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="spacefilling.png" crc="4055795402" seo="true" ref="index:jp">
+    <file name="spacefilling.png" crc="455987850" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="spacefilling_2x.png" crc="4056547916" seo="true" ref="index:jp">
+    <file name="spacefilling_2x.png" crc="382885796" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -331,6 +331,6 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="48540498" seo="true" mt="1568814479880" redirect="true"/>
-  <file name="jp.html" crc="416513122" seo="true" mt="1568801325536" redirect="true"/>
+  <file name="index.html" crc="4109667171" seo="true" mt="1568815632463" redirect="true"/>
+  <file name="jp.html" crc="3760192542" seo="true" mt="1568815632737" redirect="true"/>
 </manifest>
