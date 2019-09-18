@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1568824968167">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1568825358452">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="64736443" ref="index"/>
@@ -123,11 +123,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="spacefilling.png" crc="3985168540" seo="true" ref="jp">
+    <file name="spacefilling.png" crc="371030207" seo="true" ref="jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="spacefilling_2x.png" crc="4199716399" seo="true" ref="jp">
+    <file name="spacefilling_2x.png" crc="533523920" seo="true" ref="jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -330,13 +330,13 @@
     <file name="language_2x.png" crc="3944453857" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="spacefilling295x173.png" crc="4037722568" seo="true" ref="index">
+    <file name="spacefilling295x173.png" crc="37974504" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="spacefilling295x173_2x.png" crc="4292623133" seo="true" ref="index">
+    <file name="spacefilling295x173_2x.png" crc="218871296" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3781516051" seo="true" mt="1568824950094" redirect="true"/>
-  <file name="jp.html" crc="3781795071" seo="true" mt="1568824848117" redirect="true"/>
+  <file name="index.html" crc="4224441079" seo="true" mt="1568825338537" redirect="true"/>
+  <file name="jp.html" crc="3921104754" seo="true" mt="1568825338701" redirect="true"/>
 </manifest>
