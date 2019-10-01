@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1569971467436">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1569972281381">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="508017252" ref="index"/>
+    <file name="index.css" crc="482134833" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -42,19 +42,19 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="icon-1.png" crc="27651102" seo="true" ref="index">
+    <file name="icon-1.png" crc="4238153508" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="icon-2.png" crc="3842213874" seo="true" ref="index">
+    <file name="icon-2.png" crc="4144872713" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="icon-3.png" crc="94504424" seo="true" ref="index">
+    <file name="icon-3.png" crc="344317154" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="icon-4.png" crc="3941985916" seo="true" ref="index">
+    <file name="icon-4.png" crc="310291626" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -142,6 +142,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icon-1_2x.png" crc="396805220" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-2_2x.png" crc="523168166" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3_2x.png" crc="262877959" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-4_2x.png" crc="4177190967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3770365576" seo="true" mt="1569971438680" redirect="true"/>
+  <file name="index.html" crc="3951598836" seo="true" mt="1569972239312" redirect="true"/>
 </manifest>
