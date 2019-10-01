@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1569915155957">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1569919004423">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="185335523" ref="index"/>
-    <file name="jp.css" crc="227258548" ref="jp"/>
+    <file name="index.css" crc="3993836414" ref="index"/>
+    <file name="jp.css" crc="4068347317" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -14,7 +14,7 @@
     <file name="require.js" crc="4177726516" ref="index:jp"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3945713061" ref="index"/>
+    <file name="a-master-favicon.ico" crc="240346949" ref="index"/>
     <file name="theasaponin.png" crc="109226566" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -123,37 +123,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="flower.png" crc="263643235" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="flower_2x.png" crc="263643235" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
     <file name="camellia-2880x2880.jpg" crc="38068682" ref="index:jp">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="favicon.png" crc="281556571" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="favicon_2x.png" crc="403481821" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
     </file>
     <file name="go-u59209.png" crc="193420914" ref="index"/>
     <file name="go-u59209_2x.png" crc="3836351892" ref="index"/>
     <file name="cubes-2880x3840.jpg" crc="4148562891" ref="index:jp">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="favicon_b.png" crc="281556571" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="favicon_b_2x.png" crc="403481821" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
     </file>
     <file name="dishwasher-2880x1920.jpg" crc="358855608" ref="index:jp">
       <caption webpage="index" alt=""/>
@@ -328,7 +304,23 @@
     <file name="spacefilling295x173_2x.png" crc="218871296" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="favicon_w.png" crc="70960166" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="favicon_w_2x.png" crc="3843327429" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="favicon_g.png" crc="281556571" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="favicon_g_2x.png" crc="403481821" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="28640517" seo="true" mt="1569915061441" redirect="true"/>
-  <file name="jp.html" crc="454628472" seo="true" mt="1569915041846" redirect="true"/>
+  <file name="index.html" crc="3824268920" seo="true" mt="1569918911743" redirect="true"/>
+  <file name="jp.html" crc="3806718602" seo="true" mt="1569918949326" redirect="true"/>
 </manifest>
