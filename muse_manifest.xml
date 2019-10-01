@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1569959157139">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1569969782891">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3993836414" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="268165034" ref="index"/>
     <file name="jp.css" crc="4068347317" ref="jp"/>
   </folder>
   <folder name="scripts">
@@ -304,19 +304,27 @@
     <file name="spacefilling295x173_2x.png" crc="218871296" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon_g.png" crc="85397018" seo="true" ref="index:jp">
+    <file name="favicon_g.png" crc="85397018" seo="true" ref="jp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="favicon_g_2x.png" crc="4287387614" seo="true" ref="index:jp">
+    <file name="favicon_g_2x.png" crc="4287387614" seo="true" ref="jp">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
+    </file>
+    <file name="logo-gold.png" crc="4289754646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-gold_2x.png" crc="4274950747" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4066518330" seo="true" mt="1569959133026" redirect="true"/>
+  <file name="index.html" crc="4027801789" seo="true" mt="1569969672010" redirect="true"/>
   <file name="jp.html" crc="255658674" seo="true" mt="1569959132932" redirect="true"/>
 </manifest>
