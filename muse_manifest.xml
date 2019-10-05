@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570280836625">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570290466811">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
+    <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="4287142248" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -13,7 +13,7 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3952991757" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4200078267" ref="index"/>
     <file name="theasaponin.png" crc="4248656991" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -146,14 +146,14 @@
     <file name="icon-4_2x.png" crc="4177190967" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon_g.png" crc="528399072" seo="true" ref="index">
+    <file name="favicon_g.png" crc="4007446750" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon_g_2x.png" crc="4080790690" seo="true" ref="index">
+    <file name="favicon_g_2x.png" crc="4269560859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="46940688" seo="true" mt="1570280744348" redirect="true"/>
+  <file name="index.html" crc="444325439" seo="true" mt="1570290427692" redirect="true"/>
 </manifest>
