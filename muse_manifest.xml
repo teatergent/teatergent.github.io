@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1569972281381">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570274482218">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="482134833" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="3780208191" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,7 +13,7 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="4205897808" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4112200750" ref="index"/>
     <file name="theasaponin.png" crc="4248656991" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -82,11 +82,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="illustration-720x1024-d.png" crc="4210090748" seo="true" ref="index">
+    <file name="illustration-720x1024-d.png" crc="3915248588" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="illustration-720x1024-d_2x.png" crc="4141225274" seo="true" ref="index">
+    <file name="illustration-720x1024-d_2x.png" crc="198353145" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -134,11 +134,11 @@
     </file>
     <file name="indiegogo-u59303.png" crc="3780204856" ref="index"/>
     <file name="indiegogo-u59303_2x.png" crc="176755949" ref="index"/>
-    <file name="logo-gold.png" crc="4289754646" seo="true" ref="index">
+    <file name="logo-gold.png" crc="281008790" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-gold_2x.png" crc="4274950747" seo="true" ref="index">
+    <file name="logo-gold_2x.png" crc="4285339468" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -155,5 +155,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3951598836" seo="true" mt="1569972239312" redirect="true"/>
+  <file name="index.html" crc="4112507871" seo="true" mt="1570274471205" redirect="true"/>
 </manifest>
