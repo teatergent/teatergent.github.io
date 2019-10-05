@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570296951474">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570298211775">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
     <file name="index.css" crc="423346205" ref="index"/>
@@ -21,7 +21,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-hero.png" crc="62812383" seo="true" ref="index">
+    <file name="indiegogo-hero.png" crc="3797026782" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-dishwasher.png" crc="276214629" seo="true" ref="index">
@@ -102,5 +102,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3937650160" seo="true" mt="1570296753473" redirect="true"/>
+  <file name="index.html" crc="398169012" seo="true" mt="1570298195506" redirect="true"/>
 </manifest>
