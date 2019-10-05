@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570299501010">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570301529408">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="4262539278" ref="index"/>
+    <file name="index.css" crc="366306108" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -28,7 +28,7 @@
     <file name="indiegogo-box.png" crc="4196893432" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-header-02-whats-special-about-teatergent.png" crc="4109105017" seo="true" ref="index">
+    <file name="indiegogo-header-02-whats-special-about-teatergent.png" crc="3881853248" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-02-whats-special-about-teatergent_2x.png" crc="4109920222" seo="true" ref="index">
@@ -40,13 +40,13 @@
     <file name="indiegogo-before-and-after.png" crc="268863742" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-header-04-how-you-can-use-dishwasher-teatergent.png" crc="340514627" seo="true" ref="index">
+    <file name="indiegogo-header-04-how-you-can-use-dishwasher-teatergent.png" crc="4161911433" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-04-how-you-can-use-dishwasher-teatergent_2x.png" crc="492440484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-header-04-how-you-can-use-multipurpose-teatergent.png" crc="60080888" seo="true" ref="index">
+    <file name="indiegogo-header-04-how-you-can-use-multipurpose-teatergent.png" crc="193625108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-04-how-you-can-use-multipurpose-teatergent_2x.png" crc="280791603" seo="true" ref="index">
@@ -55,7 +55,7 @@
     <file name="indiegogo-scenarios.png" crc="257436532" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-header-06-how-teatergent-is-different.png" crc="207431720" seo="true" ref="index">
+    <file name="indiegogo-header-06-how-teatergent-is-different.png" crc="420711601" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -75,7 +75,7 @@
     <file name="indiegogo-bactericide.png" crc="222212879" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-header-07-design.png" crc="4066682786" seo="true" ref="index">
+    <file name="indiegogo-header-07-design.png" crc="4183603799" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-07-design_2x.png" crc="415403798" seo="true" ref="index">
@@ -100,5 +100,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4034391654" seo="true" mt="1570299486057" redirect="true"/>
+  <file name="index.html" crc="3986194430" seo="true" mt="1570301453785" redirect="true"/>
 </manifest>
