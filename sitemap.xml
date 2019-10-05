@@ -72,12 +72,6 @@
       <image:loc>https://teatergent.github.io/images/spacefilling_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/logo-gold.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/logo-gold_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/icon-1_2x.png</image:loc>
     </image:image>
     <image:image>
@@ -88,6 +82,12 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-4_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
