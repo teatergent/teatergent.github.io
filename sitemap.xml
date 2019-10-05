@@ -89,5 +89,11 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-05-how-teatergent-works.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-05-how-teatergent-works_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
