@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570361245619">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570363067122">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="169527880" ref="index"/>
+    <file name="index.css" crc="95532873" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -58,7 +58,7 @@
     <file name="indiegogo-compare.png" crc="231515413" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-bactericide.jpg" crc="4244716366" seo="true" ref="index">
+    <file name="indiegogo-bactericide.jpg" crc="453058760" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-07-design.png" crc="4183603799" seo="true" ref="index">
@@ -142,5 +142,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4160273554" seo="true" mt="1570361236804" redirect="true"/>
+  <file name="index.html" crc="447076665" seo="true" mt="1570363033734" redirect="true"/>
 </manifest>
