@@ -27,57 +27,6 @@
       <image:loc>https://teatergent.github.io/images/indiegogo-features.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-04-how-you-can-use-dishwasher-teatergent_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-before-and-after.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-04-how-you-can-use-multipurpose-teatergent_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-scenarios.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-05-how-teatergent-works_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-saponin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-06-how-teatergent-is-different_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-compare.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-bactericide.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-design.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-design_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-design-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-design-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/go.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-01.png</image:loc>
     </image:image>
     <image:image>
@@ -96,10 +45,28 @@
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-06.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-04-how-you-can-use-dishwasher-teatergent_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-before-and-after.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-07.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-08.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-04-how-you-can-use-multipurpose-teatergent_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scenarios.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-05-how-teatergent-works_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-saponin.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-made.jpg</image:loc>
@@ -117,7 +84,25 @@
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-12.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-06-how-teatergent-is-different_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-compare.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-bactericide.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-design.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-design_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-14.png</image:loc>
@@ -126,10 +111,25 @@
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-15.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-16.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-17.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/go.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
