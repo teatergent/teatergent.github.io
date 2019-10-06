@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://teatergent.github.io/index.html</loc>
-    <lastmod>2019-10-06</lastmod>
+    <lastmod>2019-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -96,6 +96,9 @@
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-13.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-good-design-award.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-design-1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -112,9 +115,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-17.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-good-design-award.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-header-99-subscribe.png</image:loc>
