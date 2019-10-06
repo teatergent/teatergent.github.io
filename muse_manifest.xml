@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570375877910">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570377269906">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4158439715" ref="index"/>
+    <file name="index.css" crc="4012915709" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -105,12 +105,6 @@
     <file name="indiegogo-icons-13.png" crc="453013097" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-header-07-design.png" crc="4183603799" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="indiegogo-header-07-design_2x.png" crc="415403798" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="indiegogo-design-1.jpg" crc="48906937" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -129,18 +123,12 @@
     <file name="indiegogo-icons-17.png" crc="3763455861" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="go.png" crc="4053771712" seo="true" ref="index">
+    <file name="indiegogo-header-07-good-design-award.png" crc="4009873066" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="go_2x.png" crc="4053771712" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="indiegogo.png" crc="3791677153" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="indiegogo_2x.png" crc="3791677153" seo="true" ref="index">
+    <file name="indiegogo-header-99-subscribe.png" crc="4252130313" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="399640647" seo="true" mt="1570375870320" redirect="true"/>
+  <file name="index.html" crc="4217406148" seo="true" mt="1570377236484" redirect="true"/>
 </manifest>

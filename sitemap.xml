@@ -96,12 +96,6 @@
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-13.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-design.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-design_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/indiegogo-design-1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -120,16 +114,10 @@
       <image:loc>https://teatergent.github.io/images/indiegogo-icons-17.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/go.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-07-good-design-award.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/indiegogo_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/indiegogo-header-99-subscribe.png</image:loc>
     </image:image>
   </url>
 </urlset>
