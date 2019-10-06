@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570304126694">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570349618923">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="366306108" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="300102075" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -37,7 +37,7 @@
     <file name="indiegogo-features.png" crc="524863034" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-before-and-after.png" crc="268863742" seo="true" ref="index">
+    <file name="indiegogo-before-and-after.png" crc="463976201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-04-how-you-can-use-dishwasher-teatergent.png" crc="4161911433" seo="true" ref="index">
@@ -104,5 +104,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="74122129" seo="true" mt="1570304111660" redirect="true"/>
+  <file name="index.html" crc="4169592050" seo="true" mt="1570349606082" redirect="true"/>
 </manifest>
