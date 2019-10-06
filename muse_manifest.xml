@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570359127346">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570361245619">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3806170599" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="169527880" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -19,7 +19,7 @@
     <file name="favicon_g_2x.png" crc="4269560859" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-hero.jpg" crc="325699908" seo="true" ref="index">
+    <file name="indiegogo-hero.jpg" crc="3850422421" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-dishwasher.jpg" crc="4267697537" seo="true" ref="index">
@@ -31,34 +31,34 @@
     <file name="indiegogo-header-02-whats-special-about-teatergent_2x.png" crc="225518720" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-features.png" crc="4025480455" seo="true" ref="index">
+    <file name="indiegogo-features.png" crc="268837954" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-04-how-you-can-use-dishwasher-teatergent_2x.png" crc="413950570" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-before-and-after.jpg" crc="4053440254" seo="true" ref="index">
+    <file name="indiegogo-before-and-after.jpg" crc="39855188" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-04-how-you-can-use-multipurpose-teatergent_2x.png" crc="246602676" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-scenarios.jpg" crc="4077316182" seo="true" ref="index">
+    <file name="indiegogo-scenarios.jpg" crc="184992388" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-05-how-teatergent-works_2x.png" crc="438635099" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-saponin.png" crc="205131046" seo="true" ref="index">
+    <file name="indiegogo-saponin.png" crc="4016990998" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-06-how-teatergent-is-different_2x.png" crc="295777444" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-compare.png" crc="4056542272" seo="true" ref="index">
+    <file name="indiegogo-compare.png" crc="231515413" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-bactericide.jpg" crc="3942595429" seo="true" ref="index">
+    <file name="indiegogo-bactericide.jpg" crc="4244716366" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-header-07-design.png" crc="4183603799" seo="true" ref="index">
@@ -67,10 +67,10 @@
     <file name="indiegogo-header-07-design_2x.png" crc="415403798" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-design-1.jpg" crc="4247801644" seo="true" ref="index">
+    <file name="indiegogo-design-1.jpg" crc="48906937" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-design-2.jpg" crc="92090122" seo="true" ref="index">
+    <file name="indiegogo-design-2.jpg" crc="4038624748" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="go.png" crc="4053771712" seo="true" ref="index">
@@ -111,7 +111,7 @@
     <file name="indiegogo-icons-08.png" crc="354716610" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="indiegogo-made.jpg" crc="134187492" seo="true" ref="index">
+    <file name="indiegogo-made.jpg" crc="303367752" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-icons-09.png" crc="121736580" seo="true" ref="index">
@@ -142,5 +142,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="1752155" seo="true" mt="1570359115822" redirect="true"/>
+  <file name="index.html" crc="4160273554" seo="true" mt="1570361236804" redirect="true"/>
 </manifest>
