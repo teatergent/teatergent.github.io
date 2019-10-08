@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://teatergent.github.io/index.html</loc>
-    <lastmod>2019-10-07</lastmod>
+    <lastmod>2019-10-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -12,25 +12,67 @@
       <image:loc>https://teatergent.github.io/images/theasaponin_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-dissolve.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-works.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/salmonella.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/x_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/salmonella.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/escherichia-coli.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/escherichia-coli_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-dishwasher.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-1.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/icon-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-2_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-3.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-3_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/icon-4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-4_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-multipurpose.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/illustration-720x1024-d.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/illustration-720x1024-d_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/illustration-720x1024-a.png</image:loc>
@@ -51,46 +93,16 @@
       <image:loc>https://teatergent.github.io/images/illustration-720x1024-c_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/illustration-720x1024-d.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/illustration-720x1024-d_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/gmark.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gmark_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/spacefilling.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/go.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/spacefilling_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-2_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-3_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-4_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/favicon_g.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/favicon_g_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/escherichia-coli.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/escherichia-coli_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
