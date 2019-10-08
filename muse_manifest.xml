@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570532117284">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570535753682">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3842514936" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="3860700133" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,10 +20,7 @@
     <file name="theasaponin_2x.png" crc="431871813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-works.gif" crc="92033224" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gif-dissolve.gif" crc="3935746126" seo="true" ref="index">
+    <file name="gif-works.gif" crc="4033139014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="salmonella.png" crc="260722754" seo="true" ref="index">
@@ -113,6 +110,9 @@
     <file name="gmark_2x.png" crc="390280837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gif-dissolve.gif" crc="3935746126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="go.png" crc="4018115319" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -141,5 +141,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4172091785" seo="true" mt="1570532089908" redirect="true"/>
+  <file name="index.html" crc="73779246" seo="true" mt="1570535687987" redirect="true"/>
 </manifest>
