@@ -101,17 +101,5 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/pin-subscribe.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/pin-subscribe_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/pin-indiegogo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/pin-indiegogo_2x.png</image:loc>
-    </image:image>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1571030497540">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1571031158883">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="89711166" ref="index"/>
+    <file name="index.css" crc="12162386" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -137,18 +137,6 @@
     <file name="box-2880x1920.jpg" crc="3758943545" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pin-subscribe.png" crc="4138759640" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pin-subscribe_2x.png" crc="3984225607" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pin-indiegogo.png" crc="3993621039" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pin-indiegogo_2x.png" crc="3954654161" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4266954323" seo="true" mt="1571030490286" redirect="true"/>
+  <file name="index.html" crc="3906657885" seo="true" mt="1571031126531" redirect="true"/>
 </manifest>
