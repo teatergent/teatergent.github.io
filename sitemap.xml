@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://teatergent.github.io/index.html</loc>
-    <lastmod>2019-10-08</lastmod>
+    <lastmod>2019-10-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -25,9 +25,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/escherichia-coli.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/escherichia-coli_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-dishwasher.gif</image:loc>
@@ -103,6 +100,18 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/_pin_subscribe.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/_pin_subscribe_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/_pin_indiegogo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/_pin_indiegogo_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>

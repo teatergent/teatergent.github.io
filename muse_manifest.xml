@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1570535753682">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1571028632171">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3860700133" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="3835778439" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,10 +20,10 @@
     <file name="theasaponin_2x.png" crc="431871813" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-works.gif" crc="4033139014" seo="true" ref="index">
+    <file name="gif-works.gif" crc="3838176511" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="salmonella.png" crc="260722754" seo="true" ref="index">
+    <file name="salmonella.png" crc="371510658" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="x.png" crc="425968354" seo="true" ref="index">
@@ -34,37 +34,34 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="escherichia-coli.png" crc="414229962" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="escherichia-coli_2x.png" crc="3784445302" seo="true" ref="index">
+    <file name="escherichia-coli.png" crc="501756696" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-dishwasher.gif" crc="474248351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-1.png" crc="4238153508" seo="true" ref="index">
+    <file name="icon-1.png" crc="326374606" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-1_2x.png" crc="396805220" seo="true" ref="index">
+    <file name="icon-1_2x.png" crc="4168132619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-2.png" crc="4144872713" seo="true" ref="index">
+    <file name="icon-2.png" crc="70265595" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-2_2x.png" crc="523168166" seo="true" ref="index">
+    <file name="icon-2_2x.png" crc="496566332" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-3.png" crc="344317154" seo="true" ref="index">
+    <file name="icon-3.png" crc="300667481" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-3_2x.png" crc="262877959" seo="true" ref="index">
+    <file name="icon-3_2x.png" crc="4254299351" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-4.png" crc="310291626" seo="true" ref="index">
+    <file name="icon-4.png" crc="3830744329" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-4_2x.png" crc="4177190967" seo="true" ref="index">
+    <file name="icon-4_2x.png" crc="395898516" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-multipurpose.gif" crc="4068615" seo="true" ref="index">
@@ -122,7 +119,7 @@
     <file name="cubes-2880x3840.jpg" crc="280675462" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dishwasher-2880x1920.jpg" crc="3837547550" ref="index">
+    <file name="dishwasher-2880x1920.jpg" crc="334971173" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="kitchen-2880x1920.jpg" crc="4116149279" ref="index">
@@ -140,6 +137,18 @@
     <file name="box-2880x1920.jpg" crc="3758943545" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="_pin_subscribe.png" crc="463009299" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_pin_subscribe_2x.png" crc="4242435512" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_pin_indiegogo.png" crc="4278122909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_pin_indiegogo_2x.png" crc="3802809308" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="73779246" seo="true" mt="1570535687987" redirect="true"/>
+  <file name="index.html" crc="4261951779" seo="true" mt="1571028626665" redirect="true"/>
 </manifest>
