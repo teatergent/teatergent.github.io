@@ -12,6 +12,9 @@
       <image:loc>https://teatergent.github.io/images/favicon_g_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/cubes.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/icon-1.jpg</image:loc>
     </image:image>
     <image:image>
@@ -48,13 +51,16 @@
       <image:loc>https://teatergent.github.io/images/icon-6_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g92x92.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g92x92_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/go.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/cubes.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
