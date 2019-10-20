@@ -6,16 +6,46 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/theasaponin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/theasaponin_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/favicon_g.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/favicon_g_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-3_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-5_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-6.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-6_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/go.png</image:loc>
@@ -24,16 +54,7 @@
       <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/salmonella.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/salmonella_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/ecoli.jpg</image:loc>
+      <image:loc>https://teatergent.github.io/images/cubes.jpg</image:loc>
     </image:image>
   </url>
 </urlset>

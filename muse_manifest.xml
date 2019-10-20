@@ -1,25 +1,19 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1571575163625">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1571578337322">
   <folder name="css">
     <file name="site_global.css" crc="4150788755"/>
-    <file name="index.css" crc="4106780230" ref="index"/>
+    <file name="index.css" crc="208651046" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="3939489907" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="128606099" ref="index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="183306268" ref="index"/>
-    <file name="theasaponin.png" crc="4273883485" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="theasaponin_2x.png" crc="51977665" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="favicon_g.png" crc="43063564" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -30,6 +24,42 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icon-1.jpg" crc="4172719208" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-1_2x.jpg" crc="3866110009" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-2.jpg" crc="165740617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-2_2x.jpg" crc="4286970350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3.jpg" crc="4238028669" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3_2x.jpg" crc="4125773867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-4.jpg" crc="149203970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-4_2x.jpg" crc="42298910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-5.jpg" crc="4188829557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-5_2x.jpg" crc="161082301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-6.jpg" crc="4151301630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-6_2x.jpg" crc="23801587" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="go.png" crc="3996556643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -38,28 +68,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="salmonella.jpg" crc="370694035" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="salmonella_2x.jpg" crc="370694035" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="x.png" crc="337771612" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="ecoli.jpg" crc="3875733666" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="cubes.jpg" crc="3929793565" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dishwasher.jpg" crc="353959708" ref="index">
+    <file name="dishwasher.jpg" crc="429668495" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="box.jpg" crc="55292539" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cubes.jpg" crc="314097879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="267302383" seo="true" mt="1571575130615" redirect="true"/>
+  <file name="index.html" crc="4083946834" seo="true" mt="1571578325972" redirect="true"/>
 </manifest>
