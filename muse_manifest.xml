@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1571324927238">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1571570426813">
   <folder name="css">
     <file name="site_global.css" crc="3910339942"/>
-    <file name="index.css" crc="4174140970" ref="index"/>
+    <file name="index.css" crc="363427564" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,10 +14,10 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="183306268" ref="index"/>
-    <file name="theasaponin.png" crc="318567017" seo="true" ref="index">
+    <file name="theasaponin.png" crc="4273883485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="theasaponin_2x.png" crc="318567017" seo="true" ref="index">
+    <file name="theasaponin_2x.png" crc="51977665" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-works.gif" crc="3838176511" seo="true" ref="index">
@@ -66,16 +66,6 @@
     <file name="gif-multipurpose.gif" crc="4068615" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon_g.png" crc="43063564" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="favicon_g_2x.png" crc="43063564" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="illustration-720x1024-d.jpg" crc="53212484" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -94,6 +84,14 @@
     <file name="gif-dissolve.gif" crc="3935746126" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="favicon_g.png" crc="43063564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon_g_2x.png" crc="43063564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="go.png" crc="3996556643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -106,13 +104,13 @@
     <file name="dishwasher-2880x1920.jpg" crc="3963920703" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="kitchen-2880x1920.jpg" crc="3990480710" ref="index">
+    <file name="kitchen-2880x1920.jpg" crc="4191371171" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="meal-2880x1920.jpg" crc="3787882671" ref="index">
+    <file name="meal-2880x1920.jpg" crc="453955278" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="landscape-2880x1920.jpg" crc="55167993" ref="index">
+    <file name="landscape-2880x1920.jpg" crc="3983482254" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="powder-2880x1920.jpg" crc="4080064726" ref="index">
@@ -122,5 +120,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4039228076" seo="true" mt="1571324880870" redirect="true"/>
+  <file name="index.html" crc="3864206373" seo="true" mt="1571570390034" redirect="true"/>
 </manifest>
