@@ -57,6 +57,18 @@
       <image:loc>https://teatergent.github.io/images/gif-multipurpose.gif</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/favicon_g_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/go.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/illustration-720x1024-d.jpg</image:loc>
     </image:image>
     <image:image>
@@ -73,18 +85,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-dissolve.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/favicon_g.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/favicon_g_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/go.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
