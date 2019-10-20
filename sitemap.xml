@@ -12,9 +12,6 @@
       <image:loc>https://teatergent.github.io/images/theasaponin_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/gif-dishwasher.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/favicon_g.png</image:loc>
     </image:image>
     <image:image>
@@ -27,9 +24,6 @@
       <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/gif-multipurpose.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/salmonella.jpg</image:loc>
     </image:image>
     <image:image>
@@ -39,7 +33,7 @@
       <image:loc>https://teatergent.github.io/images/x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/escherichia-coli.jpg</image:loc>
+      <image:loc>https://teatergent.github.io/images/ecoli.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
