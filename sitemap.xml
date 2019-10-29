@@ -62,5 +62,8 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/box.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/powder.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
