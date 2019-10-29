@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1572380735892">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1572385025666">
   <folder name="css">
-    <file name="site_global.css" crc="4150788755"/>
-    <file name="index.css" crc="4189171253" ref="index"/>
+    <file name="site_global.css" crc="3910339942"/>
+    <file name="index.css" crc="13932315" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -77,6 +77,54 @@
     <file name="powder.jpg" crc="334706046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="1a.png" crc="168551465" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1a_2x.png" crc="212406388" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1b.png" crc="533956013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1b_2x.png" crc="77922666" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2a.png" crc="4222683188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2b.png" crc="134007617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2b_2x.png" crc="4075504428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="402960475" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3_2x.png" crc="426083455" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4.png" crc="3874913733" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="16178797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5_2x.png" crc="428134328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6a.png" crc="442430847" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6b.png" crc="315694399" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.png" crc="3795881901" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7_2x.png" crc="3769615301" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3860833629" seo="true" mt="1572380728344" redirect="true"/>
+  <file name="index.html" crc="241380284" seo="true" mt="1572385017547" redirect="true"/>
 </manifest>
