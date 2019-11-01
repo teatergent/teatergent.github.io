@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1572636857760">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1572640104268">
   <folder name="css">
-    <file name="site_global.css" crc="4150788755"/>
+    <file name="site_global.css" crc="3910339942"/>
     <file name="index.css" crc="4119985788" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -87,5 +87,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="286558119" seo="true" mt="1572636766343" redirect="true"/>
+  <file name="index.html" crc="403715129" seo="true" mt="1572640049792" redirect="true"/>
 </manifest>
