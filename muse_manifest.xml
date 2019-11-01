@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1572446502598">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1572628556234">
   <folder name="css">
-    <file name="site_global.css" crc="3910339942"/>
-    <file name="index.css" crc="136264547" ref="index"/>
+    <file name="site_global.css" crc="4150788755"/>
+    <file name="index.css" crc="3965105551" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,7 +24,7 @@
     <file name="cubes.jpg" crc="3815439961" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dishwasher.jpg" crc="429668495" seo="true" ref="index">
+    <file name="indiegogo-scene-with-salad.jpg" crc="61370706" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-1.jpg" crc="437654803" seo="true" ref="index">
@@ -39,6 +39,9 @@
     <file name="icon-2_2x.jpg" crc="3878444515" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="indiegogo-scene-wash-fruit.jpg" crc="40459135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="icon-3.jpg" crc="281029013" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -49,6 +52,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-4_2x.jpg" crc="327112434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indiegogo-scene-walk.jpg" crc="1697585" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-5.jpg" crc="437738548" seo="true" ref="index">
@@ -71,12 +77,15 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="box.jpg" crc="4170296608" seo="true" ref="index">
+    <file name="indiegogo-scene-yoga.jpg" crc="159867616" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="powder.jpg" crc="334706046" seo="true" ref="index">
+    <file name="indiegogo-scene-picnic.jpg" crc="175412019" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="indiegogo-scene-outdoor.jpg" crc="4240384386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3869536705" seo="true" mt="1572446489928" redirect="true"/>
+  <file name="index.html" crc="3983853361" seo="true" mt="1572628482648" redirect="true"/>
 </manifest>

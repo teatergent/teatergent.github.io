@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://teatergent.github.io/index.html</loc>
-    <lastmod>2019-10-30</lastmod>
+    <lastmod>2019-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -15,7 +15,7 @@
       <image:loc>https://teatergent.github.io/images/cubes.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/dishwasher.jpg</image:loc>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-with-salad.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-1.jpg</image:loc>
@@ -30,6 +30,9 @@
       <image:loc>https://teatergent.github.io/images/icon-2_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-wash-fruit.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/icon-3.jpg</image:loc>
     </image:image>
     <image:image>
@@ -40,6 +43,9 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-4_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-walk.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-5.jpg</image:loc>
@@ -60,10 +66,13 @@
       <image:loc>https://teatergent.github.io/images/go_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/box.jpg</image:loc>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-yoga.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/powder.jpg</image:loc>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-picnic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-outdoor.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
