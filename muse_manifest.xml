@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1572640104268">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1573316850899">
   <folder name="css">
     <file name="site_global.css" crc="3910339942"/>
-    <file name="index.css" crc="4119985788" ref="index"/>
+    <file name="index.css" crc="432845360" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -21,7 +21,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cubes.jpg" crc="3815439961" seo="true" ref="index">
+    <file name="cubes.jpg" crc="3983964283" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-scene-with-salad.jpg" crc="61370706" seo="true" ref="index">
@@ -87,5 +87,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="403715129" seo="true" mt="1572640049792" redirect="true"/>
+  <file name="index.html" crc="3827831096" seo="true" mt="1573316835072" redirect="true"/>
 </manifest>
