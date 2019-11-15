@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1573679166132">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1573817373060">
   <folder name="css">
     <file name="site_global.css" crc="4150788755"/>
     <file name="index.css" crc="3984756225" ref="index"/>
@@ -13,11 +13,11 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="183306268" ref="index"/>
-    <file name="favicon_g.png" crc="43063564" seo="true" ref="index">
+    <file name="favicon_g.png" crc="4192791771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="favicon_g_2x.png" crc="43063564" seo="true" ref="index">
+    <file name="favicon_g_2x.png" crc="3979684494" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -75,5 +75,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3795234706" seo="true" mt="1573679083637" redirect="true"/>
+  <file name="index.html" crc="86347342" seo="true" mt="1573817343772" redirect="true"/>
 </manifest>
