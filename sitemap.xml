@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://teatergent.github.io/index.html</loc>
-    <lastmod>2019-11-16</lastmod>
+    <lastmod>2019-11-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -61,6 +61,123 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-6_2x.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://teatergent.github.io/intro.html</loc>
+    <lastmod>2019-11-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-hero.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-hero_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-box.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-box_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-wash-fruit.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-wash-fruit_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-features.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-features_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-saponin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-saponin_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-gif-works.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-walk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-walk_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-compare.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-compare_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-bactericide.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-bactericide_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-picnic.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-scene-picnic_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-gif-dissolve.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-gif-multipurpose.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-gif-dishwasher.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-seed.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-seed_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-made.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-1_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-design-3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-gda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-gda_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-before-and-after.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-before-and-after_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-team.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/indiegogo-team_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
