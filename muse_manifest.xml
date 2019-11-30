@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1574671130377">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1575104464902">
   <folder name="css">
     <file name="site_global.css" crc="4150788755"/>
-    <file name="index.css" crc="3984756225" ref="index"/>
-    <file name="intro.css" crc="3999610144" ref="intro"/>
+    <file name="index.css" crc="4289433891" ref="index"/>
+    <file name="intro.css" crc="4206967193" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -23,20 +23,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cubes.jpg" crc="3983964283" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="go.png" crc="3996556643" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="go_2x.png" crc="3996556643" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="indiegogo-scene-wash-fruit.jpg" crc="4170110570" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="indiegogo-scene-with-salad.jpg" crc="198829049" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-1.png" crc="4125201323" seo="true" ref="index">
@@ -73,6 +59,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-6_2x.png" crc="424554098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="go.png" crc="3996556643" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="go_2x.png" crc="3996556643" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="indiegogo-hero.png" crc="221231264" seo="true" ref="intro">
@@ -187,6 +179,6 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="452397656" seo="true" mt="1574670948657" redirect="true"/>
-  <file name="intro.html" crc="507990468" seo="true" mt="1574671090042" redirect="true"/>
+  <file name="index.html" crc="91825233" seo="true" mt="1575104290502" redirect="true"/>
+  <file name="intro.html" crc="4024213442" seo="true" mt="1575103711725" redirect="true"/>
 </manifest>
