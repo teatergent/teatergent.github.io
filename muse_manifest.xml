@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1575112558816">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1576071196771">
   <folder name="css">
-    <file name="site_global.css" crc="4150788755"/>
+    <file name="site_global.css" crc="3910339942"/>
     <file name="index.css" crc="4283262515" ref="index"/>
-    <file name="intro.css" crc="4206967193" ref="intro"/>
+    <file name="intro.css" crc="427071946" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -13,7 +13,7 @@
     <file name="require.js" crc="4177726516" ref="index:intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="183306268" ref="index"/>
+    <file name="a-master-favicon.ico" crc="183306268" ref="index:intro"/>
     <file name="favicon_g.png" crc="4280386788" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -97,9 +97,6 @@
     <file name="indiegogo-saponin_2x.png" crc="3906486906" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="indiegogo-gif-works.gif" crc="376923831" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
     <file name="indiegogo-scene-walk.png" crc="3922094056" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
@@ -122,9 +119,6 @@
       <caption webpage="intro" alt=""/>
     </file>
     <file name="indiegogo-scene-picnic_2x.png" crc="4273907610" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="indiegogo-gif-dissolve.gif" crc="58904864" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="indiegogo-gif-multipurpose.gif" crc="3939547512" seo="true" ref="intro">
@@ -180,5 +174,5 @@
     </file>
   </folder>
   <file name="index.html" crc="3876257664" seo="true" mt="1575112536700" redirect="true"/>
-  <file name="intro.html" crc="4024213442" seo="true" mt="1575103711725" redirect="true"/>
+  <file name="intro.html" crc="3860277138" seo="true" mt="1576071127066" redirect="true"/>
 </manifest>
