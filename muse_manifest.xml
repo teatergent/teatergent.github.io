@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583258723633">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583259629966">
   <folder name="css">
-    <file name="site_global.css" crc="4150788755"/>
-    <file name="index.css" crc="4273547105" ref="index"/>
+    <file name="site_global.css" crc="3866069360"/>
+    <file name="index.css" crc="4274475213" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -16,13 +16,7 @@
     <file name="cubes.jpg" crc="3983964283" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-1.png" crc="4125201323" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="01-seed.jpg" crc="221676630" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-3.png" crc="433836920" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="02-bacteria-a.jpg" crc="4163249064" seo="true" ref="index">
@@ -31,13 +25,7 @@
     <file name="02-bacteria-b.jpg" crc="210415028" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-4.png" crc="4223086524" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="04-before-after.jpg" crc="3820225757" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-6.png" crc="424554098" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="05-powder-cube.jpg" crc="3854848768" seo="true" ref="index">
@@ -47,9 +35,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="06-product.jpg" crc="3841098951" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-5.png" crc="418449867" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="07-compact.jpg" crc="355406541" seo="true" ref="index">
@@ -64,6 +49,36 @@
     <file name="logotype-black_2x.png" crc="509568282" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icon-a.png" crc="273765641" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-a_2x.png" crc="4280238332" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-b.png" crc="518161469" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-b_2x.png" crc="4186469145" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-c.png" crc="4059005210" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-c_2x.png" crc="3820956218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-d.png" crc="313646844" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-d_2x.png" crc="524042538" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-e.png" crc="4139569506" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-e_2x.png" crc="369377050" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="242075894" seo="true" mt="1583258712268" redirect="true"/>
+  <file name="index.html" crc="142570443" seo="true" mt="1583259621338" redirect="true"/>
 </manifest>
