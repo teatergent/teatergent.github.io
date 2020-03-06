@@ -116,5 +116,8 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/report.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/report_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
