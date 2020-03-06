@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583465311815">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583465762241">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="445091467" ref="index"/>
-    <file name="us-intro.css" crc="4135427541" ref="us-intro"/>
+    <file name="us-intro.css" crc="3939951530" ref="us-intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:us-intro"/>
@@ -47,10 +47,6 @@
       <caption webpage="us-intro" alt=""/>
     </file>
     <file name="07-compact.jpg" crc="355406541" seo="true" ref="us-intro">
-      <caption webpage="index" alt=""/>
-      <caption webpage="us-intro" alt=""/>
-    </file>
-    <file name="gda-red.png" crc="4221316288" seo="true" ref="us-intro">
       <caption webpage="index" alt=""/>
       <caption webpage="us-intro" alt=""/>
     </file>
@@ -111,16 +107,19 @@
     <file name="enter.png" crc="4038627124" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="tw" alt=""/>
       <caption webpage="us" alt=""/>
+      <caption webpage="tw" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="tw" alt=""/>
       <caption webpage="us" alt=""/>
+      <caption webpage="tw" alt=""/>
+    </file>
+    <file name="gmark.png" crc="388217568" seo="true" ref="us-intro">
+      <caption webpage="us-intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="168836450" seo="true" mt="1583465306666" redirect="true"/>
-  <file name="us-intro.html" crc="3874000870" seo="true" mt="1583465214091" redirect="true"/>
+  <file name="index.html" crc="3993259378" seo="true" mt="1583465736976" redirect="true"/>
+  <file name="us-intro.html" crc="401427905" seo="true" mt="1583465683842" redirect="true"/>
 </manifest>
