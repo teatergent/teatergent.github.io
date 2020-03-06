@@ -89,5 +89,29 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/gmark.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/cubes_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/01-seed_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-bacteria-a_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-bacteria-b_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/04-before-after_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/06-product_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/07-compact_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gmark_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
