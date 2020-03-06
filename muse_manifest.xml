@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583491551149">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583494915679">
   <folder name="css">
-    <file name="site_global.css" crc="4119131786"/>
-    <file name="index.css" crc="4248894177" ref="index"/>
+    <file name="site_global.css" crc="3866069360"/>
+    <file name="index.css" crc="4280494873" ref="index"/>
     <file name="us-intro.css" crc="4226407557" ref="us-intro"/>
   </folder>
   <folder name="scripts">
@@ -13,7 +13,6 @@
     <file name="require.js" crc="4177726516" ref="index:us-intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="148880330" ref="index"/>
     <file name="cubes.jpg" crc="311200940" seo="true" ref="us-intro">
       <caption webpage="index" alt=""/>
       <caption webpage="us-intro" alt=""/>
@@ -90,23 +89,23 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us-intro" alt=""/>
     </file>
-    <file name="languages-us.png" crc="209759516" seo="true" ref="index">
+    <file name="languages-us.png" crc="4007620117" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="languages-us_2x.png" crc="129888903" seo="true" ref="index">
+    <file name="languages-us_2x.png" crc="3852771131" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="enter.png" crc="4038627124" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="gmark.png" crc="388217568" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
@@ -148,7 +147,8 @@
     <file name="report_2x.png" crc="3793862378" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
     </file>
+    <file name="home-favicon.ico" crc="148880330" ref="index"/>
   </folder>
-  <file name="index.html" crc="4105913775" seo="true" mt="1583478355687" redirect="true"/>
+  <file name="index.html" crc="139491189" seo="true" mt="1583494904618" redirect="true"/>
   <file name="us-intro.html" crc="4160013600" seo="true" mt="1583491542063" redirect="true"/>
 </manifest>
