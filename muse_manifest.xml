@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583465088222">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583465162353">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="3942738528" ref="index"/>
+    <file name="index.css" crc="4256230431" ref="index"/>
     <file name="us-intro.css" crc="4135427541" ref="us-intro"/>
     <file name="tw.css" crc="3912103302" ref="tw"/>
     <file name="us.css" crc="234856867" ref="us"/>
@@ -113,15 +113,15 @@
     </file>
     <file name="enter.png" crc="4038627124" seo="true" ref="index:us:tw:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index:us:tw:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
       <caption webpage="tw" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="languages-us603x60.png" crc="481323548" seo="true" ref="us">
       <caption webpage="us" alt=""/>
@@ -142,7 +142,7 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3780445097" seo="true" mt="1583465067193" redirect="true"/>
+  <file name="index.html" crc="365881362" seo="true" mt="1583465153492" redirect="true"/>
   <file name="us-intro.html" crc="3865734313" seo="true" mt="1583465012591" redirect="true"/>
   <file name="us.html" crc="4240717254" seo="true" mt="1583464752497" redirect="true"/>
   <file name="tw.html" crc="3838361977" seo="true" mt="1583464804331" redirect="true"/>
