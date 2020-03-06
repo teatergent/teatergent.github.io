@@ -30,12 +30,6 @@
       <image:loc>https://teatergent.github.io/images/01-seed.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/02-bacteria-a.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-bacteria-b.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/04-before-after.jpg</image:loc>
     </image:image>
     <image:image>
@@ -96,12 +90,6 @@
       <image:loc>https://teatergent.github.io/images/01-seed_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/02-bacteria-a_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-bacteria-b_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/04-before-after_2x.jpg</image:loc>
     </image:image>
     <image:image>
@@ -112,6 +100,21 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gmark_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-salmonella.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-salmonella_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/report.png</image:loc>
     </image:image>
   </url>
 </urlset>

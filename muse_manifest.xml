@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583479334301">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583490842545">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="4248894177" ref="index"/>
-    <file name="us-intro.css" crc="3953212395" ref="us-intro"/>
+    <file name="us-intro.css" crc="4226407557" ref="us-intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:us-intro"/>
@@ -13,20 +13,12 @@
     <file name="require.js" crc="4177726516" ref="index:us-intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="183306268" ref="index"/>
+    <file name="a-master-favicon.ico" crc="148880330" ref="index:us-intro"/>
     <file name="cubes.jpg" crc="311200940" seo="true" ref="us-intro">
       <caption webpage="index" alt=""/>
       <caption webpage="us-intro" alt=""/>
     </file>
     <file name="01-seed.jpg" crc="241483175" seo="true" ref="us-intro">
-      <caption webpage="index" alt=""/>
-      <caption webpage="us-intro" alt=""/>
-    </file>
-    <file name="02-bacteria-a.jpg" crc="4029592244" seo="true" ref="us-intro">
-      <caption webpage="index" alt=""/>
-      <caption webpage="us-intro" alt=""/>
-    </file>
-    <file name="02-bacteria-b.jpg" crc="3964864112" seo="true" ref="us-intro">
       <caption webpage="index" alt=""/>
       <caption webpage="us-intro" alt=""/>
     </file>
@@ -125,12 +117,6 @@
     <file name="01-seed_2x.jpg" crc="352717611" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
     </file>
-    <file name="02-bacteria-a_2x.jpg" crc="437882982" seo="true" ref="us-intro">
-      <caption webpage="us-intro" alt=""/>
-    </file>
-    <file name="02-bacteria-b_2x.jpg" crc="96523260" seo="true" ref="us-intro">
-      <caption webpage="us-intro" alt=""/>
-    </file>
     <file name="04-before-after_2x.jpg" crc="3782721161" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
     </file>
@@ -143,7 +129,22 @@
     <file name="gmark_2x.png" crc="388217568" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
     </file>
+    <file name="02-ecoli.jpg" crc="4029592244" seo="true" ref="us-intro">
+      <caption webpage="us-intro" alt=""/>
+    </file>
+    <file name="02-ecoli_2x.jpg" crc="437882982" seo="true" ref="us-intro">
+      <caption webpage="us-intro" alt=""/>
+    </file>
+    <file name="02-salmonella.jpg" crc="3964864112" seo="true" ref="us-intro">
+      <caption webpage="us-intro" alt=""/>
+    </file>
+    <file name="02-salmonella_2x.jpg" crc="96523260" seo="true" ref="us-intro">
+      <caption webpage="us-intro" alt=""/>
+    </file>
+    <file name="report.png" crc="355655856" seo="true" ref="us-intro">
+      <caption webpage="us-intro" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="4105913775" seo="true" mt="1583478355687" redirect="true"/>
-  <file name="us-intro.html" crc="3883096573" seo="true" mt="1583478395590" redirect="true"/>
+  <file name="us-intro.html" crc="501070367" seo="true" mt="1583490833159" redirect="true"/>
 </manifest>
