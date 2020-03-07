@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583516572808">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583602120825">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="4255810635" ref="index"/>
-    <file name="us-intro.css" crc="4226407557" ref="us-intro"/>
-    <file name="us.css" crc="3892897429" ref="us"/>
-    <file name="jp.css" crc="4007929110" ref="jp"/>
+    <file name="index.css" crc="3970169425" ref="index"/>
+    <file name="us-intro.css" crc="93855520" ref="us-intro"/>
+    <file name="us.css" crc="4268054405" ref="us"/>
+    <file name="jp.css" crc="403109941" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:us-intro:us:jp"/>
@@ -91,25 +91,25 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us-intro" alt=""/>
     </file>
-    <file name="languages-us.png" crc="3781276686" seo="true" ref="index:us">
+    <file name="languages-us.png" crc="336313534" seo="true" ref="index:us">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="languages-us_2x.png" crc="4029479616" seo="true" ref="index:us">
+    <file name="languages-us_2x.png" crc="3861523871" seo="true" ref="index:us">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
     <file name="enter.png" crc="4038627124" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="tw" alt=""/>
       <caption webpage="us" alt=""/>
+      <caption webpage="tw" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="tw" alt=""/>
       <caption webpage="us" alt=""/>
+      <caption webpage="tw" alt=""/>
     </file>
     <file name="gmark.png" crc="388217568" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
@@ -144,20 +144,17 @@
     <file name="02-salmonella_2x.jpg" crc="96523260" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
     </file>
-    <file name="report.png" crc="3793862378" seo="true" ref="us-intro">
+    <file name="report.png" crc="3868014651" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
     </file>
     <file name="us-intro-favicon.ico" crc="148880330" ref="us-intro"/>
-    <file name="report_2x.png" crc="3793862378" seo="true" ref="us-intro">
-      <caption webpage="us-intro" alt=""/>
-    </file>
     <file name="home-favicon.ico" crc="148880330" ref="index"/>
     <file name="us-favicon.ico" crc="148880330" ref="us"/>
     <file name="jp-favicon.ico" crc="148880330" ref="jp"/>
-    <file name="languages-jp.png" crc="106786142" seo="true" ref="jp">
+    <file name="languages-jp.png" crc="335989687" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="languages-jp_2x.png" crc="4129452348" seo="true" ref="jp">
+    <file name="languages-jp_2x.png" crc="4167946118" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-01-find-out.png" crc="390911968" seo="true" ref="jp">
@@ -167,8 +164,8 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="302159055" seo="true" mt="1583515823276" redirect="true"/>
-  <file name="us-intro.html" crc="4160013600" seo="true" mt="1583491542063" redirect="true"/>
-  <file name="us.html" crc="470139899" seo="true" mt="1583515801738" redirect="true"/>
-  <file name="jp.html" crc="139443102" seo="true" mt="1583516566214" redirect="true"/>
+  <file name="index.html" crc="4202965141" seo="true" mt="1583602093486" redirect="true"/>
+  <file name="us-intro.html" crc="361389388" seo="true" mt="1583601554064" redirect="true"/>
+  <file name="us.html" crc="324011110" seo="true" mt="1583601991008" redirect="true"/>
+  <file name="jp.html" crc="3967831169" seo="true" mt="1583602050436" redirect="true"/>
 </manifest>
