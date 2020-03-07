@@ -6,12 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/languages-us.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/languages-us_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/enter.png</image:loc>
     </image:image>
     <image:image>
@@ -123,12 +117,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/languages-us.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/languages-us_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/enter.png</image:loc>
     </image:image>
     <image:image>
@@ -145,12 +133,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/enter_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/languages-jp.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/languages-jp_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-01-find-out.png</image:loc>
