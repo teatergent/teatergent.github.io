@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583614380881">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583614540589">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="154006354" ref="index"/>
@@ -20,15 +20,19 @@
     <file name="home-favicon.ico" crc="148880330" ref="index"/>
     <file name="languages-button-us.png" crc="336313534" ref="index:us:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="languages-button-us_2x.png" crc="3861523871" ref="index:us:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="languages-button-jp.png" crc="335989687" ref="index:us:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="languages-button-jp_2x.png" crc="4167946118" ref="index:us:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="enter.png" crc="4038627124" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
@@ -178,6 +182,6 @@
   <file name="index.html" crc="37030365" seo="true" mt="1583614374191" redirect="true"/>
   <file name="us-intro.html" crc="511941067" seo="true" mt="1583613342334" redirect="true"/>
   <file name="us.html" crc="436402202" seo="true" mt="1583614374190" redirect="true"/>
-  <file name="jp.html" crc="112050155" seo="true" mt="1583614374190" redirect="true"/>
+  <file name="jp.html" crc="338502117" seo="true" mt="1583614533881" redirect="true"/>
   <file name="jp-intro.html" crc="80740800" seo="true" mt="1583613931441" redirect="true"/>
 </manifest>
