@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583603642375">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583604391907">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="447088810" ref="index"/>
     <file name="us-intro.css" crc="93855520" ref="us-intro"/>
     <file name="us.css" crc="4097306737" ref="us"/>
-    <file name="jp.css" crc="3758888509" ref="jp"/>
+    <file name="jp.css" crc="3802012568" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:us-intro:us:jp"/>
@@ -95,14 +95,14 @@
     <file name="enter.png" crc="4038627124" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="tw" alt=""/>
       <caption webpage="us" alt=""/>
+      <caption webpage="tw" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
-      <caption webpage="tw" alt=""/>
       <caption webpage="us" alt=""/>
+      <caption webpage="tw" alt=""/>
     </file>
     <file name="gmark.png" crc="388217568" seo="true" ref="us-intro">
       <caption webpage="us-intro" alt=""/>
@@ -144,10 +144,10 @@
     <file name="home-favicon.ico" crc="148880330" ref="index"/>
     <file name="us-favicon.ico" crc="148880330" ref="us"/>
     <file name="jp-favicon.ico" crc="148880330" ref="jp"/>
-    <file name="jp-01-find-out.png" crc="390911968" seo="true" ref="jp">
+    <file name="jp-01-find-out.png" crc="3819401683" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-01-find-out_2x.png" crc="229541275" seo="true" ref="jp">
+    <file name="jp-01-find-out_2x.png" crc="3819401683" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
     <file name="languages-button-us.png" crc="336313534" ref="index:us:jp">
@@ -163,8 +163,8 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4189907387" seo="true" mt="1583603639040" redirect="true"/>
+  <file name="index.html" crc="318792930" seo="true" mt="1583604388444" redirect="true"/>
   <file name="us-intro.html" crc="361389388" seo="true" mt="1583601554064" redirect="true"/>
-  <file name="us.html" crc="327937352" seo="true" mt="1583603639039" redirect="true"/>
-  <file name="jp.html" crc="3855690925" seo="true" mt="1583603639041" redirect="true"/>
+  <file name="us.html" crc="269828441" seo="true" mt="1583604388445" redirect="true"/>
+  <file name="jp.html" crc="3773300444" seo="true" mt="1583604388443" redirect="true"/>
 </manifest>
