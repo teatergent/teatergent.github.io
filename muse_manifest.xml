@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583614540589">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583654991941">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="154006354" ref="index"/>
     <file name="jp.css" crc="53677824" ref="jp"/>
-    <file name="jp-intro.css" crc="149548074" ref="jp-intro"/>
-    <file name="us-intro.css" crc="195622411" ref="us-intro"/>
+    <file name="jp-intro.css" crc="3794487896" ref="jp-intro"/>
+    <file name="us-intro.css" crc="3794628643" ref="us-intro"/>
     <file name="us.css" crc="4124994403" ref="us"/>
   </folder>
   <folder name="scripts">
@@ -36,13 +36,13 @@
     </file>
     <file name="enter.png" crc="4038627124" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="us-intro-favicon.ico" crc="148880330" ref="us-intro"/>
     <file name="cubes.jpg" crc="311200940" seo="true" ref="us-intro:jp-intro">
@@ -93,7 +93,7 @@
       <caption webpage="jp-intro" alt=""/>
       <caption webpage="us-intro" alt=""/>
     </file>
-    <file name="report.png" crc="3868014651" seo="true" ref="us-intro:jp-intro">
+    <file name="report.png" crc="4220089329" seo="true" ref="us-intro:jp-intro">
       <caption webpage="jp-intro" alt=""/>
       <caption webpage="us-intro" alt=""/>
     </file>
@@ -178,10 +178,14 @@
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-intro-favicon.ico" crc="148880330" ref="jp-intro"/>
+    <file name="report_2x.png" crc="411504725" seo="true" ref="us-intro:jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+      <caption webpage="us-intro" alt=""/>
+    </file>
   </folder>
   <file name="index.html" crc="37030365" seo="true" mt="1583614374191" redirect="true"/>
-  <file name="us-intro.html" crc="511941067" seo="true" mt="1583613342334" redirect="true"/>
+  <file name="us-intro.html" crc="323125618" seo="true" mt="1583654935270" redirect="true"/>
   <file name="us.html" crc="436402202" seo="true" mt="1583614374190" redirect="true"/>
-  <file name="jp.html" crc="338502117" seo="true" mt="1583614533881" redirect="true"/>
-  <file name="jp-intro.html" crc="80740800" seo="true" mt="1583613931441" redirect="true"/>
+  <file name="jp.html" crc="282896593" seo="true" mt="1583654980064" redirect="true"/>
+  <file name="jp-intro.html" crc="446813171" seo="true" mt="1583654967042" redirect="true"/>
 </manifest>
