@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583773268930">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583773937804">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="476436097" ref="index"/>
     <file name="jp.css" crc="289821296" ref="jp"/>
-    <file name="jp-intro.css" crc="76264305" ref="jp-intro"/>
+    <file name="jp-intro.css" crc="4288437868" ref="jp-intro"/>
     <file name="us-intro.css" crc="402116675" ref="us-intro"/>
     <file name="us.css" crc="3849858942" ref="us"/>
   </folder>
@@ -209,10 +209,10 @@
     <file name="jp-11_2x.png" crc="506657511" seo="true" ref="jp-intro">
       <caption webpage="jp-intro" alt=""/>
     </file>
-    <file name="jp-12.png" crc="4233661898" seo="true" ref="jp-intro">
+    <file name="jp-12.png" crc="189157313" seo="true" ref="jp-intro">
       <caption webpage="jp-intro" alt=""/>
     </file>
-    <file name="jp-12_2x.png" crc="3795250378" seo="true" ref="jp-intro">
+    <file name="jp-12_2x.png" crc="4230845722" seo="true" ref="jp-intro">
       <caption webpage="jp-intro" alt=""/>
     </file>
     <file name="jp-15.png" crc="4196350711" seo="true" ref="jp-intro">
@@ -259,5 +259,5 @@
   <file name="us-intro.html" crc="3964997011" seo="true" mt="1583755492041" redirect="true"/>
   <file name="us.html" crc="3917895170" seo="true" mt="1583755302336" redirect="true"/>
   <file name="jp.html" crc="3781675132" seo="true" mt="1583760719909" redirect="true"/>
-  <file name="jp-intro.html" crc="4032748275" seo="true" mt="1583773231143" redirect="true"/>
+  <file name="jp-intro.html" crc="10058783" seo="true" mt="1583773917709" redirect="true"/>
 </manifest>
