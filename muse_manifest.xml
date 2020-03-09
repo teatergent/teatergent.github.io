@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583753225408">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583755635497">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="255465746" ref="index"/>
-    <file name="jp.css" crc="4224015260" ref="jp"/>
-    <file name="jp-intro.css" crc="3862399746" ref="jp-intro"/>
-    <file name="us-intro.css" crc="3862016377" ref="us-intro"/>
-    <file name="us.css" crc="4128003694" ref="us"/>
+    <file name="index.css" crc="476436097" ref="index"/>
+    <file name="jp.css" crc="289821296" ref="jp"/>
+    <file name="jp-intro.css" crc="4148873680" ref="jp-intro"/>
+    <file name="us-intro.css" crc="402116675" ref="us-intro"/>
+    <file name="us.css" crc="3849858942" ref="us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:us-intro:us:jp:jp-intro"/>
@@ -36,13 +36,13 @@
     </file>
     <file name="enter.png" crc="4038627124" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="us-intro-favicon.ico" crc="148880330" ref="us-intro"/>
     <file name="cubes.jpg" crc="311200940" seo="true" ref="us-intro:jp-intro">
@@ -183,9 +183,9 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="379513480" seo="true" mt="1583740759708" redirect="true"/>
-  <file name="us-intro.html" crc="4236635372" seo="true" mt="1583753159583" redirect="true"/>
-  <file name="us.html" crc="127402123" seo="true" mt="1583740746600" redirect="true"/>
-  <file name="jp.html" crc="477489691" seo="true" mt="1583740819617" redirect="true"/>
-  <file name="jp-intro.html" crc="463588129" seo="true" mt="1583753179815" redirect="true"/>
+  <file name="index.html" crc="4098757309" seo="true" mt="1583755281102" redirect="true"/>
+  <file name="us-intro.html" crc="3964997011" seo="true" mt="1583755492041" redirect="true"/>
+  <file name="us.html" crc="3917895170" seo="true" mt="1583755302336" redirect="true"/>
+  <file name="jp.html" crc="353534465" seo="true" mt="1583755342799" redirect="true"/>
+  <file name="jp-intro.html" crc="43756954" seo="true" mt="1583755622664" redirect="true"/>
 </manifest>
