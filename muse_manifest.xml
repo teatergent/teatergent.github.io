@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583820009550">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583848214489">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="476436097" ref="index"/>
@@ -36,13 +36,13 @@
     </file>
     <file name="enter.png" crc="4038627124" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="enter_2x.png" crc="4201361300" seo="true" ref="index:us:jp">
       <caption webpage="index" alt=""/>
-      <caption webpage="us" alt=""/>
       <caption webpage="jp" alt=""/>
+      <caption webpage="us" alt=""/>
     </file>
     <file name="us-intro-favicon.ico" crc="148880330" ref="us-intro"/>
     <file name="cubes.jpg" crc="311200940" seo="true" ref="us-intro:jp-intro">
@@ -306,6 +306,6 @@
   <file name="index.html" crc="4098757309" seo="true" mt="1583755281102" redirect="true"/>
   <file name="us-intro.html" crc="3765044339" seo="true" mt="1583818285256" redirect="true"/>
   <file name="us.html" crc="3917895170" seo="true" mt="1583755302336" redirect="true"/>
-  <file name="jp.html" crc="3781675132" seo="true" mt="1583760719909" redirect="true"/>
-  <file name="jp-intro.html" crc="3897437705" seo="true" mt="1583819951496" redirect="true"/>
+  <file name="jp.html" crc="514349749" seo="true" mt="1583848185031" redirect="true"/>
+  <file name="jp-intro.html" crc="3982662733" seo="true" mt="1583848201881" redirect="true"/>
 </manifest>
