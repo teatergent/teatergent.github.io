@@ -1,36 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583959304714">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1583988018235">
   <folder name="css">
-    <file name="site_global.css" crc="4119131786"/>
-    <file name="index.css" crc="153172640" ref="index"/>
-    <file name="jp-intro.css" crc="117380558" ref="jp-intro"/>
+    <file name="site_global.css" crc="3866069360"/>
+    <file name="index.css" crc="351179147" ref="index"/>
+    <file name="jp-intro.css" crc="146574533" ref="jp-intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp-intro"/>
     <file name="museutils.js" crc="340535759" ref="index:jp-intro"/>
     <file name="whatinput.js" crc="86476730" ref="index:jp-intro"/>
     <file name="museconfig.js" crc="310584261" ref="index:jp-intro"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:jp-intro"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:jp-intro"/>
     <file name="require.js" crc="7928878" ref="index:jp-intro"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="148880330" ref="index"/>
-    <file name="languages-button-us.png" crc="336313534" ref="index:jp-intro">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="languages-button-us_2x.png" crc="3861523871" ref="index:jp-intro">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="languages-button-jp.png" crc="335989687" ref="index:jp-intro">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="languages-button-jp_2x.png" crc="4167946118" ref="index:jp-intro">
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
     <file name="cubes.jpg" crc="311200940" seo="true" ref="jp-intro:index">
       <caption webpage="index" alt=""/>
       <caption webpage="jp-intro" alt=""/>
@@ -312,7 +295,15 @@
     <file name="jp-20_2x.png" crc="3950328369" seo="true" ref="jp-intro">
       <caption webpage="jp-intro" alt=""/>
     </file>
+    <file name="language.png" crc="418439784" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="language_2x.png" crc="3944453857" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4213241085" seo="true" mt="1583959291209" redirect="true"/>
-  <file name="jp-intro.html" crc="113627911" seo="true" mt="1583959282613" redirect="true"/>
+  <file name="index.html" crc="3904302231" seo="true" mt="1583987970797" redirect="true"/>
+  <file name="jp-intro.html" crc="284928270" seo="true" mt="1583988004900" redirect="true"/>
 </manifest>

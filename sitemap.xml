@@ -101,6 +101,12 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/report_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/language.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/language_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://teatergent.github.io/jp-intro.html</loc>
@@ -322,6 +328,12 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-20_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/language.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/language_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
