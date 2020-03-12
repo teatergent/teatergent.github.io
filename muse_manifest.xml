@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584021363555">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584021565639">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="3991694262" ref="index"/>
@@ -298,17 +298,21 @@
     </file>
     <file name="languages-button-us.png" crc="336313534" ref="index:jp-intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
     </file>
     <file name="languages-button-us_2x.png" crc="3861523871" ref="index:jp-intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
     </file>
     <file name="languages-button-jp.png" crc="335989687" ref="index:jp-intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
     </file>
     <file name="languages-button-jp_2x.png" crc="4167946118" ref="index:jp-intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="442863302" seo="true" mt="1584021354757" redirect="true"/>
-  <file name="jp-intro.html" crc="4164940938" seo="true" mt="1584020825378" redirect="true"/>
+  <file name="jp-intro.html" crc="3805254459" seo="true" mt="1584021554417" redirect="true"/>
 </manifest>
