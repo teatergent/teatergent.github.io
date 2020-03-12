@@ -1,0 +1,282 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584025490801">
+  <folder name="css">
+    <file name="site_global.css" crc="3866069360"/>
+    <file name="index.css" crc="492567541" ref="index"/>
+    <file name="jp-intro.css" crc="3914036420" ref="jp-intro"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp-intro"/>
+    <file name="museutils.js" crc="340535759" ref="index:jp-intro"/>
+    <file name="whatinput.js" crc="86476730" ref="index:jp-intro"/>
+    <file name="museconfig.js" crc="310584261" ref="index:jp-intro"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:jp-intro"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:jp-intro"/>
+    <file name="require.js" crc="7928878" ref="index:jp-intro"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="148880330" ref="index"/>
+    <file name="languages-button-us.png" crc="336313534" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="languages-button-us_2x.png" crc="3861523871" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="languages-button-jp.png" crc="335989687" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="languages-button-jp_2x.png" crc="4167946118" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubes.jpg" crc="311200940" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="cubes_2x.jpg" crc="255873278" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-a.png" crc="273765641" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-a_2x.png" crc="4280238332" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="01-seed.jpg" crc="241483175" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="01-seed_2x.jpg" crc="352717611" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-b.png" crc="518161469" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-b_2x.png" crc="4186469145" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="02-ecoli.jpg" crc="4029592244" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="02-ecoli_2x.jpg" crc="437882982" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="02-salmonella.jpg" crc="3964864112" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="02-salmonella_2x.jpg" crc="96523260" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="report.png" crc="4220089329" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="report_2x.png" crc="411504725" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-c.png" crc="4059005210" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-c_2x.png" crc="3820956218" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="04-before-after.jpg" crc="3772107955" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="04-before-after_2x.jpg" crc="3782721161" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-d.png" crc="313646844" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-d_2x.png" crc="524042538" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="05-powder-cube.jpg" crc="3854848768" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="05-powder-cube_2x.jpg" crc="4219857659" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="06-product.jpg" crc="3906914667" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="06-product_2x.jpg" crc="258227282" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-e.png" crc="4139569506" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="icon-e_2x.png" crc="369377050" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="07-compact.jpg" crc="4000596121" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="07-compact_2x.jpg" crc="4078801187" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="gmark.png" crc="388217568" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="gmark_2x.png" crc="388217568" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="logotype-black.png" crc="4055989163" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="logotype-black_2x.png" crc="509568282" seo="true" ref="index:jp-intro">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-intro-favicon.ico" crc="148880330" ref="jp-intro"/>
+    <file name="jp-02-logotype.png" crc="319807161" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-02-logotype_2x.png" crc="3791280928" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-03.png" crc="40713189" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-03_2x.png" crc="3759561525" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-04.png" crc="3881541290" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-04_2x.png" crc="108590229" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-05.png" crc="408776983" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-05_2x.png" crc="3875354343" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-06.png" crc="3993385440" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-06_2x.png" crc="186382244" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-08.png" crc="521846531" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-08_2x.png" crc="4273536493" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-09.png" crc="4007903463" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-09_2x.png" crc="393617526" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-10.png" crc="343786782" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-10_2x.png" crc="488489034" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-11.png" crc="4132623136" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-11_2x.png" crc="388732336" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-12.png" crc="4207928738" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-12_2x.png" crc="176629732" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-14.png" crc="290702226" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-14_2x.png" crc="336616657" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-13.png" crc="3968654253" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-13_2x.png" crc="4292865376" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-15.png" crc="282600687" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-15_2x.png" crc="4080977697" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-17.png" crc="4292589873" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-17_2x.png" crc="4047238760" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-18.png" crc="4023875007" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-18_2x.png" crc="3813634525" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-19.png" crc="496442466" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-19_2x.png" crc="249508343" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-20.png" crc="498708174" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-20_2x.png" crc="3950328369" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-22.png" crc="506727479" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-22_2x.png" crc="3972919216" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-23.png" crc="273851349" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-23_2x.png" crc="299795641" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-24.png" crc="3831178976" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+    <file name="jp-24_2x.png" crc="1870975" seo="true" ref="jp-intro">
+      <caption webpage="jp-intro" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4060002790" seo="true" mt="1584025296877" redirect="true"/>
+  <file name="jp-intro.html" crc="4148737131" seo="true" mt="1584025380659" redirect="true"/>
+</manifest>
