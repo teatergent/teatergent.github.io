@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584281175181">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584291925324">
   <folder name="css">
     <file name="site_global.css" crc="4119131786"/>
     <file name="jp.css" crc="4056251826" ref="jp"/>
@@ -17,15 +17,19 @@
     <file name="home-favicon.ico" crc="148880330" ref="index"/>
     <file name="languages-button-us.png" crc="336313534" ref="index:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="languages-button-us_2x.png" crc="3861523871" ref="index:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="languages-button-jp.png" crc="335989687" ref="index:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="languages-button-jp_2x.png" crc="4167946118" ref="index:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
     </file>
     <file name="cubes.jpg" crc="311200940" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
@@ -278,5 +282,5 @@
     </file>
   </folder>
   <file name="index.html" crc="471298491" seo="true" mt="1584281153265" redirect="true"/>
-  <file name="jp.html" crc="3876764939" seo="true" mt="1584281152896" redirect="true"/>
+  <file name="jp.html" crc="397814417" seo="true" mt="1584291899642" redirect="true"/>
 </manifest>
