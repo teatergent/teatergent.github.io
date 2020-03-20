@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://teatergent.github.io/index.html</loc>
-    <lastmod>2020-03-16</lastmod>
+    <lastmod>2020-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -34,12 +34,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/02-ecoli_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-salmonella.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-salmonella_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-c.png</image:loc>
@@ -104,7 +98,7 @@
   </url>
   <url>
     <loc>https://teatergent.github.io/jp.html</loc>
-    <lastmod>2020-03-16</lastmod>
+    <lastmod>2020-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -136,12 +130,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/02-ecoli_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-salmonella.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-salmonella_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-c.png</image:loc>
@@ -238,12 +226,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-09_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-10.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-10_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-11.png</image:loc>
