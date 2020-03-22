@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584867710894">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584908236877">
   <folder name="css">
-    <file name="site_global.css" crc="4119131786"/>
+    <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="318103559" ref="index"/>
     <file name="jp.css" crc="430434224" ref="jp"/>
   </folder>
@@ -63,27 +63,27 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="tea-saponin.png" crc="497429174" seo="true" ref="index:jp">
+    <file name="tea-saponin.png" crc="485180504" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="tea-saponin_2x.png" crc="181638046" seo="true" ref="index:jp">
+    <file name="tea-saponin_2x.png" crc="3997183286" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="02-ecoli-1.jpg" crc="502956170" seo="true" ref="index:jp">
+    <file name="02-ecoli-1.jpg" crc="493953318" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="02-ecoli-1_2x.jpg" crc="3968519443" seo="true" ref="index:jp">
+    <file name="02-ecoli-1_2x.jpg" crc="4063458302" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="02-ecoli-2.jpg" crc="4061106414" seo="true" ref="index:jp">
+    <file name="02-ecoli-2.jpg" crc="145249750" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="02-ecoli-2_2x.jpg" crc="4241576162" seo="true" ref="index:jp">
+    <file name="02-ecoli-2_2x.jpg" crc="3799951998" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -206,10 +206,10 @@
     <file name="jp-10a_2x.png" crc="403827509" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-11.png" crc="4041413602" seo="true" ref="jp">
+    <file name="jp-11.png" crc="280716933" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-11_2x.png" crc="3839960185" seo="true" ref="jp">
+    <file name="jp-11_2x.png" crc="339065039" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-09.png" crc="30237089" seo="true" ref="jp">
@@ -297,6 +297,6 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3940634489" seo="true" mt="1584825350928" redirect="true"/>
-  <file name="jp.html" crc="4278138065" seo="true" mt="1584825283762" redirect="true"/>
+  <file name="index.html" crc="4230355523" seo="true" mt="1584908180398" redirect="true"/>
+  <file name="jp.html" crc="3766258935" seo="true" mt="1584908218832" redirect="true"/>
 </manifest>
