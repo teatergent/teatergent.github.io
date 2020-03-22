@@ -30,6 +30,27 @@
       <image:loc>https://teatergent.github.io/images/icon-b_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/tea-saponin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/tea-saponin_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/report.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/icon-c.png</image:loc>
     </image:image>
     <image:image>
@@ -83,27 +104,6 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/logotype-black_2x.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/report.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/tea-saponin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/tea-saponin_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>https://teatergent.github.io/jp.html</loc>
@@ -133,6 +133,27 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/tea-saponin.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/tea-saponin_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-1_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/report.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-c.png</image:loc>
@@ -225,16 +246,28 @@
       <image:loc>https://teatergent.github.io/images/jp-08_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-09.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-10a.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-09_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-10a_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-11.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-11_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-09.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-09_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-10_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-12.png</image:loc>
@@ -265,6 +298,12 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-17_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-17a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-17a_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-18.png</image:loc>
@@ -301,45 +340,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-24_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/report.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-10.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-10_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/tea-saponin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/tea-saponin_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-10a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-10a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-17a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-17a_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
