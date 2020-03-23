@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1584908236877">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585004656682">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="318103559" ref="index"/>
-    <file name="jp.css" crc="430434224" ref="jp"/>
+    <file name="index.css" crc="506315758" ref="index"/>
+    <file name="jp.css" crc="354648910" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -12,6 +12,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:jp"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:jp"/>
     <file name="require.js" crc="7928878" ref="index:jp"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:jp"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="148880330" ref="index"/>
@@ -63,11 +64,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="tea-saponin.png" crc="485180504" seo="true" ref="index:jp">
+    <file name="tea-saponin.png" crc="3962439683" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="tea-saponin_2x.png" crc="3997183286" seo="true" ref="index:jp">
+    <file name="tea-saponin_2x.png" crc="220622380" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
@@ -149,10 +150,14 @@
     </file>
     <file name="gmark.png" crc="388217568" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
     <file name="gmark_2x.png" crc="388217568" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
     <file name="logotype-black.png" crc="4055989163" seo="true" ref="index:jp">
@@ -296,7 +301,42 @@
     <file name="jp-24_2x.png" crc="3929654705" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
+    <file name="scene-tree.jpg" crc="120752394" ref="index:jp">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scene-cooking.jpg" crc="174527284" ref="index:jp">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scene-meal.jpg" crc="350954346" ref="index:jp">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scene-highway.jpg" crc="3850722025" ref="index:jp">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="scene-landscape.jpg" crc="303833083" ref="index:jp">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-06a-u66742.png" crc="4052204654" ref="jp"/>
+    <file name="jp-06a-u66742_2x.png" crc="3788294905" ref="jp"/>
+    <file name="jp-06a-u66790.png" crc="96609717" ref="jp"/>
+    <file name="jp-06a-u66790_2x.png" crc="39347060" ref="jp"/>
+    <file name="jp-10b-u66752.png" crc="4271090578" ref="jp"/>
+    <file name="jp-10b-u66752_2x.png" crc="3852609249" ref="jp"/>
+    <file name="jp-10b-u66776.png" crc="46116427" ref="jp"/>
+    <file name="jp-10b-u66776_2x.png" crc="222288842" ref="jp"/>
+    <file name="jp-14a-u66762.png" crc="4291560493" ref="jp"/>
+    <file name="jp-14a-u66762_2x.png" crc="208958594" ref="jp"/>
+    <file name="jp-14a-u66783.png" crc="377171694" ref="jp"/>
+    <file name="jp-14a-u66783_2x.png" crc="4264685004" ref="jp"/>
+    <file name="jp-17b-u66802.png" crc="3870867559" ref="jp"/>
+    <file name="jp-17b-u66802_2x.png" crc="4133949641" ref="jp"/>
+    <file name="jp-17b-u66812.png" crc="3802623694" ref="jp"/>
+    <file name="jp-17b-u66812_2x.png" crc="422643020" ref="jp"/>
+    <file name="jp-20a-u66819.png" crc="4094748093" ref="jp"/>
+    <file name="jp-20a-u66819_2x.png" crc="3983806431" ref="jp"/>
+    <file name="jp-20a-u66821.png" crc="356437956" ref="jp"/>
+    <file name="jp-20a-u66821_2x.png" crc="176879466" ref="jp"/>
   </folder>
-  <file name="index.html" crc="4230355523" seo="true" mt="1584908180398" redirect="true"/>
-  <file name="jp.html" crc="3766258935" seo="true" mt="1584908218832" redirect="true"/>
+  <file name="index.html" crc="94289873" seo="true" mt="1585002661679" redirect="true"/>
+  <file name="jp.html" crc="233334925" seo="true" mt="1585004540089" redirect="true"/>
 </manifest>
