@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585073676022">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585074131629">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="353295438" ref="index"/>
-    <file name="us.css" crc="518410382" ref="us"/>
+    <file name="index.css" crc="253128216" ref="index"/>
+    <file name="us.css" crc="4025576642" ref="us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="us:index"/>
@@ -408,10 +408,10 @@
     <file name="jp-20a_2x.png" crc="4165890115" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-20b5.png" crc="4288557141" seo="true" ref="index">
+    <file name="jp-20b5.png" crc="4070017193" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-20b5_2x.png" crc="4122184590" seo="true" ref="index">
+    <file name="jp-20b5_2x.png" crc="4262555254" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-20b1.png" crc="461457340" seo="true" ref="index">
@@ -426,11 +426,11 @@
     <file name="jp-20b2_2x.png" crc="36289720" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-20b3.png" crc="317470935" seo="true" ref="index">
+    <file name="jp-20b3.png" crc="4282997475" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-20b3_2x.png" crc="198127517" seo="true" ref="index">
+    <file name="jp-20b3_2x.png" crc="395380744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -467,6 +467,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="us.html" crc="116067457" seo="true" mt="1585073600998" redirect="true"/>
-  <file name="index.html" crc="535840154" seo="true" mt="1585073600998" redirect="true"/>
+  <file name="us.html" crc="3931143561" seo="true" mt="1585074091705" redirect="true"/>
+  <file name="index.html" crc="333162324" seo="true" mt="1585074064344" redirect="true"/>
 </manifest>
