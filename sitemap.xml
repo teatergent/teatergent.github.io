@@ -36,18 +36,6 @@
       <image:loc>https://teatergent.github.io/images/tea-saponin_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/02-ecoli-2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/report.jpg</image:loc>
     </image:image>
     <image:image>
@@ -109,6 +97,12 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/making_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
