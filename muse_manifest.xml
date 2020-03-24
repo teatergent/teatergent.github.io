@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585074254208">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585075023517">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="4120398296" ref="index"/>
-    <file name="us.css" crc="3778889516" ref="us"/>
+    <file name="index.css" crc="384328316" ref="index"/>
+    <file name="us.css" crc="3860069159" ref="us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="us:index"/>
@@ -86,11 +86,11 @@
     <file name="scene-cooking.jpg" crc="174527284" ref="us:index">
       <caption webpage="us" alt=""/>
     </file>
-    <file name="02-ecoli.jpg" crc="4144463353" seo="true" ref="us:index">
+    <file name="02-ecoli.jpg" crc="230828056" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="02-ecoli_2x.jpg" crc="25962533" seo="true" ref="us:index">
+    <file name="02-ecoli_2x.jpg" crc="3763251101" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -466,7 +466,19 @@
     <file name="jp-24_2x.png" crc="3929654705" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="jp-18c4.png" crc="4293571032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-18c4_2x.png" crc="3966314347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-18c3.png" crc="4006525188" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-18c3_2x.png" crc="53420605" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="us.html" crc="3965217329" seo="true" mt="1585074224048" redirect="true"/>
-  <file name="index.html" crc="141188268" seo="true" mt="1585074237506" redirect="true"/>
+  <file name="us.html" crc="255881638" seo="true" mt="1585074984698" redirect="true"/>
+  <file name="index.html" crc="4001298899" seo="true" mt="1585075003412" redirect="true"/>
 </manifest>
