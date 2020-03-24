@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585070233280">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585070410315">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="jp.css" crc="4102905593" ref="jp"/>
-    <file name="index.css" crc="4237233821" ref="index"/>
+    <file name="jp.css" crc="4162911111" ref="jp"/>
+    <file name="index.css" crc="515197047" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -393,62 +393,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="tea-saponin-mini.png" crc="146589607" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
-    <file name="tea-saponin-mini_2x.png" crc="4157022386" seo="true" ref="index:jp">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-      <caption webpage="jp" alt=""/>
-    </file>
     <file name="oil-b.jpg" crc="4146297815" seo="true" ref="index:jp">
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
@@ -470,6 +414,6 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="128500635" seo="true" mt="1585070216755" redirect="true"/>
-  <file name="jp.html" crc="4062248405" seo="true" mt="1585070207275" redirect="true"/>
+  <file name="index.html" crc="3979550117" seo="true" mt="1585070379371" redirect="true"/>
+  <file name="jp.html" crc="208324717" seo="true" mt="1585070385884" redirect="true"/>
 </manifest>
