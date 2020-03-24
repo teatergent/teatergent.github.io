@@ -371,5 +371,23 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-24_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-07.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-07_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-16.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-16_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-21.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-21_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
