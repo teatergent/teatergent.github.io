@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585009712270">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585010154400">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="8825980" ref="index"/>
-    <file name="jp.css" crc="4275527737" ref="jp"/>
+    <file name="index.css" crc="3837228367" ref="index"/>
+    <file name="jp.css" crc="345887559" ref="jp"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -347,6 +347,6 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4186696813" seo="true" mt="1585009626823" redirect="true"/>
-  <file name="jp.html" crc="303693780" seo="true" mt="1585009695158" redirect="true"/>
+  <file name="index.html" crc="42173439" seo="true" mt="1585009942305" redirect="true"/>
+  <file name="jp.html" crc="56155334" seo="true" mt="1585009900083" redirect="true"/>
 </manifest>
