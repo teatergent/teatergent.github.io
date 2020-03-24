@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585010154400">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585010236937">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="index.css" crc="3837228367" ref="index"/>
@@ -347,6 +347,6 @@
       <caption webpage="jp" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="42173439" seo="true" mt="1585009942305" redirect="true"/>
-  <file name="jp.html" crc="56155334" seo="true" mt="1585009900083" redirect="true"/>
+  <file name="index.html" crc="331972294" seo="true" mt="1585009942305" redirect="true"/>
+  <file name="jp.html" crc="37907489" seo="true" mt="1585009900083" redirect="true"/>
 </manifest>
