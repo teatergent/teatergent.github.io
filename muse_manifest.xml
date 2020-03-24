@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585064313049">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585070233280">
   <folder name="css">
-    <file name="site_global.css" crc="4119131786"/>
-    <file name="jp.css" crc="267852088" ref="jp"/>
-    <file name="index.css" crc="4040895138" ref="index"/>
+    <file name="site_global.css" crc="3866069360"/>
+    <file name="jp.css" crc="4102905593" ref="jp"/>
+    <file name="index.css" crc="4237233821" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:jp"/>
@@ -309,16 +309,16 @@
     <file name="jp-20a_2x.png" crc="4165890115" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-22.png" crc="59648385" seo="true" ref="jp">
+    <file name="jp-22.png" crc="3972744711" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-22_2x.png" crc="18334772" seo="true" ref="jp">
+    <file name="jp-22_2x.png" crc="33574731" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-23.png" crc="394288172" seo="true" ref="jp">
+    <file name="jp-23.png" crc="3829833608" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="jp-23_2x.png" crc="329709820" seo="true" ref="jp">
+    <file name="jp-23_2x.png" crc="3802309910" seo="true" ref="jp">
       <caption webpage="jp" alt=""/>
     </file>
     <file name="jp-24.png" crc="4270381832" seo="true" ref="jp">
@@ -385,7 +385,91 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
+    <file name="oil-a.jpg" crc="244560688" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="oil-a_2x.jpg" crc="4044370497" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="tea-saponin-mini.png" crc="146589607" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="tea-saponin-mini_2x.png" crc="4157022386" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="oil-b.jpg" crc="4146297815" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="oil-b_2x.jpg" crc="4133671404" seo="true" ref="index:jp">
+      <caption webpage="index" alt=""/>
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="jp-09.png" crc="3912196156" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="jp-09_2x.png" crc="4157028986" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="jp-10.png" crc="52904820" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
+    <file name="jp-10_2x.png" crc="3979487498" seo="true" ref="jp">
+      <caption webpage="jp" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3994076940" seo="true" mt="1585064294585" redirect="true"/>
-  <file name="jp.html" crc="480570649" seo="true" mt="1585064251687" redirect="true"/>
+  <file name="index.html" crc="128500635" seo="true" mt="1585070216755" redirect="true"/>
+  <file name="jp.html" crc="4062248405" seo="true" mt="1585070207275" redirect="true"/>
 </manifest>
