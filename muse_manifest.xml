@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585154639245">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585159705364">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="326286302" ref="index"/>
-    <file name="us.css" crc="4054228013" ref="us"/>
+    <file name="index.css" crc="200597275" ref="index"/>
+    <file name="us.css" crc="4078425607" ref="us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="us:index"/>
@@ -487,6 +487,6 @@
       <caption webpage="us" alt=""/>
     </file>
   </folder>
-  <file name="us.html" crc="116780676" seo="true" mt="1585154530144" redirect="true"/>
-  <file name="index.html" crc="41705832" seo="true" mt="1585154586656" redirect="true"/>
+  <file name="us.html" crc="4055168438" seo="true" mt="1585156363965" redirect="true"/>
+  <file name="index.html" crc="319495348" seo="true" mt="1585159620345" redirect="true"/>
 </manifest>
