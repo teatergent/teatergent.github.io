@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585137432493">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585138618784">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="241022082" ref="index"/>
-    <file name="us.css" crc="60969334" ref="us"/>
+    <file name="index.css" crc="54643578" ref="index"/>
+    <file name="us.css" crc="267847027" ref="us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="us:index"/>
@@ -152,11 +152,11 @@
     <file name="scene-highway.jpg" crc="3850722025" ref="us:index">
       <caption webpage="us" alt=""/>
     </file>
-    <file name="compress.jpg" crc="4103073829" seo="true" ref="us:index">
+    <file name="compress.jpg" crc="3922689503" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="compress_2x.jpg" crc="494500303" seo="true" ref="us:index">
+    <file name="compress_2x.jpg" crc="200336474" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -187,11 +187,11 @@
     <file name="scene-landscape.jpg" crc="303833083" ref="us:index">
       <caption webpage="us" alt=""/>
     </file>
-    <file name="box.png" crc="319843810" seo="true" ref="us:index">
+    <file name="box.png" crc="38616996" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="box_2x.png" crc="406031424" seo="true" ref="us:index">
+    <file name="box_2x.png" crc="125428442" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -330,16 +330,16 @@
     <file name="jp-14a_2x.png" crc="3947362890" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-09.png" crc="3912196156" seo="true" ref="index">
+    <file name="jp-09.png" crc="4204131273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-09_2x.png" crc="4157028986" seo="true" ref="index">
+    <file name="jp-09_2x.png" crc="4204131273" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-10.png" crc="52904820" seo="true" ref="index">
+    <file name="jp-10.png" crc="473586834" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-10_2x.png" crc="3979487498" seo="true" ref="index">
+    <file name="jp-10_2x.png" crc="473586834" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-15.png" crc="3882841697" seo="true" ref="index">
@@ -479,6 +479,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="us.html" crc="4283744666" seo="true" mt="1585137407976" redirect="true"/>
-  <file name="index.html" crc="3826694018" seo="true" mt="1585136720192" redirect="true"/>
+  <file name="us.html" crc="392935515" seo="true" mt="1585138590973" redirect="true"/>
+  <file name="index.html" crc="4130215864" seo="true" mt="1585138599901" redirect="true"/>
 </manifest>
