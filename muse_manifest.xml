@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585139211356">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585139615117">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="54643578" ref="index"/>
-    <file name="us.css" crc="267847027" ref="us"/>
+    <file name="index.css" crc="4265848329" ref="index"/>
+    <file name="us.css" crc="353894550" ref="us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="us:index"/>
@@ -59,11 +59,11 @@
     <file name="scene-tree.jpg" crc="120752394" ref="us:index">
       <caption webpage="us" alt=""/>
     </file>
-    <file name="making.jpg" crc="3850490526" seo="true" ref="us:index">
+    <file name="making.jpg" crc="4148464247" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="making_2x.jpg" crc="301197402" seo="true" ref="us:index">
+    <file name="making_2x.jpg" crc="3949792810" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -75,11 +75,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="tea-saponin.png" crc="3962439683" seo="true" ref="us:index">
+    <file name="tea-saponin.png" crc="432778738" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="tea-saponin_2x.png" crc="220622380" seo="true" ref="us:index">
+    <file name="tea-saponin_2x.png" crc="136756684" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -475,6 +475,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="us.html" crc="4211001100" seo="true" mt="1585139194510" redirect="true"/>
-  <file name="index.html" crc="3806437338" seo="true" mt="1585139194324" redirect="true"/>
+  <file name="us.html" crc="3847791201" seo="true" mt="1585139586188" redirect="true"/>
+  <file name="index.html" crc="127615525" seo="true" mt="1585139593844" redirect="true"/>
 </manifest>
