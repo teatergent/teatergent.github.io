@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585146968223">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585151621164">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="3780654705" ref="index"/>
-    <file name="us.css" crc="78709693" ref="us"/>
+    <file name="index.css" crc="4160965201" ref="index"/>
+    <file name="us.css" crc="4245400288" ref="us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="us:index"/>
@@ -52,7 +52,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="01-seed.jpg" crc="435550568" seo="true" ref="us:index">
+    <file name="01-seed.jpg" crc="129929970" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -60,7 +60,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="making.jpg" crc="3885151668" seo="true" ref="us:index">
+    <file name="making.jpg" crc="498830179" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -72,7 +72,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="tea-saponin.png" crc="4140648640" seo="true" ref="us:index">
+    <file name="tea-saponin.png" crc="74456417" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -80,7 +80,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="02-ecoli.jpg" crc="4253277759" seo="true" ref="us:index">
+    <file name="02-ecoli.jpg" crc="3976429747" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -96,7 +96,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="04-before-after.jpg" crc="312810596" seo="true" ref="us:index">
+    <file name="04-before-after.jpg" crc="4190500220" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -104,11 +104,11 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="oil-a.jpg" crc="4002400740" seo="true" ref="us:index">
+    <file name="oil-a.jpg" crc="235033126" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="oil-b.jpg" crc="88531811" seo="true" ref="us:index">
+    <file name="oil-b.jpg" crc="127786673" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -132,7 +132,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="compress.jpg" crc="3782917446" seo="true" ref="us:index">
+    <file name="compress.jpg" crc="4260997193" seo="true" ref="us:index">
       <caption webpage="index" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
@@ -478,7 +478,15 @@
     <file name="jp-20a_2x.png" crc="263954252" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="tea-saponin_2x.png" crc="521729926" seo="true" ref="us:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="us" alt=""/>
+    </file>
+    <file name="02-ecoli_2x.jpg" crc="4286224188" seo="true" ref="us:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="us" alt=""/>
+    </file>
   </folder>
-  <file name="us.html" crc="4106981454" seo="true" mt="1585146943567" redirect="true"/>
-  <file name="index.html" crc="314219207" seo="true" mt="1585146823184" redirect="true"/>
+  <file name="us.html" crc="3937110825" seo="true" mt="1585151598399" redirect="true"/>
+  <file name="index.html" crc="240608592" seo="true" mt="1585151533361" redirect="true"/>
 </manifest>
