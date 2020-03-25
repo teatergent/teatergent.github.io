@@ -21,13 +21,7 @@
       <image:loc>https://teatergent.github.io/images/01-seed.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/01-seed_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/making.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/making_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-b.png</image:loc>
@@ -37,9 +31,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/tea-saponin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/tea-saponin_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/02-ecoli.jpg</image:loc>
@@ -57,19 +48,10 @@
       <image:loc>https://teatergent.github.io/images/04-before-after.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/04-before-after_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/oil-a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/oil-a_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/oil-b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/oil-b_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-d.png</image:loc>
@@ -87,13 +69,7 @@
       <image:loc>https://teatergent.github.io/images/compress.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/compress_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/06-product.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/06-product_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-e.png</image:loc>
@@ -103,9 +79,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/07-compact.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/07-compact_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/box.png</image:loc>
@@ -159,9 +132,6 @@
       <image:loc>https://teatergent.github.io/images/jp-06a.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-06a_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/jp-06b4.png</image:loc>
     </image:image>
     <image:image>
@@ -207,9 +177,6 @@
       <image:loc>https://teatergent.github.io/images/jp-10b.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-10b_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/jp-11.png</image:loc>
     </image:image>
     <image:image>
@@ -235,9 +202,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-14a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-14a_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-09.png</image:loc>
@@ -279,9 +243,6 @@
       <image:loc>https://teatergent.github.io/images/jp-17b.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-17b_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/jp-18c1.png</image:loc>
     </image:image>
     <image:image>
@@ -313,9 +274,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-20a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-20a_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-20b5.png</image:loc>
@@ -383,6 +341,18 @@
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-18c3_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-a_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://teatergent.github.io/us.html</loc>
@@ -405,13 +375,7 @@
       <image:loc>https://teatergent.github.io/images/01-seed.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/01-seed_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/making.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/making_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-b.png</image:loc>
@@ -421,9 +385,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/tea-saponin.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/tea-saponin_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/02-ecoli.jpg</image:loc>
@@ -441,19 +402,10 @@
       <image:loc>https://teatergent.github.io/images/04-before-after.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/04-before-after_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/oil-a.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/oil-a_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/oil-b.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/oil-b_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-d.png</image:loc>
@@ -471,13 +423,7 @@
       <image:loc>https://teatergent.github.io/images/compress.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/compress_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/06-product.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/06-product_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-e.png</image:loc>
@@ -487,9 +433,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/07-compact.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/07-compact_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/box.png</image:loc>
@@ -508,6 +451,18 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/logotype-black_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-b.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-b_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-a.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/02-ecoli-txt-a_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
