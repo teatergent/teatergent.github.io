@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585412585032">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585413454521">
   <folder name="css">
     <file name="site_global.css" crc="4119131786"/>
-    <file name="index.css" crc="481102060" ref="index"/>
+    <file name="index.css" crc="3758230370" ref="index"/>
     <file name="us.css" crc="13743600" ref="us"/>
     <file name="jp.css" crc="3970605658" ref="jp"/>
   </folder>
@@ -653,18 +653,18 @@
     <file name="made-11-cube-crop-480x200.gif" crc="146118757" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="anna-19-wash-dish-behind-box-crop-480x200.gif" crc="3980034060" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="anna-26-27-dishwasher-crop-480x200.gif" crc="238695198" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="anna-30-put-box-with-veges-crop-480x200.gif" crc="167852738" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-favicon.ico" crc="148880330" ref="jp"/>
+    <file name="anna-16-open-box-crop-480x200.gif" crc="468322390" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="anna-29-eat-salad-with-box-crop-480x200.gif" crc="4166653083" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <file name="us.html" crc="3827231626" seo="true" mt="1585409124778" redirect="true"/>
-  <file name="index.html" crc="3924374888" seo="true" mt="1585412560567" redirect="true"/>
+  <file name="index.html" crc="3800206523" seo="true" mt="1585413440956" redirect="true"/>
   <file name="jp.html" crc="3832497370" seo="true" mt="1585409141242" redirect="true"/>
 </manifest>
