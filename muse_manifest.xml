@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585414999358">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585425605297">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
     <file name="us.css" crc="4197820319" ref="us"/>
     <file name="jp.css" crc="3970605658" ref="jp"/>
-    <file name="index.css" crc="237716217" ref="index"/>
+    <file name="index.css" crc="139282616" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="us:index:jp"/>
@@ -252,13 +252,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="gif-c14.gif" crc="288282335" seo="true" ref="index">
+    <file name="gif-c14.gif" crc="4164044083" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-c16.gif" crc="340365435" seo="true" ref="index">
+    <file name="gif-c16.gif" crc="62491411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-c17.gif" crc="4035438147" seo="true" ref="index">
+    <file name="gif-c17.gif" crc="3998246856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-08.png" crc="445425871" seo="true" ref="index:jp">
@@ -285,13 +285,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="gif-a08.gif" crc="4208152323" seo="true" ref="index">
+    <file name="gif-a08.gif" crc="3921671590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-a07.gif" crc="3763353661" seo="true" ref="index">
+    <file name="gif-a07.gif" crc="209047393" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-a03.gif" crc="4221614672" seo="true" ref="index">
+    <file name="gif-a03.gif" crc="158213021" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-12.png" crc="28655933" seo="true" ref="index:jp">
@@ -593,6 +593,6 @@
     </file>
   </folder>
   <file name="us.html" crc="3912826693" seo="true" mt="1585409124778" redirect="true"/>
-  <file name="index.html" crc="3989596062" seo="true" mt="1585414979847" redirect="true"/>
+  <file name="index.html" crc="4283764104" seo="true" mt="1585425582941" redirect="true"/>
   <file name="jp.html" crc="3939291137" seo="true" mt="1585409141242" redirect="true"/>
 </manifest>
