@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585412158570">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585412585032">
   <folder name="css">
     <file name="site_global.css" crc="4119131786"/>
-    <file name="index.css" crc="3820042918" ref="index"/>
+    <file name="index.css" crc="481102060" ref="index"/>
     <file name="us.css" crc="13743600" ref="us"/>
     <file name="jp.css" crc="3970605658" ref="jp"/>
   </folder>
@@ -611,16 +611,13 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="us" alt=""/>
     </file>
-    <file name="favicon-b.png" crc="229649000" seo="true" ref="index">
+    <file name="favicon-b.png" crc="199665848" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="favicon-b_2x.png" crc="481749556" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="made-14-dissolve-crop-480x200.gif" crc="288282335" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="made-15-liquid-crop-480x200.gif" crc="3910933479" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="made-16-dishwashing-crop-480x200.gif" crc="340365435" seo="true" ref="index">
@@ -635,9 +632,6 @@
     <file name="anna-13-wash-vege-crop-480x200.gif" crc="3763353661" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="anna-03-make-salad-crop-480x200.gif" crc="4281431468" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="anna-05-eat-salad-close-up-crop-480x200.gif" crc="4221614672" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -647,13 +641,7 @@
     <file name="extra-02-pet-bowl-crop-480x200.gif" crc="4081378948" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="extra-09-baby-bottle-crop-480x200.gif" crc="3814419217" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="extra-10-chopping-board-ori-480x200.gif" crc="408819756" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="made-03-tea-tree-crop-480x200.gif" crc="36856814" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="made-07-shelling-ori-480x200.gif" crc="274819997" seo="true" ref="index">
@@ -663,9 +651,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="made-11-cube-crop-480x200.gif" crc="146118757" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="anna-16-open-box-crop-480x200.gif" crc="468322390" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="anna-19-wash-dish-behind-box-crop-480x200.gif" crc="3980034060" seo="true" ref="index">
@@ -680,6 +665,6 @@
     <file name="jp-favicon.ico" crc="148880330" ref="jp"/>
   </folder>
   <file name="us.html" crc="3827231626" seo="true" mt="1585409124778" redirect="true"/>
-  <file name="index.html" crc="523890113" seo="true" mt="1585412127841" redirect="true"/>
+  <file name="index.html" crc="3924374888" seo="true" mt="1585412560567" redirect="true"/>
   <file name="jp.html" crc="3832497370" seo="true" mt="1585409141242" redirect="true"/>
 </manifest>
