@@ -147,13 +147,13 @@
       <image:loc>https://teatergent.github.io/images/jp-15_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/gif-b03.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/gif-b01.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-b05.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-b03.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-04.png</image:loc>
