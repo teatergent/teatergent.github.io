@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585495845710">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585497238838">
   <folder name="css">
-    <file name="site_global.css" crc="3866069360"/>
+    <file name="site_global.css" crc="4119131786"/>
     <file name="jp.css" crc="506662547" ref="jp"/>
-    <file name="index.css" crc="4110763536" ref="index"/>
+    <file name="index.css" crc="392343444" ref="index"/>
     <file name="us.css" crc="357020731" ref="us"/>
   </folder>
   <folder name="scripts">
@@ -406,7 +406,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
-    <file name="gif-b01.gif" crc="197764367" seo="true" ref="index">
+    <file name="gif-b01.gif" crc="100998761" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-10-love.gif" crc="4012928149" seo="true" ref="index">
@@ -433,10 +433,10 @@
     <file name="jp-note-08_2x.png" crc="4008091762" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-b05.gif" crc="291229014" seo="true" ref="index">
+    <file name="gif-b05.gif" crc="4258808029" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gif-b03.gif" crc="432341034" seo="true" ref="index">
+    <file name="gif-b03.gif" crc="103988395" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-18-living.gif" crc="252173779" seo="true" ref="index">
@@ -781,6 +781,6 @@
     </file>
   </folder>
   <file name="us.html" crc="3802902289" seo="true" mt="1585482593661" redirect="true"/>
-  <file name="index.html" crc="210827484" seo="true" mt="1585495823916" redirect="true"/>
+  <file name="index.html" crc="392073818" seo="true" mt="1585497169264" redirect="true"/>
   <file name="jp.html" crc="273770791" seo="true" mt="1585482597848" redirect="true"/>
 </manifest>
