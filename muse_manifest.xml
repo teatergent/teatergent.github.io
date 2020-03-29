@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585492817398">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585493080028">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="3949579339" ref="index"/>
-    <file name="nomq_index.css" crc="197244507" ref="index"/>
+    <file name="index.css" crc="4067228804" ref="index"/>
+    <file name="nomq_index.css" crc="4115051441" ref="index"/>
     <file name="us.css" crc="4020479572" ref="us"/>
     <file name="jp.css" crc="506662547" ref="jp"/>
   </folder>
@@ -934,6 +934,6 @@
     </file>
   </folder>
   <file name="us.html" crc="516316627" seo="true" mt="1585482593661" redirect="true"/>
-  <file name="index.html" crc="338822088" seo="true" mt="1585492756416" redirect="true"/>
+  <file name="index.html" crc="425855545" seo="true" mt="1585493058505" redirect="true"/>
   <file name="jp.html" crc="347835230" seo="true" mt="1585482597848" redirect="true"/>
 </manifest>
