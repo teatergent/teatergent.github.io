@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://teatergent.github.io/index.html</loc>
-    <lastmod>2020-03-29</lastmod>
+    <lastmod>2020-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -390,12 +390,6 @@
       <image:loc>https://teatergent.github.io/images/jp-note-13_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-19-molecule.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-19-molecule_2x.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/jp-note-14.png</image:loc>
     </image:image>
     <image:image>
@@ -406,12 +400,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-a14.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-20-cycle.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-20-cycle_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-note-15.png</image:loc>
@@ -436,6 +424,18 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-24_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-16-air.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-16-air_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-21-molecule.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-21-molecule_2x.gif</image:loc>
     </image:image>
   </url>
   <url>

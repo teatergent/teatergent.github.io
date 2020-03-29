@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585497238838">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585507486576">
   <folder name="css">
-    <file name="site_global.css" crc="4119131786"/>
+    <file name="site_global.css" crc="3866069360"/>
     <file name="jp.css" crc="506662547" ref="jp"/>
     <file name="index.css" crc="392343444" ref="index"/>
     <file name="us.css" crc="357020731" ref="us"/>
@@ -591,12 +591,6 @@
     <file name="jp-note-13_2x.png" crc="4186404386" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-19-molecule.gif" crc="473386469" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-19-molecule_2x.gif" crc="473386469" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="jp-note-14.png" crc="388358133" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -607,12 +601,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-a14.gif" crc="192761994" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-20-cycle.gif" crc="118412663" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-20-cycle_2x.gif" crc="118412663" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-note-15.png" crc="4097505112" seo="true" ref="index">
@@ -779,8 +767,20 @@
       <caption webpage="jp" alt=""/>
       <caption webpage="jp" alt=""/>
     </file>
+    <file name="icon-16-air.gif" crc="3895232616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-16-air_2x.gif" crc="3895232616" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-21-molecule.gif" crc="4069921950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-21-molecule_2x.gif" crc="4069921950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
   <file name="us.html" crc="3802902289" seo="true" mt="1585482593661" redirect="true"/>
-  <file name="index.html" crc="392073818" seo="true" mt="1585497169264" redirect="true"/>
+  <file name="index.html" crc="473548838" seo="true" mt="1585507428442" redirect="true"/>
   <file name="jp.html" crc="273770791" seo="true" mt="1585482597848" redirect="true"/>
 </manifest>
