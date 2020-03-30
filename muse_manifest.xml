@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585599242936">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585600731262">
   <folder name="css">
     <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="488127014" ref="index"/>
+    <file name="index.css" crc="528216460" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -176,9 +176,6 @@
     <file name="jp-03-a_2x.png" crc="3775877800" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="scene-tree.jpg" crc="3838357928" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="jp-25-shadow.png" crc="4293870585" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -236,6 +233,12 @@
     <file name="gif-c11.gif" crc="146118757" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="tree.jpg" crc="3848258349" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tree_2x.jpg" crc="518339784" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3834114705" seo="true" mt="1585599232873" redirect="true"/>
+  <file name="index.html" crc="202931911" seo="true" mt="1585600581903" redirect="true"/>
 </manifest>
