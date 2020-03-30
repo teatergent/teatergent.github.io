@@ -6,28 +6,22 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-15-water.gif</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-02-logotype-a.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-15-water_2x.gif</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-02-logotype-a_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-01.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-03-a.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-01_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-03-a_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-02.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/icon-04-material.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-02_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-03.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-03_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/icon-04-material_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-07-leaf.gif</image:loc>
@@ -54,36 +48,6 @@
       <image:loc>https://teatergent.github.io/images/jp-note-06_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-06-cooking.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-06-cooking_2x.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-08.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-08_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-09.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-09_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-07.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-note-07_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-04-material.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/icon-04-material_2x.gif</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://teatergent.github.io/images/jp-note-10.png</image:loc>
     </image:image>
     <image:image>
@@ -102,10 +66,40 @@
       <image:loc>https://teatergent.github.io/images/jp-note-12_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-15-water.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-15-water_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-06-cooking.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/icon-06-cooking_2x.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/icon-10-love.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/icon-10-love_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-note-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-note-01_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-note-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-note-02_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-note-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-note-03_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/jp-note-13.png</image:loc>
@@ -126,46 +120,22 @@
       <image:loc>https://teatergent.github.io/images/jp-note-15_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/makuake.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-note-08.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/makuake_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-note-08_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-26.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-note-09.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-26_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-note-09_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/enter.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-note-07.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://teatergent.github.io/images/enter_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-02-logotype-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-02-logotype-a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-03-a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-03-a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-25-shadow.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-25-shadow_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/jp-25_2x.png</image:loc>
+      <image:loc>https://teatergent.github.io/images/jp-note-07_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-c14.gif</image:loc>
@@ -175,15 +145,6 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-c17.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/gif-a03.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/gif-a07.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://teatergent.github.io/images/gif-a08.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-b01.gif</image:loc>
@@ -204,6 +165,15 @@
       <image:loc>https://teatergent.github.io/images/gif-a14.gif</image:loc>
     </image:image>
     <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-a03.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-a07.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/gif-a08.gif</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>https://teatergent.github.io/images/gif-c07.gif</image:loc>
     </image:image>
     <image:image>
@@ -211,6 +181,36 @@
     </image:image>
     <image:image>
       <image:loc>https://teatergent.github.io/images/gif-c11.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-25-shadow.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-25-shadow_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-25.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-25_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/makuake.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/makuake_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-26.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/jp-26_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/enter.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://teatergent.github.io/images/enter_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
