@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585585118807">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585585696344">
   <folder name="css">
     <file name="site_global.css" crc="4119131786"/>
     <file name="index.css" crc="4162658208" ref="index"/>
@@ -179,16 +179,16 @@
     <file name="scene-tree.jpg" crc="3838357928" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25-shadow.png" crc="4225843527" seo="true" ref="index">
+    <file name="jp-25-shadow.png" crc="3939543391" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25-shadow_2x.png" crc="3807567850" seo="true" ref="index">
+    <file name="jp-25-shadow_2x.png" crc="441008384" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25.png" crc="188516676" seo="true" ref="index">
+    <file name="jp-25.png" crc="340251789" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25_2x.png" crc="3796267753" seo="true" ref="index">
+    <file name="jp-25_2x.png" crc="366991307" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-c14.gif" crc="4164044083" seo="true" ref="index">
@@ -237,5 +237,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="63376985" seo="true" mt="1585585106983" redirect="true"/>
+  <file name="index.html" crc="363482145" seo="true" mt="1585585687024" redirect="true"/>
 </manifest>
