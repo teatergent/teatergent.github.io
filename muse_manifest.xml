@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585584428929">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1585585118807">
   <folder name="css">
     <file name="site_global.css" crc="4119131786"/>
     <file name="index.css" crc="4162658208" ref="index"/>
@@ -15,7 +15,6 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
   </folder>
   <folder name="images">
     <file name="home-favicon.ico" crc="148880330" ref="index"/>
@@ -180,16 +179,16 @@
     <file name="scene-tree.jpg" crc="3838357928" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25-shadow.png" crc="96597030" seo="true" ref="index">
+    <file name="jp-25-shadow.png" crc="4225843527" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25-shadow_2x.png" crc="286439368" seo="true" ref="index">
+    <file name="jp-25-shadow_2x.png" crc="3807567850" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25.png" crc="4228486116" seo="true" ref="index">
+    <file name="jp-25.png" crc="188516676" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-25_2x.png" crc="340690332" seo="true" ref="index">
+    <file name="jp-25_2x.png" crc="3796267753" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-c14.gif" crc="4164044083" seo="true" ref="index">
@@ -238,5 +237,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="253685628" seo="true" mt="1585584413049" redirect="true"/>
+  <file name="index.html" crc="63376985" seo="true" mt="1585585106983" redirect="true"/>
 </manifest>
