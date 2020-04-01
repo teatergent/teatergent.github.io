@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585739723458">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585742259293">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3982275281" ref="index"/>
+    <file name="index.css" crc="68320284" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -203,19 +203,16 @@
     <file name="gif-4c.gif" crc="146118757" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tree.jpg" crc="148647445" ref="index">
+    <file name="tree.jpg" crc="164431559" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tree_2x.jpg" crc="164431559" ref="index">
+    <file name="jp-08-shadow.png" crc="8405121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-08-shadow.png" crc="4196779168" seo="true" ref="index">
+    <file name="jp-08.png" crc="4115262483" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-08.png" crc="523982910" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-08_2x.png" crc="3778324975" seo="true" ref="index">
+    <file name="jp-08_2x.png" crc="236942578" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="makuake.png" crc="280264530" seo="true" ref="index">
@@ -224,10 +221,10 @@
     <file name="makuake_2x.png" crc="192947615" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-09.png" crc="347309750" seo="true" ref="index">
+    <file name="jp-09.png" crc="396308711" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-09_2x.png" crc="411466391" seo="true" ref="index">
+    <file name="jp-09_2x.png" crc="3992748924" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="enter.png" crc="476749517" seo="true" ref="index">
@@ -237,5 +234,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="366518706" seo="true" mt="1585739699721" redirect="true"/>
+  <file name="index.html" crc="4170904832" seo="true" mt="1585741560820" redirect="true"/>
 </manifest>
