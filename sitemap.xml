@@ -210,10 +210,28 @@
       <image:loc>http://www.teatergent.com/images/jp-09_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/enter.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-email.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/enter_2x.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-email_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-twitter.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-twitter_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-facebook.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-facebook_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-messanger.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-bottom-messanger_2x.gif</image:loc>
     </image:image>
   </url>
 </urlset>
