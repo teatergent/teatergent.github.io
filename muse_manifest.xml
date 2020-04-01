@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585768216920">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585768517679">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3862122772" ref="index"/>
+    <file name="index.css" crc="4119495314" ref="index"/>
     <file name="about.css" crc="3817638010" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -227,16 +227,16 @@
     <file name="jp-08a_2x.png" crc="360330095" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-08c.png" crc="3853188214" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-08c_2x.png" crc="528651922" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="jp-08b.png" crc="3909367456" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-08b_2x.png" crc="510896989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-08c.png" crc="3853188214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-08c_2x.png" crc="528651922" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-08d.png" crc="4070139298" seo="true" ref="index">
@@ -324,6 +324,6 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="94468831" seo="true" mt="1585768202633" redirect="true"/>
-  <file name="about.html" crc="313095030" seo="true" mt="1585767234977" redirect="true"/>
+  <file name="index.html" crc="3788884082" seo="true" mt="1585768497618" redirect="true"/>
+  <file name="about.html" crc="4133311793" seo="true" mt="1585767234977" redirect="true"/>
 </manifest>
