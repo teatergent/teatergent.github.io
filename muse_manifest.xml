@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585765009594">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585765214223">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4185741813" ref="index"/>
+    <file name="index.css" crc="4028818898" ref="index"/>
     <file name="about.css" crc="4154753035" ref="about"/>
   </folder>
   <folder name="scripts">
@@ -311,6 +311,6 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="409522013" seo="true" mt="1585764937064" redirect="true"/>
-  <file name="about.html" crc="3902254380" seo="true" mt="1585764801452" redirect="true"/>
+  <file name="index.html" crc="51498137" seo="true" mt="1585765162000" redirect="true"/>
+  <file name="about.html" crc="332530338" seo="true" mt="1585764801452" redirect="true"/>
 </manifest>
