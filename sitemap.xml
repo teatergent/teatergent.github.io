@@ -24,10 +24,16 @@
       <image:loc>http://www.teatergent.com/images/jp-02_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/icon-1_.gif</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-02a.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/icon-1__2x.gif</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-02a_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-1.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-1_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/icon-3.gif</image:loc>
@@ -240,10 +246,46 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-01.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/company-logotype.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-01_2x.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/company-logotype_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-10_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/team-joshua.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/team-joshua_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/team-george.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/team-george_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/team-jessie.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/team-jessie_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-11_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/back.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/back_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
