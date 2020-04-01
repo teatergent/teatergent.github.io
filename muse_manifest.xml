@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585763587849">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585765009594">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4047089314" ref="index"/>
-    <file name="about.css" crc="407676820" ref="about"/>
+    <file name="index.css" crc="4185741813" ref="index"/>
+    <file name="about.css" crc="4154753035" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
@@ -215,12 +215,6 @@
     <file name="hero-1_2x.jpg" crc="4288299081" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero-2.jpg" crc="152920332" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero-2_2x.jpg" crc="3994814077" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="jp-08-shadow.png" crc="3967668903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -268,49 +262,55 @@
     <file name="icon-bottom-messanger_2x.gif" crc="90072550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="company-logotype.png" crc="201597793" seo="true" ref="about">
+    <file name="company-logotype.png" crc="4052192198" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="company-logotype_2x.png" crc="4089876216" seo="true" ref="about">
+    <file name="company-logotype_2x.png" crc="354742203" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="jp-10.png" crc="62812862" seo="true" ref="about">
+    <file name="hero-2.jpg" crc="152920332" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="jp-10_2x.png" crc="4258211923" seo="true" ref="about">
+    <file name="hero-2_2x.jpg" crc="3994814077" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="team-joshua.jpg" crc="3805988583" seo="true" ref="about">
+    <file name="jp-11.png" crc="504915293" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="team-joshua_2x.jpg" crc="438058500" seo="true" ref="about">
+    <file name="jp-11_2x.png" crc="4256540408" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="team-george.jpg" crc="434528909" seo="true" ref="about">
+    <file name="jp-10.png" crc="127188060" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="team-george_2x.jpg" crc="399534221" seo="true" ref="about">
+    <file name="jp-10_2x.png" crc="536715200" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="team-jessie.jpg" crc="4080199664" seo="true" ref="about">
+    <file name="team-joshua.jpg" crc="325548030" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="team-jessie_2x.jpg" crc="347212318" seo="true" ref="about">
+    <file name="team-joshua_2x.jpg" crc="4030895513" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="jp-11.png" crc="4206085853" seo="true" ref="about">
+    <file name="team-george.jpg" crc="375947227" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="jp-11_2x.png" crc="3791355379" seo="true" ref="about">
+    <file name="team-george_2x.jpg" crc="4265208845" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="back.png" crc="337129486" seo="true" ref="about">
+    <file name="team-jessie.jpg" crc="208578202" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="back_2x.png" crc="4041625009" seo="true" ref="about">
+    <file name="team-jessie_2x.jpg" crc="4065714962" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="back.png" crc="175087487" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="back_2x.png" crc="3971407784" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3962420646" seo="true" mt="1585763576563" redirect="true"/>
-  <file name="about.html" crc="451056315" seo="true" mt="1585761923396" redirect="true"/>
+  <file name="index.html" crc="409522013" seo="true" mt="1585764937064" redirect="true"/>
+  <file name="about.html" crc="3902254380" seo="true" mt="1585764801452" redirect="true"/>
 </manifest>

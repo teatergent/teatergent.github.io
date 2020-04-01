@@ -201,12 +201,6 @@
       <image:loc>http://www.teatergent.com/images/hero-1_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/jp-08-shadow.png</image:loc>
     </image:image>
     <image:image>
@@ -264,6 +258,18 @@
       <image:loc>http://www.teatergent.com/images/company-logotype_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.teatergent.com/images/hero-2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/hero-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-11_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.teatergent.com/images/jp-10.png</image:loc>
     </image:image>
     <image:image>
@@ -286,12 +292,6 @@
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/team-jessie_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-11.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-11_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/back.png</image:loc>
