@@ -1,21 +1,22 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585745033164">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585746551709">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3763776503" ref="index"/>
+    <file name="index.css" crc="4010885891" ref="index"/>
+    <file name="about.css" crc="3841624253" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="310584261" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
+    <file name="museutils.js" crc="340535759" ref="index:about"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about"/>
+    <file name="museconfig.js" crc="310584261" ref="index:about"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:about"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
@@ -25,11 +26,13 @@
     <file name="hero_2x.jpg" crc="425560468" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-01.png" crc="3875644676" seo="true" ref="index">
+    <file name="jp-01.png" crc="3875644676" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
-    <file name="jp-01_2x.png" crc="3766218329" seo="true" ref="index">
+    <file name="jp-01_2x.png" crc="3766218329" seo="true" ref="index:about">
       <caption webpage="index" alt=""/>
+      <caption webpage="about" alt=""/>
     </file>
     <file name="jp-02.png" crc="4044954275" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -253,5 +256,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="316130910" seo="true" mt="1585745016246" redirect="true"/>
+  <file name="index.html" crc="3797686043" seo="true" mt="1585746537306" redirect="true"/>
+  <file name="about.html" crc="60356923" seo="true" mt="1585746448873" redirect="true"/>
 </manifest>
