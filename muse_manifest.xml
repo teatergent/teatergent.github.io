@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585759324313">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585761973587">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="47905596" ref="index"/>
-    <file name="about.css" crc="4006397175" ref="about"/>
+    <file name="index.css" crc="94682672" ref="index"/>
+    <file name="about.css" crc="407676820" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about"/>
@@ -19,10 +19,10 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
-    <file name="hero-1.jpg" crc="4190475716" seo="true" ref="index">
+    <file name="hero-3.jpg" crc="51501383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hero-1_2x.jpg" crc="3799246189" seo="true" ref="index">
+    <file name="hero-3_2x.jpg" crc="75433130" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -30,6 +30,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="hero-2_2x.jpg" crc="388824481" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero-1.jpg" crc="4190475716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero-1_2x.jpg" crc="3799246189" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -307,6 +313,6 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="16177750" seo="true" mt="1585759288920" redirect="true"/>
-  <file name="about.html" crc="3874724147" seo="true" mt="1585759155592" redirect="true"/>
+  <file name="index.html" crc="516881665" seo="true" mt="1585761882466" redirect="true"/>
+  <file name="about.html" crc="4232122944" seo="true" mt="1585761923396" redirect="true"/>
 </manifest>
