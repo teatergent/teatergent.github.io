@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585757271572">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1585757866445">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="about.css" crc="3832350007" ref="about"/>
+    <file name="about.css" crc="4251377996" ref="about"/>
     <file name="index.css" crc="4064426990" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -264,10 +264,10 @@
     <file name="company-logotype_2x.png" crc="4089876216" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="jp-10.png" crc="526963737" seo="true" ref="about">
+    <file name="jp-10.png" crc="3970744132" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
-    <file name="jp-10_2x.png" crc="471006552" seo="true" ref="about">
+    <file name="jp-10_2x.png" crc="90124247" seo="true" ref="about">
       <caption webpage="about" alt=""/>
     </file>
     <file name="team-joshua.jpg" crc="3805988583" seo="true" ref="about">
@@ -301,6 +301,6 @@
       <caption webpage="about" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="524106304" seo="true" mt="1585757127861" redirect="true"/>
-  <file name="about.html" crc="162510560" seo="true" mt="1585757244821" redirect="true"/>
+  <file name="index.html" crc="3788740003" seo="true" mt="1585757127861" redirect="true"/>
+  <file name="about.html" crc="4197022296" seo="true" mt="1585757809221" redirect="true"/>
 </manifest>
