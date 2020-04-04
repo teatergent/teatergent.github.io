@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586039226618">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586039637853">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="about.css" crc="362257908" ref="about"/>
-    <file name="intro.css" crc="469007527" ref="intro"/>
+    <file name="intro.css" crc="459079261" ref="intro"/>
     <file name="index.css" crc="42800618" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -661,10 +661,10 @@
     <file name="jp-note-04a_2x.png" crc="357612415" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-04c.png" crc="432240318" seo="true" ref="intro">
+    <file name="jp-note-04c.png" crc="376654201" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-04c_2x.png" crc="4036181153" seo="true" ref="intro">
+    <file name="jp-note-04c_2x.png" crc="455957975" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-intro-04b.png" crc="223933171" seo="true" ref="intro">
@@ -799,14 +799,14 @@
     <file name="jp-note-09_2x.png" crc="4037475665" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-04c2.png" crc="376654201" seo="true" ref="intro">
+    <file name="jp-note-04b.png" crc="180687365" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-04c_2x2.png" crc="455957975" seo="true" ref="intro">
+    <file name="jp-note-04b_2x.png" crc="3894787950" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="514664982" seo="true" mt="1586035086276" redirect="true"/>
   <file name="about.html" crc="4021143119" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="335280215" seo="true" mt="1586039144119" redirect="true"/>
+  <file name="intro.html" crc="453253183" seo="true" mt="1586039613431" redirect="true"/>
 </manifest>
