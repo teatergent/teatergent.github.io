@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586015675133">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586016051007">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="about.css" crc="142280719" ref="about"/>
@@ -18,7 +18,7 @@
     <file name="require.js" crc="7928878" ref="index:about:intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3869808481" ref="index:intro"/>
     <file name="hero-3.jpg" crc="74911776" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -381,10 +381,10 @@
     <file name="icon-d57x57_2x.png" crc="117196166" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-1.png" crc="3999182529" seo="true" ref="intro">
+    <file name="jp-point-1.png" crc="258667618" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-1_2x.png" crc="3999182529" seo="true" ref="intro">
+    <file name="jp-point-1_2x.png" crc="258667618" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-point-2.png" crc="4129702610" seo="true" ref="intro">
@@ -858,5 +858,5 @@
   </folder>
   <file name="index.html" crc="4032714084" seo="true" mt="1586014099040" redirect="true"/>
   <file name="about.html" crc="3917292285" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="369733236" seo="true" mt="1586015649391" redirect="true"/>
+  <file name="intro.html" crc="153714965" seo="true" mt="1586016027837" redirect="true"/>
 </manifest>
