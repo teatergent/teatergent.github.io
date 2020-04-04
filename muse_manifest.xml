@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586005137991">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586005836642">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="intro.css" crc="501290470" ref="intro"/>
+    <file name="intro.css" crc="530322155" ref="intro"/>
     <file name="about.css" crc="362257908" ref="about"/>
     <file name="index.css" crc="4246464273" ref="index"/>
   </folder>
@@ -369,16 +369,16 @@
     <file name="icon-c60x60_2x.png" crc="493035086" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-2.png" crc="485352721" seo="true" ref="intro">
+    <file name="jp-point-2.png" crc="4023892260" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-2_2x.png" crc="485352721" seo="true" ref="intro">
+    <file name="jp-point-2_2x.png" crc="3844667923" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-1.png" crc="4264738731" seo="true" ref="intro">
+    <file name="jp-point-1.png" crc="5402057" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-1_2x.png" crc="4264738731" seo="true" ref="intro">
+    <file name="jp-point-1_2x.png" crc="3922903025" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="icon-e60x60.png" crc="373051641" seo="true" ref="intro">
@@ -399,22 +399,22 @@
     <file name="gmark60x60_2x.png" crc="388217568" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-3.png" crc="4089643266" seo="true" ref="intro">
+    <file name="jp-point-3.png" crc="3786889232" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-3_2x.png" crc="4089643266" seo="true" ref="intro">
+    <file name="jp-point-3_2x.png" crc="3865536014" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-5.png" crc="3990575440" seo="true" ref="intro">
+    <file name="jp-point-5.png" crc="78411319" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-5_2x.png" crc="3990575440" seo="true" ref="intro">
+    <file name="jp-point-5_2x.png" crc="3944346824" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-4.png" crc="3883046040" seo="true" ref="intro">
+    <file name="jp-point-4.png" crc="439108200" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-point-4_2x.png" crc="3883046040" seo="true" ref="intro">
+    <file name="jp-point-4_2x.png" crc="672772" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-03a256x113.png" crc="4279898437" seo="true" ref="intro">
@@ -864,5 +864,5 @@
   </folder>
   <file name="index.html" crc="3772133572" seo="true" mt="1585997821245" redirect="true"/>
   <file name="about.html" crc="3966299037" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="437024342" seo="true" mt="1586005111944" redirect="true"/>
+  <file name="intro.html" crc="174374345" seo="true" mt="1586005811227" redirect="true"/>
 </manifest>
