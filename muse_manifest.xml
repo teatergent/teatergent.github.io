@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586005010746">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586005137991">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="intro.css" crc="404386750" ref="intro"/>
+    <file name="intro.css" crc="501290470" ref="intro"/>
     <file name="about.css" crc="362257908" ref="about"/>
     <file name="index.css" crc="4246464273" ref="index"/>
   </folder>
@@ -633,10 +633,10 @@
     <file name="jp-note-03b_2x.png" crc="4023358241" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-making.jpg" crc="3874471302" seo="true" ref="intro">
+    <file name="pic-making.jpg" crc="197203738" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-making_2x.jpg" crc="407113087" seo="true" ref="intro">
+    <file name="pic-making_2x.jpg" crc="535161476" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-note-03e.png" crc="4017920027" seo="true" ref="intro">
@@ -864,5 +864,5 @@
   </folder>
   <file name="index.html" crc="3772133572" seo="true" mt="1585997821245" redirect="true"/>
   <file name="about.html" crc="3966299037" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="476486106" seo="true" mt="1586004986976" redirect="true"/>
+  <file name="intro.html" crc="437024342" seo="true" mt="1586005111944" redirect="true"/>
 </manifest>
