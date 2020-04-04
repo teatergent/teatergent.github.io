@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586013607605">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586013802648">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="intro.css" crc="4153061253" ref="intro"/>
+    <file name="intro.css" crc="4044330711" ref="intro"/>
     <file name="about.css" crc="362257908" ref="about"/>
     <file name="index.css" crc="4246464273" ref="index"/>
   </folder>
@@ -513,16 +513,16 @@
     <file name="jp-note-02b_2x.png" crc="3965794685" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-oil-a.jpg" crc="4086511969" seo="true" ref="intro">
+    <file name="pic-oil-a.jpg" crc="321360204" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-oil-a_2x.jpg" crc="289772583" seo="true" ref="intro">
+    <file name="pic-oil-a_2x.jpg" crc="4014571161" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-oil-b.jpg" crc="4263008340" seo="true" ref="intro">
+    <file name="pic-oil-b.jpg" crc="4036575567" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-oil-b_2x.jpg" crc="198754270" seo="true" ref="intro">
+    <file name="pic-oil-b_2x.jpg" crc="4167596956" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-note-02c.png" crc="4130270373" seo="true" ref="intro">
@@ -858,5 +858,5 @@
   </folder>
   <file name="index.html" crc="3772133572" seo="true" mt="1585997821245" redirect="true"/>
   <file name="about.html" crc="3966299037" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="3883140256" seo="true" mt="1586013566822" redirect="true"/>
+  <file name="intro.html" crc="3781424353" seo="true" mt="1586013732213" redirect="true"/>
 </manifest>
