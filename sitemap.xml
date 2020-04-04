@@ -432,16 +432,16 @@
       <image:loc>http://www.teatergent.com/images/icon-c60x60_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-point-1.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-point-1_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/jp-point-2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-point-2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-point-1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-point-1_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/icon-e60x60.png</image:loc>
@@ -456,10 +456,22 @@
       <image:loc>http://www.teatergent.com/images/icon-d60x61_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://www.teatergent.com/images/gmark60x60.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/gmark60x60_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://www.teatergent.com/images/jp-point-3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-point-3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-point-5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-point-5_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-point-4.png</image:loc>
@@ -522,12 +534,6 @@
       <image:loc>http://www.teatergent.com/images/jp-note-01a_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-01b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-01b_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/pic-ecoli.jpg</image:loc>
     </image:image>
     <image:image>
@@ -540,10 +546,10 @@
       <image:loc>http://www.teatergent.com/images/jp-note-01b_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-01c.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-01b.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-01c_2x.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-01b_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-04a256x113.png</image:loc>
@@ -606,12 +612,6 @@
       <image:loc>http://www.teatergent.com/images/jp-note-02b_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-02b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-02b_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/pic-oil-a.jpg</image:loc>
     </image:image>
     <image:image>
@@ -636,10 +636,10 @@
       <image:loc>http://www.teatergent.com/images/jp-note-02d_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-02c.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-02b.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-02c_2x.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-02b_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-05a256x113.png</image:loc>
@@ -696,12 +696,6 @@
       <image:loc>http://www.teatergent.com/images/jp-note-03b_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-03b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-03b_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/pic-making.jpg</image:loc>
     </image:image>
     <image:image>
@@ -726,10 +720,10 @@
       <image:loc>http://www.teatergent.com/images/jp-note-03d_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-03c.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-03b.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-03c_2x.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-03b_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/icon-4a.gif</image:loc>
@@ -810,12 +804,6 @@
       <image:loc>http://www.teatergent.com/images/jp-note-04c_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-04c.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-04c_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/pic-box.jpg</image:loc>
     </image:image>
     <image:image>
@@ -852,10 +840,10 @@
       <image:loc>http://www.teatergent.com/images/jp-note-04g_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-04d.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-04c.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-intro-04d_2x.png</image:loc>
+      <image:loc>http://www.teatergent.com/images/jp-intro-04c_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/icon-5a.gif</image:loc>
