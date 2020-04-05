@@ -10,16 +10,16 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "intro.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.watch.js", "require.js", "intro.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/a-master-favicon.ico?crc=3869808481"/>
   <title>ティータージェント</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/intro.css?crc=500018509" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/intro.css?crc=3939212813" id="pagesheet"/>
   <!-- JS includes -->
-  <script src="https://use.typekit.net/ik/sQ5zOaCzvdZmX4-9hfqOGfk0hMFm0EXNSqUxioY4k6tfeG6gfw013b6PHQIa52bawRbDWDwhwRjkFesywewowQFywQ6awQ9uZQSu524q5eJaFesceRJ7O1s8jWs8Sci8d1b0jhNlOYs8jWs8Sci8d1b0jhNlOYiaikoXZABXZW41ZAoXOcFzdPJHdW8k-ABqOWgkdkG4fwwuIMMjgfMfP6sFiWF8qMe-3HQXgb.js" type="text/javascript"></script>
+  <script src="https://use.typekit.net/ik/IexgyfmpBySY322l2dfSB2hP8LQdEhr9UVQeG6nqHZCfeG6gfw013b6PHQIa52bawRbDWDwhwRjkFesywewowQFywQ6awQ9uZQSu524q5eJaFesceRJ7O1s8jWs8Sci8d1b0jhNlOYs8jWs8Sci8d1b0jhNlOYiaikoXZABXZW41ZAoXOcFzdPJHdW8k-ABqOWgkdkG4fwwuIMMjgfMfP6sFiWF8qMemt7WXgb.js" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">
    try {Typekit.load();} catch(e) {}
@@ -34,8 +34,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="browser_width colelem" id="u6145-bw">
      <div id="u6145"><!-- group -->
       <div class="clearfix" id="u6145_align_to_page">
-       <div class="clip_frame grpelem" id="u8012"><!-- image -->
-        <img class="block" id="u8012_img" src="images/hero-3.jpg?crc=74911776" data-hidpi-src="images/hero-3_2x.jpg?crc=399719475" alt="" width="800" height="650"/>
+       <div class="SlideShowWidget clearfix grpelem" id="slideshowu10368"><!-- none box -->
+        <div class="popup_anchor" id="u10380popup">
+         <div class="SlideShowContentPanel clearfix" id="u10380"><!-- stack box -->
+          <div class="SSSlide clip_frame grpelem" id="u10383"><!-- image -->
+           <img class="block ImageInclude" id="u10383_img" data-src="images/hero-3.jpg?crc=178911217" data-hidpi-src="images/hero-3_2x.jpg?crc=313502515" src="images/blank.gif?crc=4208392903" alt="" data-width="800" data-height="650"/>
+          </div>
+          <div class="SSSlide invi clip_frame grpelem" id="u10483"><!-- image -->
+           <img class="block ImageInclude" id="u10483_img" data-src="images/hero-2.jpg?crc=3789949988" data-hidpi-src="images/hero-2_2x.jpg?crc=388824481" src="images/blank.gif?crc=4208392903" alt="" data-width="800" data-height="650"/>
+          </div>
+          <div class="SSSlide invi clip_frame grpelem" id="u10509"><!-- image -->
+           <img class="block ImageInclude" id="u10509_img" data-src="images/hero-1.jpg?crc=3842733895" data-hidpi-src="images/hero-1_2x.jpg?crc=4234424438" src="images/blank.gif?crc=4208392903" alt="" data-width="800" data-height="650"/>
+          </div>
+         </div>
+        </div>
        </div>
        <div class="clip_frame grpelem" id="u6357"><!-- image -->
         <img class="block" id="u6357_img" src="images/jp-01.png?crc=3875644676" data-hidpi-src="images/jp-01_2x.png?crc=3766218329" alt="" width="480" height="64"/>
@@ -488,7 +500,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","webpro","musewpslideshow","jquery.museoverlay","touchswipe","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
@@ -496,6 +508,7 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.browser_width');/* resize height */
 Muse.Utils.requestAnimationFrame(function() { $('body').addClass('initialized'); });/* mark body as initialized */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
+Muse.Utils.initWidget('#slideshowu10368', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:2000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:300,enableSwipe:false,elastic:'off',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu10368 */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

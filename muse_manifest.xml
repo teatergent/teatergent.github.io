@@ -1,46 +1,50 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586044953435">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586065685379">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3966965922" ref="index"/>
     <file name="about.css" crc="362257908" ref="about"/>
-    <file name="intro.css" crc="500018509" ref="intro"/>
-    <file name="index.css" crc="306765392" ref="index"/>
+    <file name="intro.css" crc="3939212813" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:intro"/>
     <file name="museutils.js" crc="340535759" ref="index:about:intro"/>
     <file name="whatinput.js" crc="86476730" ref="index:about:intro"/>
     <file name="museconfig.js" crc="310584261" ref="index:about:intro"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index:intro"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:intro"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:intro"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:intro"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:about:intro"/>
     <file name="require.js" crc="7928878" ref="index:about:intro"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
-    <file name="hero-3.jpg" crc="74911776" seo="true" ref="index:intro">
+    <file name="hero-3.jpg" crc="178911217" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-3_2x.jpg" crc="399719475" seo="true" ref="index:intro">
+    <file name="hero-3_2x.jpg" crc="313502515" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="hero-2.jpg" crc="3789949988" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:intro"/>
+    <file name="hero-2.jpg" crc="3789949988" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-2_2x.jpg" crc="388824481" seo="true" ref="index">
+    <file name="hero-2_2x.jpg" crc="388824481" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-1.jpg" crc="4190475716" seo="true" ref="index">
+    <file name="hero-1.jpg" crc="3842733895" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-1_2x.jpg" crc="3799246189" seo="true" ref="index">
+    <file name="hero-1_2x.jpg" crc="4234424438" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:intro"/>
     <file name="jp-01.png" crc="3875644676" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -812,7 +816,7 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="408625984" seo="true" mt="1586044516741" redirect="true"/>
-  <file name="about.html" crc="4021724017" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="4091761905" seo="true" mt="1586044583300" redirect="true"/>
+  <file name="index.html" crc="3886477521" seo="true" mt="1586065272661" redirect="true"/>
+  <file name="about.html" crc="4189202216" seo="true" mt="1585767234977" redirect="true"/>
+  <file name="intro.html" crc="3971223062" seo="true" mt="1586065657330" redirect="true"/>
 </manifest>
