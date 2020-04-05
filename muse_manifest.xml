@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586106827939">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586108548507">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4002236980" ref="index"/>
+    <file name="index.css" crc="3853083004" ref="index"/>
     <file name="about.css" crc="362257908" ref="about"/>
-    <file name="intro.css" crc="4020442172" ref="intro"/>
+    <file name="intro.css" crc="44607020" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:intro"/>
@@ -19,36 +19,36 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
-    <file name="hero-6000w-1.jpg" crc="3922792980" seo="true" ref="index:intro">
+    <file name="hero-1.jpg" crc="314083370" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-6000w-1_2x.jpg" crc="507373401" seo="true" ref="index:intro">
+    <file name="hero-1_2x.jpg" crc="3942685922" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:intro"/>
-    <file name="hero-6000w-2.jpg" crc="4211291981" seo="true" ref="index:intro">
+    <file name="hero-2.jpg" crc="114824953" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-6000w-2_2x.jpg" crc="4043238356" seo="true" ref="index:intro">
+    <file name="hero-2_2x.jpg" crc="491103706" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-6000w-3.jpg" crc="63803372" seo="true" ref="index:intro">
+    <file name="hero-3.jpg" crc="4136885382" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-6000w-3_2x.jpg" crc="459197405" seo="true" ref="index:intro">
+    <file name="hero-3_2x.jpg" crc="281439722" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-6000w-4.jpg" crc="174901125" seo="true" ref="index:intro">
+    <file name="hero-4.jpg" crc="75515128" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="hero-6000w-4_2x.jpg" crc="415230232" seo="true" ref="index:intro">
+    <file name="hero-4_2x.jpg" crc="4287278334" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
@@ -828,7 +828,7 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4259089469" seo="true" mt="1586106749041" redirect="true"/>
-  <file name="about.html" crc="241979303" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="3888204409" seo="true" mt="1586106776489" redirect="true"/>
+  <file name="index.html" crc="106535567" seo="true" mt="1586108506986" redirect="true"/>
+  <file name="about.html" crc="485883963" seo="true" mt="1585767234977" redirect="true"/>
+  <file name="intro.html" crc="231508061" seo="true" mt="1586108484929" redirect="true"/>
 </manifest>
