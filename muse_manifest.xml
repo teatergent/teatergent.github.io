@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586044611767">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586044953435">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="about.css" crc="362257908" ref="about"/>
@@ -812,7 +812,7 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="500044995" seo="true" mt="1586044516741" redirect="true"/>
-  <file name="about.html" crc="361496297" seo="true" mt="1585767234977" redirect="true"/>
-  <file name="intro.html" crc="106024862" seo="true" mt="1586044583300" redirect="true"/>
+  <file name="index.html" crc="408625984" seo="true" mt="1586044516741" redirect="true"/>
+  <file name="about.html" crc="4021724017" seo="true" mt="1585767234977" redirect="true"/>
+  <file name="intro.html" crc="4091761905" seo="true" mt="1586044583300" redirect="true"/>
 </manifest>
