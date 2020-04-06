@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586149124932">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586149857715">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4125812468" ref="index"/>
-    <file name="intro.css" crc="362471249" ref="intro"/>
+    <file name="intro.css" crc="4181315828" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -17,7 +17,7 @@
     <file name="require.js" crc="7928878" ref="index:intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3869808481" ref="index:intro"/>
     <file name="hero-1.jpg" crc="19885820" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -568,10 +568,10 @@
     <file name="pic-seed_2x.jpg" crc="118553298" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-03a.png" crc="191980642" seo="true" ref="intro">
+    <file name="jp-note-03a.png" crc="4256103318" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-03a_2x.png" crc="516142229" seo="true" ref="intro">
+    <file name="jp-note-03a_2x.png" crc="331916927" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-note-03b.png" crc="62684368" seo="true" ref="intro">
@@ -784,22 +784,22 @@
     <file name="jp-10_2x.png" crc="536715200" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="team-joshua.jpg" crc="325548030" seo="true" ref="intro">
+    <file name="team-joshua.jpg" crc="4192029148" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="team-joshua_2x.jpg" crc="4030895513" seo="true" ref="intro">
+    <file name="team-joshua_2x.jpg" crc="233444459" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="team-george.jpg" crc="375947227" seo="true" ref="intro">
+    <file name="team-george.jpg" crc="22552305" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="team-george_2x.jpg" crc="4265208845" seo="true" ref="intro">
+    <file name="team-george_2x.jpg" crc="236096649" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="team-jessie.jpg" crc="208578202" seo="true" ref="intro">
+    <file name="team-jessie.jpg" crc="3946379329" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="team-jessie_2x.jpg" crc="4065714962" seo="true" ref="intro">
+    <file name="team-jessie_2x.jpg" crc="364977191" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-11.png" crc="504915293" seo="true" ref="intro">
@@ -810,5 +810,5 @@
     </file>
   </folder>
   <file name="index.html" crc="419763732" seo="true" mt="1586142114800" redirect="true"/>
-  <file name="intro.html" crc="4079873869" seo="true" mt="1586149076469" redirect="true"/>
+  <file name="intro.html" crc="3882168731" seo="true" mt="1586149834533" redirect="true"/>
 </manifest>
