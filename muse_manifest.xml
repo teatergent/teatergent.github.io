@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586160831932">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586164339260">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="293156972" ref="index"/>
-    <file name="intro.css" crc="213590689" ref="intro"/>
+    <file name="intro.css" crc="3962899869" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -766,48 +766,6 @@
     <file name="jp-intro-05b_2x.png" crc="404409976" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="icon-faq.png" crc="504860662" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="icon-faq_2x.png" crc="3937934716" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-01.png" crc="472978820" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-01_2x.png" crc="4267299296" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-02.png" crc="417110227" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-02_2x.png" crc="4251851021" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-03.png" crc="443619524" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-03_2x.png" crc="148307929" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-04.png" crc="175042052" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-04_2x.png" crc="446023662" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-05.png" crc="4131245591" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-05_2x.png" crc="3901418214" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-06.png" crc="373975483" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-faq-06_2x.png" crc="4294862255" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
     <file name="pic-cubes.jpg" crc="3999115372" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
@@ -852,5 +810,5 @@
     </file>
   </folder>
   <file name="index.html" crc="353048088" seo="true" mt="1586159598256" redirect="true"/>
-  <file name="intro.html" crc="3890464540" seo="true" mt="1586160803009" redirect="true"/>
+  <file name="intro.html" crc="4091237136" seo="true" mt="1586164294795" redirect="true"/>
 </manifest>
