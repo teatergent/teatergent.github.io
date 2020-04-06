@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586149857715">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586149981271">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4125812468" ref="index"/>
-    <file name="intro.css" crc="4181315828" ref="intro"/>
+    <file name="intro.css" crc="4156515051" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -810,5 +810,5 @@
     </file>
   </folder>
   <file name="index.html" crc="419763732" seo="true" mt="1586142114800" redirect="true"/>
-  <file name="intro.html" crc="3882168731" seo="true" mt="1586149834533" redirect="true"/>
+  <file name="intro.html" crc="3982634110" seo="true" mt="1586149961274" redirect="true"/>
 </manifest>
