@@ -287,7 +287,7 @@
   </url>
   <url>
     <loc>http://www.teatergent.com/intro.html</loc>
-    <lastmod>2020-04-07</lastmod>
+    <lastmod>2020-04-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -862,6 +862,12 @@
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/pic-manual-2_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/pic-manual-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/pic-manual-3_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
