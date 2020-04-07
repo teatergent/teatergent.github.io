@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586247314784">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586248716870">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="intro.css" crc="3928807617" ref="intro"/>
+    <file name="intro.css" crc="164488446" ref="intro"/>
     <file name="index.css" crc="293156972" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -768,31 +768,7 @@
     <file name="jp-10b_2x.png" crc="4256540408" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-manual-1.png" crc="4232183496" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="pic-manual-1_2x.png" crc="4102441228" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="pic-manual-2.png" crc="3775202484" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="pic-manual-2_2x.png" crc="132431302" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="pic-manual-3.png" crc="3978848139" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="pic-manual-3_2x.png" crc="408846669" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="pic-manual-4.png" crc="3917280308" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="pic-manual-4_2x.png" crc="4067187558" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
   </folder>
   <file name="index.html" crc="110317979" seo="true" mt="1586226551624" redirect="true"/>
-  <file name="intro.html" crc="3970140746" seo="true" mt="1586247263847" redirect="true"/>
+  <file name="intro.html" crc="268692029" seo="true" mt="1586248697105" redirect="true"/>
 </manifest>
