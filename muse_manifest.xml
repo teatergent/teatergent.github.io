@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586325725034">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586328457954">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="293156972" ref="index"/>
-    <file name="intro.css" crc="4015245719" ref="intro"/>
+    <file name="intro.css" crc="4164491281" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -758,10 +758,10 @@
     <file name="jp-intro-05b_2x.png" crc="228833353" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-manual-1.jpg" crc="3998342677" seo="true" ref="intro">
+    <file name="pic-manual-1.jpg" crc="4223073118" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-manual-1_2x.jpg" crc="395691321" seo="true" ref="intro">
+    <file name="pic-manual-1_2x.jpg" crc="438907121" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="pic-manual-2.jpg" crc="458309030" seo="true" ref="intro">
@@ -852,5 +852,5 @@
     </file>
   </folder>
   <file name="index.html" crc="3900653051" seo="true" mt="1586249456777" redirect="true"/>
-  <file name="intro.html" crc="494276798" seo="true" mt="1586325709423" redirect="true"/>
+  <file name="intro.html" crc="297170593" seo="true" mt="1586328440455" redirect="true"/>
 </manifest>
