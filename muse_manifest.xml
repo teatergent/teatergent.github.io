@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586315745638">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586318650914">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="293156972" ref="index"/>
-    <file name="intro.css" crc="4120504793" ref="intro"/>
+    <file name="intro.css" crc="4048936509" ref="intro"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro"/>
@@ -745,9 +745,6 @@
     <file name="icon-gmark.png" crc="388217568" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="icon-gmark_2x.png" crc="388217568" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
     <file name="jp-intro-05a.png" crc="4215350889" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
@@ -826,10 +823,10 @@
     <file name="jp-10b_2x.png" crc="4256540408" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02e.png" crc="3887594848" seo="true" ref="intro">
+    <file name="jp-02e.png" crc="275022047" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02e_2x.png" crc="4066623534" seo="true" ref="intro">
+    <file name="jp-02e_2x.png" crc="3863309874" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="icon-gmark70x70.png" crc="523131529" seo="true" ref="intro">
@@ -842,5 +839,5 @@
     </file>
   </folder>
   <file name="index.html" crc="3900653051" seo="true" mt="1586249456777" redirect="true"/>
-  <file name="intro.html" crc="348905829" seo="true" mt="1586315727039" redirect="true"/>
+  <file name="intro.html" crc="135525412" seo="true" mt="1586318630950" redirect="true"/>
 </manifest>
