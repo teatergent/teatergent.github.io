@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586461819592">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586462574447">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="intro.css" crc="3900486700" ref="intro"/>
+    <file name="intro.css" crc="4099384899" ref="intro"/>
     <file name="index.css" crc="293156972" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -17,7 +17,7 @@
     <file name="require.js" crc="7928878" ref="index:intro"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="3869808481" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3869808481" ref="index:intro"/>
     <file name="hero-1.jpg" crc="4147220495" seo="true" ref="index:intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -836,5 +836,5 @@
     </file>
   </folder>
   <file name="index.html" crc="385231303" seo="true" mt="1586461716187" redirect="true"/>
-  <file name="intro.html" crc="4171761061" seo="true" mt="1586461788305" redirect="true"/>
+  <file name="intro.html" crc="275602070" seo="true" mt="1586462550560" redirect="true"/>
 </manifest>
