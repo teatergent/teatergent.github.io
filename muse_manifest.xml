@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586508060069">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586540681053">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="intro.css" crc="379120987" ref="intro"/>
@@ -370,12 +370,12 @@
     <file name="jp-02d2_2x.png" crc="3924292136" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02f.png" crc="395255460" seo="true" ref="intro">
+    <file name="jp-02f.png" crc="4234386834" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02f_2x.png" crc="4260571668" seo="true" ref="intro">
+    <file name="jp-02f_2x.png" crc="442517451" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
@@ -835,6 +835,6 @@
       <caption webpage="intro" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4212065917" seo="true" mt="1586508048193" redirect="true"/>
-  <file name="intro.html" crc="4070745417" seo="true" mt="1586463049842" redirect="true"/>
+  <file name="index.html" crc="4056671875" seo="true" mt="1586540661388" redirect="true"/>
+  <file name="intro.html" crc="95434881" seo="true" mt="1586540586517" redirect="true"/>
 </manifest>
