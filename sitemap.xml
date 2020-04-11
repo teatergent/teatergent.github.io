@@ -804,16 +804,16 @@
       <image:loc>http://www.teatergent.com/images/jp-07a256x113_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-07b256x113.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-07b256x113_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/icon-5c.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/icon-5c_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-07b256x113.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-07b256x113_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-07c256x113.png</image:loc>
