@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586704757232">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586705419183">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="intro.css" crc="375354259" ref="intro"/>
+    <file name="intro.css" crc="3764958662" ref="intro"/>
     <file name="index.css" crc="3959607195" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -364,10 +364,10 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02d1.png" crc="4069564179" seo="true" ref="intro">
+    <file name="jp-02d1.png" crc="351941782" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02d1_2x.png" crc="4069564179" seo="true" ref="intro">
+    <file name="jp-02d1_2x.png" crc="351941782" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-02f.png" crc="277401874" seo="true" ref="intro">
@@ -380,16 +380,16 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02d2.png" crc="3871161798" seo="true" ref="intro">
+    <file name="jp-02d2.png" crc="414990115" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02d2_2x.png" crc="3945885280" seo="true" ref="intro">
+    <file name="jp-02d2_2x.png" crc="459663663" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02d3.png" crc="419270949" seo="true" ref="intro">
+    <file name="jp-02d3.png" crc="150607286" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02d3_2x.png" crc="407608726" seo="true" ref="intro">
+    <file name="jp-02d3_2x.png" crc="124644897" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
     <file name="icon-gmark.png" crc="523131529" seo="true" ref="intro">
@@ -836,5 +836,5 @@
     </file>
   </folder>
   <file name="index.html" crc="259502538" seo="true" mt="1586701894971" redirect="true"/>
-  <file name="intro.html" crc="389103950" seo="true" mt="1586704737372" redirect="true"/>
+  <file name="intro.html" crc="284846256" seo="true" mt="1586705404061" redirect="true"/>
 </manifest>
