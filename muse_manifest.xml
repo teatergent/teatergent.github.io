@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586951170854">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586958537265">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="home-backup.css" crc="4260234818" ref="home-backup"/>
+    <file name="home-backup.css" crc="3765666168" ref="home-backup"/>
     <file name="intro.css" crc="85892" ref="intro"/>
-    <file name="index.css" crc="286577446" ref="index"/>
+    <file name="index.css" crc="4209835615" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="361210408" seo="true" mt="1586944396000"/>
@@ -220,11 +220,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-08d.png" crc="296882053" seo="true" ref="index">
+    <file name="jp-08d.png" crc="296882053" seo="true" ref="index:home-backup">
       <caption webpage="index" alt=""/>
+      <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-08d_2x.png" crc="323451746" seo="true" ref="index">
+    <file name="jp-08d_2x.png" crc="323451746" seo="true" ref="index:home-backup">
       <caption webpage="index" alt=""/>
+      <caption webpage="home-backup" alt=""/>
     </file>
     <file name="icon-bottom-email-w.gif" crc="179593109" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -904,14 +906,8 @@
     <file name="jp-06c_2x.png" crc="4154475999" seo="true" ref="home-backup">
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-08d2.png" crc="3953456497" seo="true" ref="home-backup">
-      <caption webpage="home-backup" alt=""/>
-    </file>
-    <file name="jp-08d_2x2.png" crc="79787512" seo="true" ref="home-backup">
-      <caption webpage="home-backup" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="201559893" seo="true" mt="1586951057086" redirect="true"/>
+  <file name="index.html" crc="3790771848" seo="true" mt="1586958521564" redirect="true"/>
   <file name="intro.html" crc="93087450" seo="true" mt="1586948161057" redirect="true"/>
-  <file name="home-backup.html" crc="4089141756" seo="true" mt="1586948162326" redirect="true"/>
+  <file name="home-backup.html" crc="525473179" seo="true" mt="1586957753238" redirect="true"/>
 </manifest>
