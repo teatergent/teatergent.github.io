@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586964944740">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586965369739">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="3765666168" ref="home-backup"/>
     <file name="intro.css" crc="85892" ref="intro"/>
-    <file name="index.css" crc="3898677624" ref="index"/>
+    <file name="index.css" crc="76408169" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="361210408" seo="true" mt="1586944396000"/>
@@ -88,10 +88,10 @@
       <caption webpage="home-backup" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="gif-3b.gif" crc="3889460349" seo="true" ref="intro:home-backup">
+    <file name="gif-3b.gif" crc="3889460349" seo="true" ref="intro:home-backup:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="home-backup" alt=""/>
       <caption webpage="intro" alt=""/>
+      <caption webpage="home-backup" alt=""/>
     </file>
     <file name="gif-5c.gif" crc="245683973" seo="true" ref="index:intro:home-backup">
       <caption webpage="index" alt=""/>
@@ -358,7 +358,7 @@
     <file name="jp-04b256x113_2x.png" crc="91780273" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="gif-2b.gif" crc="233781241" seo="true" ref="intro:home-backup:index">
+    <file name="gif-2b.gif" crc="233781241" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
@@ -929,7 +929,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3853898208" seo="true" mt="1586964922090" redirect="true"/>
+  <file name="index.html" crc="4020178534" seo="true" mt="1586965330816" redirect="true"/>
   <file name="intro.html" crc="93087450" seo="true" mt="1586948161057" redirect="true"/>
   <file name="home-backup.html" crc="525473179" seo="true" mt="1586957753238" redirect="true"/>
 </manifest>
