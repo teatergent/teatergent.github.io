@@ -1,14 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586929578428">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586932365066">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="4260234818" ref="home-backup"/>
     <file name="intro.css" crc="85892" ref="intro"/>
-    <file name="index.css" crc="183743340" ref="index"/>
+    <file name="index.css" crc="4272952532" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="119378650" seo="true" mt="1586927215000"/>
-    <file name="bg-video.webm" crc="4063561683" seo="true" mt="1586927245000"/>
-    <file name="bg-video.ogg" crc="524384354" seo="true" mt="1586927335000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro:home-backup"/>
@@ -909,14 +907,8 @@
     <file name="jp-02b1_2x.png" crc="427460728" seo="true" ref="home-backup">
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="px.png" crc="3899414536" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="px_2x.png" crc="4117478112" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="338508346" seo="true" mt="1586929566748" redirect="true"/>
+  <file name="index.html" crc="3797689389" seo="true" mt="1586932351604" redirect="true"/>
   <file name="intro.html" crc="4204443070" seo="true" mt="1586926824768" redirect="true"/>
   <file name="home-backup.html" crc="494713197" seo="true" mt="1586926872900" redirect="true"/>
 </manifest>

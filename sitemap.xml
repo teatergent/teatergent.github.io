@@ -1138,18 +1138,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://www.teatergent.com/assets/bg-video.ogg</loc>
-    <lastmod>2020-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://www.teatergent.com/assets/bg-video.webm</loc>
-    <lastmod>2020-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://www.teatergent.com/assets/bg-video.mp4</loc>
     <lastmod>2020-04-15</lastmod>
     <changefreq>weekly</changefreq>
