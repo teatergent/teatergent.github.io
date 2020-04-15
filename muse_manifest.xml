@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586950749561">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586951170854">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="4260234818" ref="home-backup"/>
     <file name="intro.css" crc="85892" ref="intro"/>
-    <file name="index.css" crc="4215465423" ref="index"/>
+    <file name="index.css" crc="286577446" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="361210408" seo="true" mt="1586944396000"/>
@@ -911,7 +911,7 @@
       <caption webpage="home-backup" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3998202659" seo="true" mt="1586950729541" redirect="true"/>
+  <file name="index.html" crc="201559893" seo="true" mt="1586951057086" redirect="true"/>
   <file name="intro.html" crc="93087450" seo="true" mt="1586948161057" redirect="true"/>
   <file name="home-backup.html" crc="4089141756" seo="true" mt="1586948162326" redirect="true"/>
 </manifest>
