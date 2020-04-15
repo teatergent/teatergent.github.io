@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586958537265">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586961826180">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="3765666168" ref="home-backup"/>
     <file name="intro.css" crc="85892" ref="intro"/>
-    <file name="index.css" crc="4209835615" ref="index"/>
+    <file name="index.css" crc="3983191078" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="361210408" seo="true" mt="1586944396000"/>
@@ -42,8 +42,10 @@
     </file>
     <file name="makuake-w.png" crc="148592312" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="makuake-w_2x.png" crc="191067976" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-09a-w.png" crc="401976941" seo="true" ref="index">
@@ -52,147 +54,105 @@
     <file name="jp-09a-w_2x.png" crc="4075539558" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02b0a.png" crc="4236092850" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-02b0a_2x.png" crc="317031316" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-note-03a.png" crc="420431053" seo="true" ref="index:intro">
+    <file name="jp-note-03a.png" crc="420431053" seo="true" ref="intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-03a_2x.png" crc="4258079594" seo="true" ref="index:intro">
+    <file name="jp-note-03a_2x.png" crc="4258079594" seo="true" ref="intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="pic-seed-f5f5f5.jpg" crc="3898036813" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="pic-seed-f5f5f5_2x.jpg" crc="75072561" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-note-03b.png" crc="381877347" seo="true" ref="index:intro">
+    <file name="jp-note-03b.png" crc="381877347" seo="true" ref="intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-note-03b_2x.png" crc="4022679571" seo="true" ref="index:intro">
+    <file name="jp-note-03b_2x.png" crc="4022679571" seo="true" ref="intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02b2.png" crc="375649503" seo="true" ref="index:intro">
+    <file name="jp-02b2.png" crc="375649503" seo="true" ref="intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="jp-02b2_2x.png" crc="39129363" seo="true" ref="index:intro">
+    <file name="jp-02b2_2x.png" crc="39129363" seo="true" ref="intro">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
-    </file>
-    <file name="jp-04a256x113.png" crc="205294280" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-04a256x113_2x.png" crc="431427476" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="gif-2c.gif" crc="219408627" seo="true" ref="index:intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-03b256x113.png" crc="217340429" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-03b256x113_2x.png" crc="144072463" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="gif-3c.gif" crc="144031674" seo="true" ref="index:intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
-    </file>
-    <file name="jp-05b256x113.png" crc="3923233241" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-05b256x113_2x.png" crc="344019597" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
     </file>
     <file name="gif-3b.gif" crc="3889460349" seo="true" ref="index:intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-05c256x113.png" crc="4219309628" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-05c256x113_2x.png" crc="58882712" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="gif-5c.gif" crc="245683973" seo="true" ref="index:intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="makuake-b.png" crc="4168048269" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="makuake-b_2x.png" crc="3881407901" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hero-1.jpg" crc="4147220495" seo="true" ref="index:intro:home-backup">
+    <file name="hero-1.jpg" crc="4147220495" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="hero-1_2x.jpg" crc="3885055879" seo="true" ref="index:intro:home-backup">
+    <file name="hero-1_2x.jpg" crc="3885055879" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index:intro:home-backup"/>
-    <file name="hero-2.jpg" crc="4174486074" seo="true" ref="index:intro:home-backup">
+    <file name="hero-2.jpg" crc="4174486074" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="hero-2_2x.jpg" crc="456999303" seo="true" ref="index:intro:home-backup">
+    <file name="hero-2_2x.jpg" crc="456999303" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="hero-3.jpg" crc="3916246606" seo="true" ref="index:intro:home-backup">
+    <file name="hero-3.jpg" crc="3916246606" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="hero-3_2x.jpg" crc="3982395025" seo="true" ref="index:intro:home-backup">
+    <file name="hero-3_2x.jpg" crc="3982395025" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="hero-4.jpg" crc="12336531" seo="true" ref="index:intro:home-backup">
+    <file name="hero-4.jpg" crc="12336531" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="hero-4_2x.jpg" crc="518832419" seo="true" ref="index:intro:home-backup">
+    <file name="hero-4_2x.jpg" crc="518832419" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:intro:home-backup"/>
-    <file name="jp-02c.png" crc="3958931241" seo="true" ref="index:home-backup">
+    <file name="jp-02c.png" crc="3958931241" seo="true" ref="home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-02c_2x.png" crc="3929998777" seo="true" ref="index:home-backup">
+    <file name="jp-02c_2x.png" crc="3929998777" seo="true" ref="home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-09b.png" crc="4256480446" seo="true" ref="index:home-backup">
+    <file name="jp-09b.png" crc="4256480446" seo="true" ref="home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-09b_2x.png" crc="4275150833" seo="true" ref="index:home-backup">
+    <file name="jp-09b_2x.png" crc="4275150833" seo="true" ref="home-backup">
       <caption webpage="index" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
@@ -906,8 +866,62 @@
     <file name="jp-06c_2x.png" crc="4154475999" seo="true" ref="home-backup">
       <caption webpage="home-backup" alt=""/>
     </file>
+    <file name="pic-seed-circle.png" crc="4276937443" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pic-seed-circle_2x.png" crc="4191888997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02b0a-w.png" crc="370311436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02b0a-w_2x.png" crc="3766034537" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02b2-w.png" crc="213752413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02b2-w_2x.png" crc="522778303" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02cw.png" crc="4269614148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-02cw_2x.png" crc="4065877497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-04a-w.png" crc="4130815148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-04a-w_2x.png" crc="4145128746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-03b-w.png" crc="348430645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-03b-w_2x.png" crc="4226810521" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-05b-w.png" crc="380036910" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-05b-w_2x.png" crc="4100416422" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-05c-w.png" crc="3782746396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-05c-w_2x.png" crc="4145165600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-09b-w.png" crc="3962070535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-09b-w_2x.png" crc="383234352" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3790771848" seo="true" mt="1586958521564" redirect="true"/>
+  <file name="index.html" crc="4036696181" seo="true" mt="1586961813971" redirect="true"/>
   <file name="intro.html" crc="93087450" seo="true" mt="1586948161057" redirect="true"/>
   <file name="home-backup.html" crc="525473179" seo="true" mt="1586957753238" redirect="true"/>
 </manifest>

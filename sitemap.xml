@@ -36,112 +36,16 @@
       <image:loc>http://www.teatergent.com/images/jp-09a-w_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-02b0a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-02b0a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-note-03a.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-note-03a_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/pic-seed-f5f5f5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/pic-seed-f5f5f5_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-note-03b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-note-03b_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-02b2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-02b2_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-04a256x113.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-04a256x113_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/gif-2c.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-03b256x113.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-03b256x113_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/gif-3c.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-05b256x113.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-05b256x113_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/gif-3b.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-05c256x113.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-05c256x113_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://www.teatergent.com/images/gif-5c.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/makuake-b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/makuake-b_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-2_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-3_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/hero-4_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-02c.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-02c_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-09b.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://www.teatergent.com/images/jp-09b_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-08a.png</image:loc>
@@ -190,6 +94,60 @@
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/icon-bottom-messanger-w_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/pic-seed-circle.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/pic-seed-circle_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-02b0a-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-02b0a-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-02b2-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-02b2-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-02cw.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-02cw_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-04a-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-04a-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-03b-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-03b-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-05b-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-05b-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-05c-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-05c-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-09b-w.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/jp-09b-w_2x.png</image:loc>
     </image:image>
   </url>
   <url>
