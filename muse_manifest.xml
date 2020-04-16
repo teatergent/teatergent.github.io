@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586965658989">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1586995214402">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="3765666168" ref="home-backup"/>
     <file name="intro.css" crc="85892" ref="intro"/>
-    <file name="index.css" crc="3940950603" ref="index"/>
+    <file name="index.css" crc="168957675" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="bg-video.mp4" crc="361210408" seo="true" mt="1586944396000"/>
+    <file name="bg-video.mp4" crc="3984806815" seo="true" mt="1586966520000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:intro:home-backup"/>
@@ -28,7 +28,7 @@
     <file name="company-logotype-w_2x.png" crc="368394060" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02b0.png" crc="420092556" seo="true" ref="index">
+    <file name="jp-02b0.png" crc="379483864" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="jp-02b0_2x.png" crc="59507020" seo="true" ref="index">
@@ -80,8 +80,8 @@
     </file>
     <file name="gif-2c.gif" crc="219408627" seo="true" ref="index:intro:home-backup">
       <caption webpage="index" alt=""/>
-      <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
     <file name="gif-3c.gif" crc="144031674" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
@@ -90,13 +90,13 @@
     </file>
     <file name="gif-3b.gif" crc="3889460349" seo="true" ref="intro:home-backup:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
     <file name="gif-5c.gif" crc="245683973" seo="true" ref="index:intro:home-backup">
       <caption webpage="index" alt=""/>
-      <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
     <file name="hero-1.jpg" crc="4147220495" seo="true" ref="intro:home-backup">
       <caption webpage="index" alt=""/>
@@ -439,8 +439,8 @@
     </file>
     <file name="gif-3a.gif" crc="3969445783" seo="true" ref="intro:home-backup:index">
       <caption webpage="index" alt=""/>
-      <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
+      <caption webpage="intro" alt=""/>
     </file>
     <file name="icon-5b.gif" crc="4199126284" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
@@ -928,8 +928,32 @@
     <file name="jp-09b-w_2x.png" crc="383234352" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icon-2a-w.gif" crc="3954729197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-2a-w_2x.gif" crc="3954729197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-1b-w.gif" crc="4156701169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-1b-w_2x.gif" crc="4156701169" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-5b-w.gif" crc="223044269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-5b-w_2x.gif" crc="223044269" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3a-w.gif" crc="4205283694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-3a-w_2x.gif" crc="4205283694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4143491319" seo="true" mt="1586965641494" redirect="true"/>
+  <file name="index.html" crc="430676388" seo="true" mt="1586995158582" redirect="true"/>
   <file name="intro.html" crc="93087450" seo="true" mt="1586948161057" redirect="true"/>
   <file name="home-backup.html" crc="525473179" seo="true" mt="1586957753238" redirect="true"/>
 </manifest>

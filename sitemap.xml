@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.teatergent.com/index.html</loc>
-    <lastmod>2020-04-15</lastmod>
+    <lastmod>2020-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -148,6 +148,30 @@
     </image:image>
     <image:image>
       <image:loc>http://www.teatergent.com/images/jp-09b-w_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-2a-w.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-2a-w_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-1b-w.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-1b-w_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-5b-w.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-5b-w_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-3a-w.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.teatergent.com/images/icon-3a-w_2x.gif</image:loc>
     </image:image>
   </url>
   <url>
@@ -1004,7 +1028,7 @@
   </url>
   <url>
     <loc>http://www.teatergent.com/assets/bg-video.mp4</loc>
-    <lastmod>2020-04-15</lastmod>
+    <lastmod>2020-04-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
