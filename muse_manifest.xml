@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587022619378">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587023453128">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="4260234818" ref="home-backup"/>
-    <file name="index.css" crc="3926507605" ref="index"/>
+    <file name="index.css" crc="4091641002" ref="index"/>
     <file name="intro.css" crc="85892" ref="intro"/>
   </folder>
   <folder name="assets">
@@ -74,10 +74,10 @@
     <file name="jp-02b0a-w_2x.png" crc="3766034537" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02cw.png" crc="3899388307" seo="true" ref="index">
+    <file name="jp-02cw.png" crc="3831868110" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-02cw_2x.png" crc="344521443" seo="true" ref="index">
+    <file name="jp-02cw_2x.png" crc="4090292832" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gif-2c.gif" crc="219408627" seo="true" ref="index:intro:home-backup">
@@ -168,10 +168,10 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index:intro:home-backup"/>
-    <file name="jp-08d.png" crc="4186890574" seo="true" ref="index">
+    <file name="jp-08d.png" crc="511222284" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-08d_2x.png" crc="122527267" seo="true" ref="index">
+    <file name="jp-08d_2x.png" crc="74216170" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-bottom-email-w.gif" crc="179593109" seo="true" ref="index">
@@ -962,16 +962,20 @@
     <file name="jp-09b_2x.png" crc="66428055" seo="true" ref="home-backup">
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-00a-line.png" crc="4100343971" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="jp-00a-line.png" crc="299769040" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-00a-line_2x.png" crc="4100343971" seo="true" ref="index">
+    <file name="jp-00a-line_2x.png" crc="299769040" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-00a-line2.png" crc="4100343971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jp-00a-line_2x2.png" crc="4100343971" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4099835654" seo="true" mt="1587022603457" redirect="true"/>
+  <file name="index.html" crc="424366172" seo="true" mt="1587023430065" redirect="true"/>
   <file name="intro.html" crc="251920211" seo="true" mt="1586948161057" redirect="true"/>
   <file name="home-backup.html" crc="4204893152" seo="true" mt="1587002230581" redirect="true"/>
 </manifest>
