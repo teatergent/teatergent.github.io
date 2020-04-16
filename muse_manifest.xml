@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587023453128">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587024035289">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="4260234818" ref="home-backup"/>
-    <file name="index.css" crc="4091641002" ref="index"/>
+    <file name="index.css" crc="4190594413" ref="index"/>
     <file name="intro.css" crc="85892" ref="intro"/>
   </folder>
   <folder name="assets">
@@ -962,20 +962,16 @@
     <file name="jp-09b_2x.png" crc="66428055" seo="true" ref="home-backup">
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="jp-00a-line.png" crc="299769040" seo="true" ref="index">
+    <file name="jp-00a-line.png" crc="4222970528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="jp-00a-line_2x.png" crc="299769040" seo="true" ref="index">
+    <file name="jp-00a-line_2x.png" crc="4222970528" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-00a-line2.png" crc="4100343971" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="jp-00a-line_2x2.png" crc="4100343971" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="424366172" seo="true" mt="1587023430065" redirect="true"/>
+  <file name="index.html" crc="280561666" seo="true" mt="1587024010540" redirect="true"/>
   <file name="intro.html" crc="251920211" seo="true" mt="1586948161057" redirect="true"/>
   <file name="home-backup.html" crc="4204893152" seo="true" mt="1587002230581" redirect="true"/>
 </manifest>
