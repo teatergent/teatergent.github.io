@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587048529250">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587049305716">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="home-backup.css" crc="4260234818" ref="home-backup"/>
-    <file name="index.css" crc="100146476" ref="index"/>
+    <file name="index.css" crc="194404540" ref="index"/>
     <file name="intro.css" crc="85892" ref="intro"/>
   </folder>
   <folder name="assets">
@@ -976,8 +976,26 @@
     <file name="map_2x.png" crc="3762165543" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="location_usa.png" crc="4286039334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location_usa_2x.png" crc="3859589727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location_japan.png" crc="262125798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location_japan_2x.png" crc="3937214282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location_taiwan.png" crc="386104739" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="location_taiwan_2x.png" crc="114024663" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="170135179" seo="true" mt="1587048514023" redirect="true"/>
+  <file name="index.html" crc="4097397325" seo="true" mt="1587049275711" redirect="true"/>
   <file name="intro.html" crc="251920211" seo="true" mt="1586948161057" redirect="true"/>
   <file name="home-backup.html" crc="4204893152" seo="true" mt="1587002230581" redirect="true"/>
 </manifest>
