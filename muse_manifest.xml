@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587052131399">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.teatergent.com" resolutions="1x,2x" timestamp="1587069139407">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="4115222053" ref="index"/>
-    <file name="intro.css" crc="3914779306" ref="intro"/>
+    <file name="intro.css" crc="4111739358" ref="intro"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="3933795070" seo="true" mt="1586996117000"/>
@@ -679,10 +679,12 @@
     <file name="pic-cubes_2x.jpg" crc="3961709318" seo="true" ref="intro">
       <caption webpage="intro" alt=""/>
     </file>
-    <file name="company-logotype.png" crc="274649000" seo="true" ref="intro">
+    <file name="company-logotype.png" crc="534411802" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
     <file name="company-logotype_2x.png" crc="3823245135" seo="true" ref="intro">
+      <caption webpage="intro" alt=""/>
       <caption webpage="intro" alt=""/>
     </file>
     <file name="jp-10a.png" crc="430350442" seo="true" ref="intro">
@@ -867,13 +869,7 @@
       <caption webpage="intro" alt=""/>
       <caption webpage="home-backup" alt=""/>
     </file>
-    <file name="company-logotype109x180.png" crc="534411802" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
-    <file name="company-logotype109x180_2x.png" crc="3823245135" seo="true" ref="intro">
-      <caption webpage="intro" alt=""/>
-    </file>
   </folder>
   <file name="index.html" crc="40954710" seo="true" mt="1587051679554" redirect="true"/>
-  <file name="intro.html" crc="4092774138" seo="true" mt="1587052107281" redirect="true"/>
+  <file name="intro.html" crc="440467749" seo="true" mt="1587069099886" redirect="true"/>
 </manifest>
