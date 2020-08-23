@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598201226530">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598202556694">
   <folder name="css">
     <file name="site_global.css" crc="4119131786"/>
-    <file name="index.css" crc="85409558" ref="index"/>
+    <file name="index.css" crc="4063248502" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -56,22 +56,16 @@
     <file name="scene-cooking.jpg" crc="3873664593" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-ecoli.jpg" crc="3976429747" seo="true" ref="index">
+    <file name="02-ecoli-2.jpg" crc="3988630157" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-ecoli_2x.jpg" crc="4286224188" seo="true" ref="index">
+    <file name="02-ecoli-2_2x.jpg" crc="4211307823" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-ecoli-txt-b.png" crc="59653489" seo="true" ref="index">
+    <file name="x.png" crc="3771471346" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="02-ecoli-txt-b_2x.png" crc="4167854086" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="02-ecoli-txt-a.png" crc="4120678837" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="02-ecoli-txt-a_2x.png" crc="273689298" seo="true" ref="index">
+    <file name="x_2x.png" crc="317607353" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="report.jpg" crc="4187900367" seo="true" ref="index">
@@ -104,7 +98,7 @@
     <file name="icon-d_2x.png" crc="524042538" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="05-powder-cube.jpg" crc="3926912181" seo="true" ref="index">
+    <file name="05-powder-cube.jpg" crc="4125936780" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="05-powder-cube_2x.jpg" crc="491921070" seo="true" ref="index">
@@ -155,5 +149,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="291467431" seo="true" mt="1598201211452" redirect="true"/>
+  <file name="index.html" crc="262033062" seo="true" mt="1598202540768" redirect="true"/>
 </manifest>
