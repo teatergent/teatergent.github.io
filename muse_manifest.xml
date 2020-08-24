@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598266323037">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598290026150">
   <folder name="css">
-    <file name="site_global.css" crc="3866069360"/>
-    <file name="index.css" crc="325765901" ref="index"/>
+    <file name="site_global.css" crc="4119131786"/>
+    <file name="index.css" crc="4226457384" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -83,7 +83,7 @@
     <file name="04-before-after.jpg" crc="4190500220" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="scene-meal.jpg" crc="234742536" ref="index">
+    <file name="scene-rinse.jpg" crc="462122120" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="oil-a.jpg" crc="235033126" seo="true" ref="index">
@@ -104,7 +104,7 @@
     <file name="05-powder-cube_2x.jpg" crc="491921070" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="scene-highway.jpg" crc="233413535" ref="index">
+    <file name="scene-transport.jpg" crc="67381893" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="compress.jpg" crc="511955820" seo="true" ref="index">
@@ -149,5 +149,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="502289503" seo="true" mt="1598266286578" redirect="true"/>
+  <file name="index.html" crc="438877553" seo="true" mt="1598290008763" redirect="true"/>
 </manifest>
