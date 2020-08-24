@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598309499769">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598310373287">
   <folder name="css">
     <file name="site_global.css" crc="3938478628"/>
-    <file name="index.css" crc="41238368" ref="index"/>
+    <file name="index.css" crc="4168099236" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="4045006628" seo="true" mt="1591377666000"/>
@@ -108,6 +108,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cubes.jpg" crc="4139538909" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubes_2x.jpg" crc="329443858" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="icon-bottom-instagram.gif" crc="3762143794" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -133,5 +139,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="411298759" seo="true" mt="1598309491633" redirect="true"/>
+  <file name="index.html" crc="4282392616" seo="true" mt="1598310361179" redirect="true"/>
 </manifest>
