@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://chachawash.github.io" resolutions="1x,2x" timestamp="1598308945731">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598309369998">
   <folder name="css">
     <file name="site_global.css" crc="3938478628"/>
     <file name="index.css" crc="41238368" ref="index"/>
@@ -15,7 +15,7 @@
     <file name="require.js" crc="4177726516" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="132953600" ref="index"/>
+    <file name="a-master-favicon.ico" crc="3769433301" ref="index"/>
     <file name="hero-1.jpg" crc="426508924" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -133,5 +133,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="535836299" seo="true" mt="1598308915976" redirect="true"/>
+  <file name="index.html" crc="3840819890" seo="true" mt="1598309363975" redirect="true"/>
 </manifest>
