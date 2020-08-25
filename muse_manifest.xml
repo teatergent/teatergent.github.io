@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598385915319">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598390317973">
   <folder name="css">
-    <file name="site_global.css" crc="3938478628"/>
+    <file name="site_global.css" crc="54462997"/>
     <file name="index.css" crc="3910121696" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -43,10 +43,10 @@
     <file name="icon-02_2x.png" crc="3991322282" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-c-powder-cube.jpg" crc="4229364974" seo="true" ref="index">
+    <file name="pic-c-powder-cube.jpg" crc="416726046" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-c-powder-cube_2x.jpg" crc="3985159425" seo="true" ref="index">
+    <file name="pic-c-powder-cube_2x.jpg" crc="4135044528" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pic-c-compact.jpg" crc="423671887" seo="true" ref="index">
@@ -136,5 +136,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4017265466" seo="true" mt="1598385904487" redirect="true"/>
+  <file name="index.html" crc="193800816" seo="true" mt="1598390306367" redirect="true"/>
 </manifest>
