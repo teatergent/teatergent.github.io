@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598371326123">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598383536115">
   <folder name="css">
     <file name="site_global.css" crc="54462997"/>
-    <file name="index.css" crc="190099257" ref="index"/>
+    <file name="index.css" crc="90695920" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -85,10 +85,10 @@
     <file name="icon-04_2x.png" crc="3899588685" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-e-tea-saponin.png" crc="4112390966" seo="true" ref="index">
+    <file name="pic-e-tea-saponin.png" crc="3992779051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-e-tea-saponin_2x.png" crc="4198538354" seo="true" ref="index">
+    <file name="pic-e-tea-saponin_2x.png" crc="46190995" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pic-e-ecoli.jpg" crc="4126915434" seo="true" ref="index">
@@ -136,5 +136,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="352220662" seo="true" mt="1598371284124" redirect="true"/>
+  <file name="index.html" crc="344289570" seo="true" mt="1598383510788" redirect="true"/>
 </manifest>
