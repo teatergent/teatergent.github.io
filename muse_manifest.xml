@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598383536115">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598385915319">
   <folder name="css">
-    <file name="site_global.css" crc="54462997"/>
-    <file name="index.css" crc="90695920" ref="index"/>
+    <file name="site_global.css" crc="3938478628"/>
+    <file name="index.css" crc="3910121696" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -105,10 +105,10 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-cubes.jpg" crc="4139538909" seo="true" ref="index">
+    <file name="pic-g-cubes.jpg" crc="10311590" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-cubes_2x.jpg" crc="329443858" seo="true" ref="index">
+    <file name="pic-g-cubes_2x.jpg" crc="3940532655" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-bottom-instagram.gif" crc="3762143794" seo="true" ref="index">
@@ -136,5 +136,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="344289570" seo="true" mt="1598383510788" redirect="true"/>
+  <file name="index.html" crc="4017265466" seo="true" mt="1598385904487" redirect="true"/>
 </manifest>
