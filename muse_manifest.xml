@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598314832105">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598316922979">
   <folder name="css">
-    <file name="site_global.css" crc="54462997"/>
-    <file name="index.css" crc="3975463623" ref="index"/>
+    <file name="site_global.css" crc="3938478628"/>
+    <file name="index.css" crc="318345062" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="bg-video.mp4" crc="4045006628" seo="true" mt="1591377666000"/>
@@ -139,5 +139,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="334693097" seo="true" mt="1598314817082" redirect="true"/>
+  <file name="index.html" crc="227296149" seo="true" mt="1598316909507" redirect="true"/>
 </manifest>
