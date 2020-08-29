@@ -1,6 +1,6 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598702058254">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598708285015">
   <folder name="css">
-    <file name="site_global.css" crc="54462997"/>
+    <file name="site_global.css" crc="3938478628"/>
     <file name="index.css" crc="410456242" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -109,17 +109,17 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-manual-1.jpg" crc="3760550785" seo="true" ref="index">
+    <file name="pic-g-manual-1.jpg" crc="500379771" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-manual-1_2x.jpg" crc="195357022" seo="true" ref="index">
+    <file name="pic-g-manual-1_2x.jpg" crc="114475429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="pic-g-manual-2.jpg" crc="327600655" seo="true" ref="index">
+    <file name="pic-g-manual-2.jpg" crc="63705929" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-manual-2_2x.jpg" crc="4170057414" seo="true" ref="index">
+    <file name="pic-g-manual-2_2x.jpg" crc="4045331052" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="pic-g-manual-3.jpg" crc="368361105" seo="true" ref="index">
@@ -128,10 +128,10 @@
     <file name="pic-g-manual-3_2x.jpg" crc="520017362" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-manual-4.jpg" crc="330888903" seo="true" ref="index">
+    <file name="pic-g-manual-4.jpg" crc="474966700" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-manual-4_2x.jpg" crc="3775967575" seo="true" ref="index">
+    <file name="pic-g-manual-4_2x.jpg" crc="4033451260" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -172,5 +172,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3930848045" seo="true" mt="1598702037660" redirect="true"/>
+  <file name="index.html" crc="3799326406" seo="true" mt="1598708276981" redirect="true"/>
 </manifest>
