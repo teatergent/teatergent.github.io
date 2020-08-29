@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598622715826">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1598702058254">
   <folder name="css">
-    <file name="site_global.css" crc="3938478628"/>
-    <file name="index.css" crc="172447888" ref="index"/>
+    <file name="site_global.css" crc="54462997"/>
+    <file name="index.css" crc="410456242" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -128,10 +128,10 @@
     <file name="pic-g-manual-3_2x.jpg" crc="520017362" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-manual-4.jpg" crc="3887232871" seo="true" ref="index">
+    <file name="pic-g-manual-4.jpg" crc="330888903" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-g-manual-4_2x.jpg" crc="4048937771" seo="true" ref="index">
+    <file name="pic-g-manual-4_2x.jpg" crc="3775967575" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
@@ -172,5 +172,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="468193212" seo="true" mt="1598622708488" redirect="true"/>
+  <file name="index.html" crc="3930848045" seo="true" mt="1598702037660" redirect="true"/>
 </manifest>
