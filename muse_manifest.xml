@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1620399529332">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://teatergent.github.io" resolutions="1x,2x" timestamp="1620467288007">
   <folder name="css">
     <file name="site_global.css" crc="3938478628"/>
-    <file name="index.css" crc="187567357" ref="index"/>
+    <file name="index.css" crc="3899852969" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -91,11 +91,11 @@
     <file name="pic-e-ecoli_2x.jpg" crc="4181273010" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-f-gmark.png" crc="4189553789" seo="true" ref="index">
+    <file name="pic-f-gmark.png" crc="4051279603" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="pic-f-gmark_2x.png" crc="4189553789" seo="true" ref="index">
+    <file name="pic-f-gmark_2x.png" crc="467814990" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -154,5 +154,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3886429992" seo="true" mt="1620398474587" redirect="true"/>
+  <file name="index.html" crc="4133193731" seo="true" mt="1620466516546" redirect="true"/>
 </manifest>
