@@ -1,0 +1,81 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652293715416">
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="321938276" ref="index"/>
+    <file name="nomq_index.css" crc="4175267143" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
+    <file name="favicon-black.png" crc="471458485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="favicon-black_2x.png" crc="3931974202" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-and-cube700x420.png" crc="3816608092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-and-cube700x420_2x.png" crc="131869779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="painting450x614.jpg" crc="152208197" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="painting450x614_2x.jpg" crc="138386832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes360x184.jpg" crc="3786859397" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes360x184_2x.jpg" crc="3999604914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teatergent-trademark-white.png" crc="205445298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teatergent-trademark-white_2x.png" crc="3776984584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-and-cube.png" crc="155233288" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-and-cube_2x.png" crc="4013384645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes.jpg" crc="388299480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes_2x.jpg" crc="87508081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="painting.jpg" crc="4165639013" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="painting_2x.jpg" crc="83174754" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="521218455" seo="true" mt="1652293623146" redirect="true"/>
+</manifest>
