@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652362562069">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652363086221">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="4274491497" ref="index"/>
-    <file name="nomq_index.css" crc="93238612" ref="index"/>
+    <file name="index.css" crc="326278015" ref="index"/>
+    <file name="nomq_index.css" crc="4186766382" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -72,18 +72,18 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="painting501x683.jpg" crc="3893457831" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="painting501x683_2x.jpg" crc="436645231" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="three-cubes380x195.jpg" crc="361940775" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="three-cubes380x195_2x.jpg" crc="529324080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="painting460x628.jpg" crc="130645495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="painting460x628_2x.jpg" crc="3886741003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="512786191" seo="true" mt="1652362550749" redirect="true"/>
+  <file name="index.html" crc="4153885068" seo="true" mt="1652363077922" redirect="true"/>
 </manifest>

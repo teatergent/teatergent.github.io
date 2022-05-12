@@ -48,16 +48,16 @@
       <image:loc>http://teatergent.github.io/images/powder-cube_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/painting501x683.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/painting501x683_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/three-cubes380x195.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/three-cubes380x195_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/painting460x628.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/painting460x628_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
