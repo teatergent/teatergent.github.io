@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652376120953">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652376656200">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="4115725623" ref="index"/>
-    <file name="nomq_index.css" crc="44869646" ref="index"/>
+    <file name="index.css" crc="369510417" ref="index"/>
+    <file name="nomq_index.css" crc="4135683851" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -93,5 +93,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="78582072" seo="true" mt="1652376113555" redirect="true"/>
+  <file name="index.html" crc="61522580" seo="true" mt="1652376644740" redirect="true"/>
 </manifest>
