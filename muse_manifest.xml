@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652294889455">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652362059709">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3963083596" ref="index"/>
-    <file name="nomq_index.css" crc="4061048163" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="245041530" ref="index"/>
+    <file name="nomq_index.css" crc="104874023" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -37,18 +37,6 @@
     <file name="hand-and-cube700x420_2x.png" crc="131869779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="painting450x614.jpg" crc="152208197" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="painting450x614_2x.jpg" crc="138386832" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="three-cubes360x184.jpg" crc="3786859397" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="three-cubes360x184_2x.jpg" crc="3999604914" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="teatergent-trademark-white.png" crc="205445298" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -76,6 +64,26 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="powder-cube.jpg" crc="268906334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="powder-cube_2x.jpg" crc="3982445041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="painting501x683.jpg" crc="3893457831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="painting501x683_2x.jpg" crc="436645231" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes380x195.jpg" crc="361940775" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes380x195_2x.jpg" crc="529324080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3767383589" seo="true" mt="1652294879122" redirect="true"/>
+  <file name="index.html" crc="4289172037" seo="true" mt="1652362046391" redirect="true"/>
 </manifest>

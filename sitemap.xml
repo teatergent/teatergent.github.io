@@ -18,18 +18,6 @@
       <image:loc>http://teatergent.github.io/images/hand-and-cube700x420_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/painting450x614.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/painting450x614_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/three-cubes360x184.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/three-cubes360x184_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/teatergent-trademark-white.png</image:loc>
     </image:image>
     <image:image>
@@ -52,6 +40,24 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/painting_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/powder-cube.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/powder-cube_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/painting501x683.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/painting501x683_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/three-cubes380x195.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/three-cubes380x195_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
