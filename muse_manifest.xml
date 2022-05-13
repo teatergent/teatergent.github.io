@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652387283603">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652404619263">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="83169497" ref="index"/>
-    <file name="nomq_index.css" crc="3881669942" ref="index"/>
+    <file name="index.css" crc="3991044313" ref="index"/>
+    <file name="nomq_index.css" crc="3895655735" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -12,6 +12,8 @@
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
@@ -84,14 +86,50 @@
     <file name="painting460x628_2x.jpg" crc="3886741003" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35.png" crc="95160273" seo="true" ref="index">
+    <file name="drawing-35.png" crc="3842286875" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35_2x.png" crc="59501201" seo="true" ref="index">
+    <file name="drawing-35_2x.png" crc="3766609934" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="dishwasher.jpg" crc="7635941" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher_2x.jpg" crc="3958731130" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable.jpg" crc="208534430" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable_2x.jpg" crc="3808143201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine.jpg" crc="3866539626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine_2x.jpg" crc="4151035445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable500x436.jpg" crc="475308059" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable500x436_2x.jpg" crc="4107021183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plant.jpg" crc="268547364" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plant_2x.jpg" crc="3964862056" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="plant-u127990-fr.jpg" crc="187056996" ref="index"/>
+    <file name="plant-u127990-fr_2x.jpg" crc="3840925661" ref="index"/>
   </folder>
-  <file name="index.html" crc="4216349952" seo="true" mt="1652387271735" redirect="true"/>
+  <file name="index.html" crc="4190384262" seo="true" mt="1652404606621" redirect="true"/>
 </manifest>
