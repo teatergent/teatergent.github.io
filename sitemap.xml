@@ -6,12 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/favicon-black.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/favicon-black_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/hand-and-cube700x420.png</image:loc>
     </image:image>
     <image:image>
