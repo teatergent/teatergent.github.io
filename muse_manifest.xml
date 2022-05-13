@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652404619263">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652405235200">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3991044313" ref="index"/>
-    <file name="nomq_index.css" crc="3895655735" ref="index"/>
+    <file name="index.css" crc="4272263810" ref="index"/>
+    <file name="nomq_index.css" crc="4027864376" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -122,14 +122,15 @@
     <file name="vegetable500x436_2x.jpg" crc="4107021183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="plant.jpg" crc="268547364" ref="index">
+    <file name="plant.jpg" crc="470507825" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="plant_2x.jpg" crc="3964862056" ref="index">
+    <file name="plant_2x.jpg" crc="470507825" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="plant-u127990-fr.jpg" crc="187056996" ref="index"/>
-    <file name="plant-u127990-fr_2x.jpg" crc="3840925661" ref="index"/>
+    <file name="plant2.jpg" crc="237823804" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4190384262" seo="true" mt="1652404606621" redirect="true"/>
+  <file name="index.html" crc="39329794" seo="true" mt="1652405217898" redirect="true"/>
 </manifest>
