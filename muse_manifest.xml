@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652405866677">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652466994689">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3887586579" ref="index"/>
-    <file name="nomq_index.css" crc="4100413940" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="4072599899" ref="index"/>
+    <file name="nomq_index.css" crc="3821117773" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -59,10 +59,10 @@
     <file name="three-cubes_2x.jpg" crc="87508081" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="painting.jpg" crc="4165639013" seo="true" ref="index">
+    <file name="painting.jpg" crc="91537862" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="painting_2x.jpg" crc="83174754" seo="true" ref="index">
+    <file name="painting_2x.jpg" crc="4258969953" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
@@ -80,10 +80,10 @@
     <file name="three-cubes380x195_2x.jpg" crc="529324080" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="painting460x628.jpg" crc="130645495" seo="true" ref="index">
+    <file name="painting460x628.jpg" crc="514854763" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="painting460x628_2x.jpg" crc="3886741003" seo="true" ref="index">
+    <file name="painting460x628_2x.jpg" crc="148080666" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="drawing-35.png" crc="3842286875" seo="true" ref="index">
@@ -96,16 +96,16 @@
     </file>
     <file name="dishwasher.jpg" crc="7635941" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="dishwasher_2x.jpg" crc="3958731130" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable.jpg" crc="150301215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vegetable.jpg" crc="208534430" seo="true" ref="index">
+    <file name="vegetable_2x.jpg" crc="4107021183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="vegetable_2x.jpg" crc="3808143201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="washing-machine.jpg" crc="3866539626" seo="true" ref="index">
@@ -114,12 +114,6 @@
     </file>
     <file name="washing-machine_2x.jpg" crc="4151035445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vegetable500x436.jpg" crc="475308059" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vegetable500x436_2x.jpg" crc="4107021183" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="plant.jpg" crc="364935721" ref="index">
@@ -131,6 +125,12 @@
     <file name="plant2.jpg" crc="3931625296" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="dishwasher440x375.jpg" crc="3994848963" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher440x375_2x.jpg" crc="466766085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4114297531" seo="true" mt="1652405855182" redirect="true"/>
+  <file name="index.html" crc="194846423" seo="true" mt="1652466983755" redirect="true"/>
 </manifest>

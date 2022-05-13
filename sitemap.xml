@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://teatergent.github.io/index.html</loc>
-    <lastmod>2022-05-13</lastmod>
+    <lastmod>2022-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -84,10 +84,10 @@
       <image:loc>http://teatergent.github.io/images/washing-machine_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/vegetable500x436.jpg</image:loc>
+      <image:loc>http://teatergent.github.io/images/dishwasher440x375.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/vegetable500x436_2x.jpg</image:loc>
+      <image:loc>http://teatergent.github.io/images/dishwasher440x375_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
