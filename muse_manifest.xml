@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652482946224">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652484530899">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3996666221" ref="index"/>
-    <file name="nomq_index.css" crc="4052880029" ref="index"/>
+    <file name="index.css" crc="4241203524" ref="index"/>
+    <file name="nomq_index.css" crc="4033867095" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -192,6 +192,38 @@
     <file name="drawing-35450x612_2x.png" crc="271831673" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icon-bottom-instagram.png" crc="3899341451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-instagram_2x.png" crc="74545715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-facebook.png" crc="240613279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-facebook_2x.png" crc="393868451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-messanger.png" crc="143613062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-messanger_2x.png" crc="3781489661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-email.png" crc="3931153350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-email_2x.png" crc="3910953429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4072233556" seo="true" mt="1652482933334" redirect="true"/>
+  <file name="index.html" crc="3826528083" seo="true" mt="1652484515738" redirect="true"/>
 </manifest>
