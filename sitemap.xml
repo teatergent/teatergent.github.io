@@ -2,15 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://teatergent.github.io/index.html</loc>
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-05-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/hand-and-cube700x420.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/hand-and-cube700x420_2x.png</image:loc>
-    </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/teatergent-trademark-white.png</image:loc>
     </image:image>
@@ -42,18 +36,6 @@
       <image:loc>http://teatergent.github.io/images/powder-cube_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/three-cubes380x195.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/three-cubes380x195_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/painting460x628.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/painting460x628_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/drawing-35.png</image:loc>
     </image:image>
     <image:image>
@@ -78,12 +60,6 @@
       <image:loc>http://teatergent.github.io/images/washing-machine_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/dishwasher440x375.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/dishwasher440x375_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/check-1.png</image:loc>
     </image:image>
     <image:image>
@@ -100,12 +76,6 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/check-3_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35450x612.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35450x612_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/icon-bottom-instagram.png</image:loc>
