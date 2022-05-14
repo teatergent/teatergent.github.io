@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652559158745">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652562113457">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="400626829" ref="index"/>
+    <file name="index.css" crc="153327646" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -44,10 +44,10 @@
     <file name="powder-cube_2x.jpg" crc="3982445041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35.png" crc="4036234914" seo="true" ref="index">
+    <file name="drawing-35.png" crc="4182964570" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35_2x.png" crc="47369389" seo="true" ref="index">
+    <file name="drawing-35_2x.png" crc="287501730" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dishwasher.jpg" crc="53898357" seo="true" ref="index">
@@ -138,5 +138,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3791945084" seo="true" mt="1652559111710" redirect="true"/>
+  <file name="index.html" crc="4087641860" seo="true" mt="1652562101270" redirect="true"/>
 </manifest>
