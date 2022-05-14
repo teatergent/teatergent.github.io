@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652485031197">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652526353940">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3800711780" ref="index"/>
-    <file name="nomq_index.css" crc="3787246300" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="277665322" ref="index"/>
+    <file name="nomq_index.css" crc="4270123444" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,7 +13,6 @@
     <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
@@ -96,15 +95,6 @@
     </file>
     <file name="washing-machine_2x.jpg" crc="4151035445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="plant.jpg" crc="364935721" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="plant_2x.jpg" crc="364935721" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="plant2.jpg" crc="3931625296" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dishwasher440x375.jpg" crc="3994848963" seo="true" ref="index">
@@ -220,6 +210,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="wash.png" crc="4181568764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wash_2x.png" crc="224837597" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="23643199" seo="true" mt="1652485020778" redirect="true"/>
+  <file name="index.html" crc="304916897" seo="true" mt="1652526338714" redirect="true"/>
 </manifest>
