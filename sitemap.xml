@@ -24,12 +24,6 @@
       <image:loc>http://teatergent.github.io/images/three-cubes_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/painting.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/painting_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/powder-cube.jpg</image:loc>
     </image:image>
     <image:image>
@@ -112,6 +106,12 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/gmark_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/illustration.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/illustration_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
