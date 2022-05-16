@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652634376004">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652740051709">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="263532911" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="160420970" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -131,12 +131,9 @@
     <file name="gmark_2x.png" crc="502389827" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration.jpg" crc="316968454" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="illustration_2x.jpg" crc="3993691671" seo="true" ref="index">
+    <file name="illustration.jpg" crc="216667585" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="463699705" seo="true" mt="1652634287512" redirect="true"/>
+  <file name="index.html" crc="401534926" seo="true" mt="1652740031369" redirect="true"/>
 </manifest>
