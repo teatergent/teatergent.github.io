@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652711836868">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652715619380">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="105080234" ref="index"/>
-    <file name="nomq_index.css" crc="4211870152" ref="index"/>
+    <file name="index.css" crc="491577210" ref="index"/>
+    <file name="nomq_index.css" crc="411208684" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -174,6 +174,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="three-packages-u129100-fr.jpg" crc="4068280026" ref="index"/>
+    <file name="three-packages-u129100-fr_2x.jpg" crc="3925000766" ref="index"/>
     <file name="hand-and-cube430x258.png" crc="93110727" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -192,36 +194,34 @@
     <file name="powder-cube400x212_2x.jpg" crc="530630230" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wash.png" crc="12535228" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dishwasher400x341.jpg" crc="3875128879" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="dishwasher400x341_2x.jpg" crc="449896052" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="washing-machine400x400.jpg" crc="4000033592" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="washing-machine400x400_2x.jpg" crc="281512680" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vegetable420x367.jpg" crc="3780986548" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vegetable420x367_2x.jpg" crc="248853346" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="three-packages-u129100-fr.jpg" crc="4068280026" ref="index"/>
-    <file name="three-packages-u129100-fr_2x.jpg" crc="3925000766" ref="index"/>
     <file name="drawing-35320x500.png" crc="4059816807" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="drawing-35320x500_2x.png" crc="4004078890" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="wash.png" crc="12535228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher380x324.jpg" crc="3847279327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher380x324_2x.jpg" crc="4112417138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine380x380.jpg" crc="4142255033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine380x380_2x.jpg" crc="4014335032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable380x332.jpg" crc="339422324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable380x332_2x.jpg" crc="342438815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3809880940" seo="true" mt="1652711824653" redirect="true"/>
+  <file name="index.html" crc="4142644961" seo="true" mt="1652715602920" redirect="true"/>
 </manifest>
