@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652703862461">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652711836868">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3930575780" ref="index"/>
-    <file name="nomq_index.css" crc="355068243" ref="index"/>
+    <file name="index.css" crc="105080234" ref="index"/>
+    <file name="nomq_index.css" crc="4211870152" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -192,12 +192,6 @@
     <file name="powder-cube400x212_2x.jpg" crc="530630230" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35350x549.png" crc="391788938" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="drawing-35350x549_2x.png" crc="422016115" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="wash.png" crc="12535228" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -220,6 +214,14 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="three-packages-u129100-fr.jpg" crc="4068280026" ref="index"/>
+    <file name="three-packages-u129100-fr_2x.jpg" crc="3925000766" ref="index"/>
+    <file name="drawing-35320x500.png" crc="4059816807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35320x500_2x.png" crc="4004078890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="41440637" seo="true" mt="1652703822831" redirect="true"/>
+  <file name="index.html" crc="3809880940" seo="true" mt="1652711824653" redirect="true"/>
 </manifest>

@@ -129,12 +129,6 @@
       <image:loc>http://teatergent.github.io/images/powder-cube400x212_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35350x549.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35350x549_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/wash.png</image:loc>
     </image:image>
     <image:image>
@@ -154,6 +148,12 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/vegetable420x367_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/drawing-35320x500.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/drawing-35320x500_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
