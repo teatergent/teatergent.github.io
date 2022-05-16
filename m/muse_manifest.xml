@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652723154120">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652741177834">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="471589745" ref="index"/>
-    <file name="nomq_index.css" crc="27081690" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="3938156886" ref="index"/>
+    <file name="nomq_index.css" crc="3909838357" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -28,10 +28,10 @@
     <file name="hand-and-cube_2x.png" crc="131869779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration.jpg" crc="316968454" seo="true" ref="index">
+    <file name="illustration.jpg" crc="511742320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration_2x.jpg" crc="3993691671" seo="true" ref="index">
+    <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="powder-cube.jpg" crc="268906334" seo="true" ref="index">
@@ -182,12 +182,6 @@
     <file name="hand-and-cube430x258_2x.png" crc="174979323" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration358x500.jpg" crc="452848976" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="illustration358x500_2x.jpg" crc="3842941083" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="powder-cube400x212.jpg" crc="441411938" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -222,6 +216,12 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="illustration350x518.jpg" crc="450072492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration350x518_2x.jpg" crc="4177209026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="28378593" seo="true" mt="1652723136490" redirect="true"/>
+  <file name="index.html" crc="3845077975" seo="true" mt="1652741156584" redirect="true"/>
 </manifest>
