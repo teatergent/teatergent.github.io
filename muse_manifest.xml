@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652741724291">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653315273789">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="4137922801" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="486299116" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -26,22 +26,10 @@
     <file name="hand-and-cube_2x.png" crc="131869779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="three-cubes.jpg" crc="436663489" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="three-cubes_2x.jpg" crc="529324080" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="powder-cube.jpg" crc="268906334" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="powder-cube_2x.jpg" crc="3982445041" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="drawing-35.png" crc="4182964570" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="drawing-35_2x.png" crc="287501730" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dishwasher.jpg" crc="53898357" seo="true" ref="index">
@@ -137,6 +125,12 @@
     <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="drawing-35-f.png" crc="3995294280" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35-f_2x.png" crc="47893398" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4219769248" seo="true" mt="1652741716367" redirect="true"/>
+  <file name="index.html" crc="449319180" seo="true" mt="1653315256132" redirect="true"/>
 </manifest>

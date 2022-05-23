@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://teatergent.github.io/index.html</loc>
-    <lastmod>2022-05-17</lastmod>
+    <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -18,22 +18,10 @@
       <image:loc>http://teatergent.github.io/images/hand-and-cube_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/three-cubes.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/three-cubes_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://teatergent.github.io/images/powder-cube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/powder-cube_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/dishwasher.jpg</image:loc>
@@ -112,6 +100,12 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/illustration_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/drawing-35-f.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/drawing-35-f_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
