@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653373468533">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653355671183">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="184546414" ref="index"/>
+    <file name="index.css" crc="4045481511" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -9,8 +9,8 @@
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="3936894949" ref="index"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
@@ -26,86 +26,28 @@
     <file name="hand-and-cube_2x.png" crc="131869779" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="gmark.png" crc="4263225482" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gmark_2x.png" crc="4106022" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-01.png" crc="3939933996" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-01_2x.png" crc="4215656201" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-02.png" crc="3802011332" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-02_2x.png" crc="4238517308" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-03.png" crc="4054673211" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-03_2x.png" crc="249063729" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="powder-cube.jpg" crc="268906334" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="powder-cube_2x.jpg" crc="3982445041" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration.jpg" crc="511742320" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="drawing-35-f.png" crc="259415189" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="drawing-35-f_2x.png" crc="259415189" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-fsc.png" crc="3841950994" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-fsc_2x.png" crc="264850106" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-bcorp.png" crc="348342024" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-bcorp_2x.png" crc="348342024" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wash.png" crc="486871851" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wash_2x.png" crc="195403494" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-rac.png" crc="34407633" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-rac_2x.png" crc="21588503" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-leapingbunny.png" crc="4044766401" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-leapingbunny_2x.png" crc="4044766401" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="dishwasher.jpg" crc="53898357" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dishwasher_2x.jpg" crc="466766085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable.jpg" crc="150301215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable_2x.jpg" crc="4107021183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine.jpg" crc="3866539626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine_2x.jpg" crc="4151035445" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="check-1.png" crc="3845282407" seo="true" ref="index">
@@ -138,18 +80,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="washing-machine.jpg" crc="3866539626" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="washing-machine_2x.jpg" crc="4151035445" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vegetable.jpg" crc="150301215" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="vegetable_2x.jpg" crc="4107021183" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="three-packages.jpg" crc="126132358" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -177,6 +107,30 @@
     <file name="icon-bottom-email_2x.png" crc="3910953429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="wash.png" crc="486871851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wash_2x.png" crc="195403494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark.png" crc="132064968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark_2x.png" crc="502389827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration.jpg" crc="511742320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35-f.png" crc="259415189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35-f_2x.png" crc="259415189" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="57927268" seo="true" mt="1653373455712" redirect="true"/>
+  <file name="index.html" crc="4289336859" seo="true" mt="1653355654472" redirect="true"/>
 </manifest>

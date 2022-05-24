@@ -18,28 +18,82 @@
       <image:loc>http://teatergent.github.io/images/hand-and-cube_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://teatergent.github.io/images/gmark.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/gmark_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/icon-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/icon-01_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/icon-02.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/icon-02_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/icon-03.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/icon-03_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://teatergent.github.io/images/powder-cube.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/powder-cube_2x.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://teatergent.github.io/images/illustration.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/illustration_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/drawing-35-f.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/drawing-35-f_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-fsc.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-fsc_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-bcorp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-bcorp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/wash.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/wash_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-rac.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-rac_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-leapingbunny.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/badge-leapingbunny_2x.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://teatergent.github.io/images/dishwasher.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/dishwasher_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/vegetable.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/vegetable_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/washing-machine.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/washing-machine_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/check-1.png</image:loc>
@@ -58,6 +112,18 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/check-3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/washing-machine.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/washing-machine_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/vegetable.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/vegetable_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/icon-bottom-instagram.png</image:loc>
@@ -82,30 +148,6 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/icon-bottom-email_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/wash.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/wash_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/gmark.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/gmark_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/illustration.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/illustration_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35-f.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/drawing-35-f_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>
