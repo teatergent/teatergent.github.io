@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653315273789">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653354745742">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="486299116" ref="index"/>
+    <file name="index.css" crc="4045481511" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -125,12 +125,12 @@
     <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35-f.png" crc="3995294280" seo="true" ref="index">
+    <file name="drawing-35-f.png" crc="4151827340" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35-f_2x.png" crc="47893398" seo="true" ref="index">
+    <file name="drawing-35-f_2x.png" crc="4151827340" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="449319180" seo="true" mt="1653315256132" redirect="true"/>
+  <file name="index.html" crc="4046364653" seo="true" mt="1653354732461" redirect="true"/>
 </manifest>
