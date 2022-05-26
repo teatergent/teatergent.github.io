@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://teatergent.github.io/index.html</loc>
-    <lastmod>2022-05-25</lastmod>
+    <lastmod>2022-05-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -13,6 +13,9 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/hand-and-cube.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/hand-and-cube_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/gmark.png</image:loc>
@@ -48,6 +51,9 @@
       <image:loc>http://teatergent.github.io/images/illustration.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://teatergent.github.io/images/illustration_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://teatergent.github.io/images/drawing-35-f.png</image:loc>
     </image:image>
     <image:image>
@@ -66,10 +72,10 @@
       <image:loc>http://teatergent.github.io/images/badge-bcorp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/wash.png</image:loc>
+      <image:loc>http://teatergent.github.io/images/badge-leapingbunny.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/wash_2x.png</image:loc>
+      <image:loc>http://teatergent.github.io/images/badge-leapingbunny_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/badge-rac.png</image:loc>
@@ -78,10 +84,10 @@
       <image:loc>http://teatergent.github.io/images/badge-rac_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/badge-leapingbunny.png</image:loc>
+      <image:loc>http://teatergent.github.io/images/wash.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://teatergent.github.io/images/badge-leapingbunny_2x.png</image:loc>
+      <image:loc>http://teatergent.github.io/images/wash_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/dishwasher.jpg</image:loc>
@@ -142,21 +148,6 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/icon-bottom-email_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/illustration_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-0325x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-0325x25_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-0225x25.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-0225x25_2x.png</image:loc>
     </image:image>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653375509793">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653550617239">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="490413063" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="306957764" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -11,6 +11,7 @@
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
@@ -20,10 +21,7 @@
     <file name="teatergent-trademark-white_2x.png" crc="3776984584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hand-and-cube.png" crc="3816608092" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hand-and-cube_2x.png" crc="131869779" seo="true" ref="index">
+    <file name="hand-and-cube.png" crc="4106747639" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gmark.png" crc="4263225482" seo="true" ref="index">
@@ -32,13 +30,13 @@
     <file name="gmark_2x.png" crc="4106022" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-01.png" crc="3939933996" seo="true" ref="index">
+    <file name="icon-01.png" crc="4215656201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-01_2x.png" crc="4215656201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-02.png" crc="3802011332" seo="true" ref="index">
+    <file name="icon-02.png" crc="4238517308" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -46,7 +44,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-03.png" crc="4054673211" seo="true" ref="index">
+    <file name="icon-03.png" crc="3799234245" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -54,52 +52,37 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="powder-cube.jpg" crc="268906334" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="powder-cube_2x.jpg" crc="3982445041" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="illustration.jpg" crc="511742320" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
+    <file name="badge-fsc.png" crc="3830110547" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35-f.png" crc="259415189" seo="true" ref="index">
+    <file name="badge-fsc_2x.png" crc="75939079" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="drawing-35-f_2x.png" crc="259415189" seo="true" ref="index">
+    <file name="badge-bcorp.png" crc="4121090404" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="badge-fsc.png" crc="3841950994" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-fsc_2x.png" crc="264850106" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-bcorp.png" crc="348342024" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-bcorp_2x.png" crc="348342024" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-leapingbunny.png" crc="4044766401" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-leapingbunny_2x.png" crc="4044766401" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-rac.png" crc="34407633" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-rac_2x.png" crc="21588503" seo="true" ref="index">
+    <file name="badge-bcorp_2x.png" crc="3831889542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="wash.png" crc="486871851" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="wash_2x.png" crc="195403494" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="badge-rac.png" crc="420044404" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="badge-rac_2x.png" crc="372274606" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="badge-leapingbunny.png" crc="3979970236" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="badge-leapingbunny_2x.png" crc="69344860" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="dishwasher.jpg" crc="53898357" seo="true" ref="index">
@@ -177,6 +160,33 @@
     <file name="icon-bottom-email_2x.png" crc="3910953429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-baby.jpg" crc="4133565699" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes.jpg" crc="4014096936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-kitchen.jpg" crc="522779713" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle.png" crc="3877945694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle_2x.png" crc="3877945694" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes_2x.jpg" crc="3969584425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="badge-usda-biobased.png" crc="113565658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="badge-usda-biobased_2x.png" crc="83580717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="487695341" seo="true" mt="1653375489434" redirect="true"/>
+  <file name="index.html" crc="326086016" seo="true" mt="1653550603630" redirect="true"/>
 </manifest>
