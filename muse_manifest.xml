@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653573027943">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653577818128">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3855067086" ref="index"/>
+    <file name="index.css" crc="176509764" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -70,10 +70,7 @@
     <file name="badge-bcorp_2x.png" crc="3831889542" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wash.png" crc="486871851" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="wash_2x.png" crc="195403494" seo="true" ref="index">
+    <file name="wash.png" crc="31375586" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="badge-rac.png" crc="420044404" seo="true" ref="index">
@@ -193,6 +190,18 @@
     <file name="powder-cube_2x.jpg" crc="490721296" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="cube-finger.jpg" crc="4209814607" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cube-finger_2x.jpg" crc="4080417480" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line.png" crc="4177563125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line_2x.png" crc="4177563125" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="63818192" seo="true" mt="1653573019999" redirect="true"/>
+  <file name="index.html" crc="407328367" seo="true" mt="1653577809051" redirect="true"/>
 </manifest>
