@@ -1,0 +1,227 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1652741682428">
+  <folder name="css">
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="3891118645" ref="index"/>
+    <file name="nomq_index.css" crc="3909838357" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="3862000161" ref="index"/>
+    <file name="three-packages-mobile.jpg" crc="385318748" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-packages-mobile_2x.jpg" crc="347858586" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-and-cube.png" crc="3816608092" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-and-cube_2x.png" crc="131869779" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration.jpg" crc="511742320" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration_2x.jpg" crc="3960024081" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="powder-cube.jpg" crc="268906334" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="powder-cube_2x.jpg" crc="3982445041" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes.jpg" crc="436663489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes_2x.jpg" crc="529324080" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35.png" crc="4182964570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35_2x.png" crc="287501730" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark.png" crc="132064968" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark_2x.png" crc="502389827" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wash400x550.png" crc="486871851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher.jpg" crc="53898357" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher_2x.jpg" crc="466766085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check-1.png" crc="3845282407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check-1_2x.png" crc="3845282407" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check-2.png" crc="84426971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check-2_2x.png" crc="84426971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check-3.png" crc="43001314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="check-3_2x.png" crc="43001314" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine.jpg" crc="3866539626" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine_2x.jpg" crc="4151035445" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable.jpg" crc="150301215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable_2x.jpg" crc="4107021183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-packages.jpg" crc="126132358" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-instagram.png" crc="3899341451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-instagram_2x.png" crc="74545715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-facebook.png" crc="240613279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-facebook_2x.png" crc="393868451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-messanger.png" crc="143613062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-messanger_2x.png" crc="3781489661" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-email.png" crc="3931153350" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-bottom-email_2x.png" crc="3910953429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teatergent-trademark-white.png" crc="205445298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="teatergent-trademark-white_2x.png" crc="3776984584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-packages-u129100-fr.jpg" crc="4068280026" ref="index"/>
+    <file name="three-packages-u129100-fr_2x.jpg" crc="3925000766" ref="index"/>
+    <file name="hand-and-cube430x258.png" crc="93110727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hand-and-cube430x258_2x.png" crc="174979323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="powder-cube400x212.jpg" crc="441411938" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="powder-cube400x212_2x.jpg" crc="530630230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35320x500.png" crc="4059816807" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawing-35320x500_2x.png" crc="4004078890" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wash.png" crc="12535228" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher380x324.jpg" crc="3847279327" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dishwasher380x324_2x.jpg" crc="4112417138" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine380x380.jpg" crc="4142255033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="washing-machine380x380_2x.jpg" crc="4014335032" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable380x332.jpg" crc="339422324" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vegetable380x332_2x.jpg" crc="342438815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="illustration350x518.jpg" crc="450072492" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="illustration350x518_2x.jpg" crc="4177209026" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="222861516" seo="true" mt="1652741627823" redirect="true"/>
+</manifest>

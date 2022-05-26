@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653566047104">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653567459738">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="4270840547" ref="index"/>
+    <file name="index.css" crc="3980847695" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -94,32 +94,32 @@
     <file name="dishwasher_2x.jpg" crc="466766085" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="check-1.png" crc="3845282407" seo="true" ref="index">
+    <file name="check-1.png" crc="3852346335" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="check-1_2x.png" crc="3845282407" seo="true" ref="index">
+    <file name="check-1_2x.png" crc="445162781" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="check-2.png" crc="84426971" seo="true" ref="index">
+    <file name="check-2.png" crc="3833791328" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="check-2_2x.png" crc="84426971" seo="true" ref="index">
+    <file name="check-2_2x.png" crc="4152094400" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="check-3.png" crc="43001314" seo="true" ref="index">
+    <file name="check-3.png" crc="22036235" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="check-3_2x.png" crc="43001314" seo="true" ref="index">
+    <file name="check-3_2x.png" crc="456646932" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -188,5 +188,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3789169579" seo="true" mt="1653566035847" redirect="true"/>
+  <file name="index.html" crc="3881390852" seo="true" mt="1653567449261" redirect="true"/>
 </manifest>
