@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653577818128">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653579780574">
   <folder name="css">
     <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="176509764" ref="index"/>
+    <file name="index.css" crc="3796644941" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -85,10 +85,10 @@
     <file name="badge-leapingbunny_2x.png" crc="69344860" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dishwasher.jpg" crc="53898357" seo="true" ref="index">
+    <file name="dishwasher.jpg" crc="4002670948" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dishwasher_2x.jpg" crc="466766085" seo="true" ref="index">
+    <file name="dishwasher_2x.jpg" crc="4226832147" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="check-1.png" crc="3852346335" seo="true" ref="index">
@@ -121,16 +121,16 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="washing-machine.jpg" crc="3866539626" seo="true" ref="index">
+    <file name="washing-machine.jpg" crc="387457148" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="washing-machine_2x.jpg" crc="4151035445" seo="true" ref="index">
+    <file name="washing-machine_2x.jpg" crc="296592630" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vegetable.jpg" crc="150301215" seo="true" ref="index">
+    <file name="vegetable.jpg" crc="105952168" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vegetable_2x.jpg" crc="4107021183" seo="true" ref="index">
+    <file name="vegetable_2x.jpg" crc="51938172" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="three-packages.jpg" crc="126132358" ref="index">
@@ -202,6 +202,24 @@
     <file name="line_2x.png" crc="4177563125" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="icon-04.png" crc="4228758255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-04_2x.png" crc="4228758255" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-05.png" crc="340085006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-05_2x.png" crc="340085006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-06.png" crc="3973374550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon-06_2x.png" crc="3973374550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="407328367" seo="true" mt="1653577809051" redirect="true"/>
+  <file name="index.html" crc="3918579798" seo="true" mt="1653579763958" redirect="true"/>
 </manifest>
