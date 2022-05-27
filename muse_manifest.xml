@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653580266092">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653621551161">
   <folder name="css">
-    <file name="site_global.css" crc="229390053"/>
-    <file name="index.css" crc="3787976524" ref="index"/>
+    <file name="site_global.css" crc="3779915718"/>
+    <file name="index.css" crc="27118614" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -166,7 +166,7 @@
     <file name="circle_2x.png" crc="3877945694" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="photo-baby.jpg" crc="4133565699" ref="index">
+    <file name="photo-baby.jpg" crc="4081175172" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="three-cubes.jpg" crc="4014096936" seo="true" ref="index">
@@ -181,7 +181,7 @@
     <file name="badge-usda-biobased_2x.png" crc="83580717" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="photo-kitchen.jpg" crc="522779713" ref="index">
+    <file name="photo-kitchen.jpg" crc="4183453625" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="powder-cube.jpg" crc="4199297506" seo="true" ref="index">
@@ -194,12 +194,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="cube-finger_2x.jpg" crc="4080417480" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="line.png" crc="4177563125" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="line_2x.png" crc="4177563125" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-04.png" crc="4228758255" seo="true" ref="index">
@@ -220,6 +214,18 @@
     <file name="icon-06_2x.png" crc="3973374550" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="line-1.png" crc="452369094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-1_2x.png" crc="452369094" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-2.png" crc="250451433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line-2_2x.png" crc="250451433" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="200953941" seo="true" mt="1653580242298" redirect="true"/>
+  <file name="index.html" crc="4178691193" seo="true" mt="1653621452520" redirect="true"/>
 </manifest>
