@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653622859203">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653634661285">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3954377785" ref="index"/>
+    <file name="index.css" crc="419558788" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -21,7 +21,7 @@
     <file name="teatergent-trademark-white_2x.png" crc="3776984584" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="hand-and-cube.png" crc="4106747639" seo="true" ref="index">
+    <file name="hand-and-cube.png" crc="4013384645" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="gmark.png" crc="4263225482" seo="true" ref="index">
@@ -227,5 +227,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="256269669" seo="true" mt="1653622849452" redirect="true"/>
+  <file name="index.html" crc="51545355" seo="true" mt="1653634611972" redirect="true"/>
 </manifest>
