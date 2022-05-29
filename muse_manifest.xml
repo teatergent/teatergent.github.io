@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653796620196">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653796887661">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3799890230" ref="index"/>
+    <file name="index.css" crc="3780215321" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -246,6 +246,12 @@
     <file name="food-factory-6_2x.jpg" crc="4130947077" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gmark.png" crc="522066129" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark_2x.png" crc="4242447975" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4090134917" seo="true" mt="1653796610653" redirect="true"/>
+  <file name="index.html" crc="3890378364" seo="true" mt="1653796876084" redirect="true"/>
 </manifest>

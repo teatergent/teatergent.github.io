@@ -206,5 +206,11 @@
     <image:image>
       <image:loc>http://teatergent.github.io/images/food-factory-6_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/gmark.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/gmark_2x.png</image:loc>
+    </image:image>
   </url>
 </urlset>
