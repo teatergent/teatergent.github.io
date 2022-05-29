@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653796620196">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653648084192">
   <folder name="css">
     <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="3799890230" ref="index"/>
+    <file name="index.css" crc="213452695" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -24,6 +24,12 @@
     <file name="hand-and-cube.png" crc="4013384645" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="gmark.png" crc="4263225482" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="gmark_2x.png" crc="4106022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="icon-01.png" crc="4215656201" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -33,10 +39,8 @@
     <file name="icon-02.png" crc="4238517308" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
     </file>
     <file name="icon-02_2x.png" crc="4238517308" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
@@ -165,6 +169,12 @@
     <file name="photo-baby.jpg" crc="4081175172" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="three-cubes.jpg" crc="4014096936" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="three-cubes_2x.jpg" crc="3969584425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="badge-usda-biobased.png" crc="113565658" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -216,36 +226,6 @@
     <file name="line-2_2x.png" crc="250451433" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="sold.png" crc="270161518" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="sold_2x.png" crc="4050059019" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-usda-biobased-color.png" crc="283627616" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-usda-biobased-color_2x.png" crc="4220970004" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-safer-choice.png" crc="3778358148" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="badge-safer-choice_2x.png" crc="4032420148" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-07.png" crc="4263290600" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-07_2x.png" crc="4213207778" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="food-factory-6.jpg" crc="262766404" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="food-factory-6_2x.jpg" crc="4130947077" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="4090134917" seo="true" mt="1653796610653" redirect="true"/>
+  <file name="index.html" crc="3851226165" seo="true" mt="1653648072656" redirect="true"/>
 </manifest>

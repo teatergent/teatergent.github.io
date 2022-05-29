@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://teatergent.github.io/index.html</loc>
-    <lastmod>2022-05-29</lastmod>
+    <lastmod>2022-05-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,6 +10,12 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/teatergent-trademark-white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/gmark.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/gmark_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/icon-01.png</image:loc>
@@ -129,6 +135,12 @@
       <image:loc>http://teatergent.github.io/images/circle_2x.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://teatergent.github.io/images/three-cubes.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://teatergent.github.io/images/three-cubes_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://teatergent.github.io/images/badge-usda-biobased.png</image:loc>
     </image:image>
     <image:image>
@@ -175,36 +187,6 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/line-2_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/sold.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/sold_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/badge-usda-biobased-color.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/badge-usda-biobased-color_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/badge-safer-choice.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/badge-safer-choice_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-07.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-07_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/food-factory-6.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/food-factory-6_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
