@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://teatergent.github.io/index.html</loc>
-    <lastmod>2022-05-29</lastmod>
+    <lastmod>2022-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -181,30 +181,6 @@
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/icon-07_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-instagram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-instagram_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-facebook_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-messanger.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-messanger_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-email.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://teatergent.github.io/images/icon-bottom-email_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://teatergent.github.io/images/gmark.png</image:loc>

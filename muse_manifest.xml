@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1653806869798">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="false" exportTarget="other" domain="teatergent.github.io" resolutions="1x,2x" timestamp="1670200209295">
   <folder name="css">
-    <file name="site_global.css" crc="3779915718"/>
-    <file name="index.css" crc="160950158" ref="index"/>
+    <file name="site_global.css" crc="229390053"/>
+    <file name="index.css" crc="325944097" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -30,16 +30,16 @@
     <file name="sold_2x.png" crc="4050059019" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="badge-usda-biobased-color.png" crc="283627616" seo="true" ref="index">
+    <file name="badge-usda-biobased-color.png" crc="4114159538" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="badge-usda-biobased-color_2x.png" crc="4220970004" seo="true" ref="index">
+    <file name="badge-usda-biobased-color_2x.png" crc="3893414383" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="badge-safer-choice.png" crc="3778358148" seo="true" ref="index">
+    <file name="badge-safer-choice.png" crc="4150416672" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="badge-safer-choice_2x.png" crc="4032420148" seo="true" ref="index">
+    <file name="badge-safer-choice_2x.png" crc="3858211799" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="icon-01.png" crc="4215656201" seo="true" ref="index">
@@ -213,45 +213,21 @@
     <file name="vegetable_2x.jpg" crc="51938172" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-07.png" crc="4263290600" seo="true" ref="index">
+    <file name="icon-07.png" crc="189750567" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-07_2x.png" crc="4213207778" seo="true" ref="index">
+    <file name="icon-07_2x.png" crc="3904510381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="three-packages.jpg" crc="126132358" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-bottom-instagram.png" crc="3899341451" seo="true" ref="index">
+    <file name="gmark.png" crc="3803813914" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="icon-bottom-instagram_2x.png" crc="74545715" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-bottom-facebook.png" crc="240613279" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-bottom-facebook_2x.png" crc="393868451" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-bottom-messanger.png" crc="143613062" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-bottom-messanger_2x.png" crc="3781489661" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-bottom-email.png" crc="3931153350" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="icon-bottom-email_2x.png" crc="3910953429" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gmark.png" crc="522066129" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="gmark_2x.png" crc="4242447975" seo="true" ref="index">
+    <file name="gmark_2x.png" crc="525823102" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3796035453" seo="true" mt="1653806859245" redirect="true"/>
+  <file name="index.html" crc="80596087" seo="true" mt="1670200199560" redirect="true"/>
 </manifest>
